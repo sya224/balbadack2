@@ -1,0 +1,488 @@
+ChIJoQYDN_5iezUR0WpSsfSqbyM,보우동물병원(Vow Animal Hospital),37.466951,126.821819,3.6,25,South Korea, 경기도, Bucheon-si, Sosa-gu, 옥길동 729-3
+ChIJ_Ziff-FiezURTj-huZyrRJ0,노엘동물병원,37.47308400000001,126.8087169,4.6,5,South Korea, 경기도, Bucheon-si, Sosa-gu, Beombak-dong, 32-6번지 KR 광림빌딩 2층
+ChIJO2TEiehiezURhojcTzu_NB0,늘기쁜동물병원,37.481681,126.8062109,0,0,3-14 Goean-dong, Sosa-gu, Bucheon-si, 경기도, South Korea
+ChIJ--dJcSdjezURzexljASybI4,햇살동물병원,37.4743484,126.7957399,0,0,184-6 Sosabon 3동, Sosa-gu, Bucheon-si, 경기도, South Korea
+ChIJqRaU9NhiezURyy0mpNGozKs,우리들동물병원,37.475649,126.7957595,3.4,7,160-29 Sosabon 3동, Sosa-gu, Bucheon-si, 경기도, South Korea
+ChIJt98BqhtiezURxraSfArbEzM,굿모닝동물병원,37.4774603,126.8603446,1,1,158-235 Gwangmyeong-dong, Gwangmyeong-si, 경기도, South Korea
+ChIJOWvdPqtjezURtOn38-Qsubw,24시비엔동물의료센터,37.4831003,126.8083961,4.2,21,111-46 Goean-dong, Sosa-gu, Bucheon-si, 경기도, South Korea
+ChIJYbELPrxjezURZT7_BYCswvY,고래 동물병원,37.43631329999999,126.8044972,3.6,14,South Korea, 경기도, Siheung-si, 은계 Beonnyeong길, 11 KR 고래 동물병원 은계프라자 2층
+ChIJxdJubAhiezURVG03tltb_QU,케이나인종합동물병원,37.4891254,126.8563725,4,1,403-143 Gaebong 3동, Guro-gu, Seoul, South Korea
+ChIJE-TM6hZiezURDR4pb9jrAQc,광명종합동물병원,37.47652,126.8532925,4,25,158-1428 Gwangmyeong 4동, Gwangmyeong-si, 경기도, South Korea
+ChIJN21y3chiezURfPOgXvAAegQ,로뎀종합동물병원,37.4922072,126.7906844,0,0,95-5 Wonmi 1동, Wonmi-gu, Bucheon-si, 경기도, South Korea
+ChIJ8-bjiXViezURMzWIehv4pH4,금강동물병원,37.4953189,126.8429292,3.3,4,48-1 Oryu 1동, Guro-gu, Seoul, South Korea
+ChIJM48Xvzd9ezURiVW2cft_LdI,길동물병원,37.5009281,126.7727692,0,0,1144-2 Jung-dong, Wonmi-gu, Bucheon-si, 경기도, South Korea
+ChIJvYOBlPCdfDURXPQmMMQfTsE,굿모닝동물병원,37.4966245,126.8561223,4,5,353-15 Gaebong-dong, Guro-gu, Seoul, South Korea
+ChIJLQzp_W9hezUReAY9Wa9UMYc,소하동물병원,37.4359934,126.8792328,0,0,920-5 Soha 2동, Gwangmyeong-si, 경기도, South Korea
+ChIJE1NhGQhiezURd2ill5ZmchU,개명동물병원,37.4901215,126.8562867,4,6,403-141 Gaebong 2동, Guro-gu, Seoul, South Korea
+ChIJt98BqhtiezURgOSSLXKsXk8,참좋은동물병원,37.4774603,126.8603446,4.5,4,923 Ori-ro, Gwangmyeong-dong, Gwangmyeong-si, 경기도, South Korea
+ChIJdTDWZ2tjezURWlCQZieOsvw,광명24아이디동물의료센터,37.476062,126.8659522,0,0,259 Cheolsan-dong, Gwangmyeong-si, 경기도, South Korea
+ChIJKWIba-GffDURjVPBvfA_h3A,DS 동물병원,37.4802977,126.9040756,0,0,3, Jowonjungang-ro, Gwanak-gu, Seoul, Seoul, South Korea
+ChIJhc1YBL1hezURSuiepvBRBCQ,진동물병원,37.45176319999999,126.8918427,3,1,541-8 Geumha-ro, Soha-dong, Gwangmyeong-si, 경기도, South Korea
+ChIJ32d9m9hhezURtL1yL4dCJ0c,앨리스동물병원,37.4469968,126.8834699,5,2,South Korea, 경기도, Gwangmyeong-si, Soha-dong, Soha-ro, 88 201호
+ChIJ3yVt9RmefDUR1SITnqLJOIo,푸른동물병원,37.4885427,126.8842864,3,2,722-4 Guro 2동, Guro-gu, Seoul, South Korea
+ChIJbUtooyeefDURVcQDrgrXefs,글로리동물병원,37.4767045,126.8982445,4.8,20,483 Siheung-daero, Doksan 1동, Geumcheon-gu, Seoul, South Korea
+ChIJDy21Ls5hezURZdPLluwww2Q,금천동물병원,37.4638794,126.9034519,5,2,378-397 Doksan-dong, Geumcheon-gu, Seoul, South Korea
+ChIJjVzlMimefDURmkvux4HWSjg,우리동물병원,37.4778499,126.9038681,2,2,961 Doksan-dong, Geumcheon-gu, Seoul, South Korea
+ChIJRRa89y6efDURfGoBOXCMsHw,DS 동물병원,37.4801274,126.9038403,5,3,1668-15 Sillim-dong, Gwanak-gu, Seoul, South Korea
+ChIJCylY8bdhezURbEzWDfcGQ5M,시흥가축병원,37.4550471,126.9007302,4.5,2,882-54 Siheung-dong, Geumcheon-gu, Seoul, South Korea
+ChIJ0wt9_tZhezURJnYvSCnHKgU,그린동물병원,37.4709341,126.9032017,3,1,193-31 Doksan 4동, Geumcheon-gu, Seoul, South Korea
+ChIJESPNCLhhezURrAphgMoE278,금천24시K동물의료센터,37.456214,126.8996427,4.3,33,999-1 Siheung-dong, Geumcheon-gu, Seoul, South Korea
+ChIJOZp0ioxhezUREZF4hU88stc,더조은동물의료센터,37.449426,126.9029397,4.9,9,South Korea, Seoul, Geumcheon-gu, Siheung-daero, 172
+ChIJexBi3LVhezURfgd2IBFZ2lM,제일종합동물병원,37.4525197,126.9062297,3.7,13,837-37 Siheung 4동, Geumcheon-gu, Seoul, South Korea
+ChIJozhRzsdhezUR-caYKvFg1RA,파랑새동물병원,37.4582411,126.8995358,4.7,7,1077-31 Doksan 2동, Geumcheon-gu, Seoul, South Korea
+ChIJq5guXtGffDUR-VUu1sJLUvA,늘푸른동물병원,37.4743783,126.9166726,4.6,5,727-21 Sillim-dong, Gwanak-gu, Seoul, South Korea
+ChIJEahDisiffDURYVbGLzIufto,Beleullin,37.4832446,126.9207351,0,0,1531 Nambusunhwan-ro, Sillim-dong, Gwanak-gu, Seoul, South Korea
+ChIJ4ddI3ihgezURs--ltTQLVYA,난향동물병원,37.4640876,126.9193699,3,2,666-30 Nanhyang-dong, Gwanak-gu, Seoul, South Korea
+ChIJq6qqquuffDUROJf1BWP8UlQ,정우동물병원,37.471702,126.9345244,0,0,138 Sillim-ro, Sillim-dong, Gwanak-gu, Seoul, South Korea
+ChIJ4TP058GffDURC3_3cCGo0VQ,한성동물병원,37.4782212,126.9318251,4,21,South Korea, Seoul, Gwanak-gu, Sillim-dong, 409-165
+ChIJ4UUxyimgfDURIHTH4bqdS68,프렌즈동물병원,37.4847944,126.9551407,5,1,34-51 Bongcheon-dong, Gwanak-gu, Seoul, South Korea
+ChIJp5TB_BShfDURbuqxgBD54h0,로잔동물의료센터,37.48636430000001,126.9564585,4.3,19,3 Gwanak-ro 29길, Bongcheon-dong, Gwanak-gu, Seoul, South Korea
+ChIJHWTZMeKhfDURz7yO9H6xVZQ,24시 굿케어동물의료센터,37.4799586,126.9568599,3.7,16,1861 Nambusunhwan-ro, Haengun-dong, Gwanak-gu, Seoul, South Korea
+ChIJDR_erSegfDURQJZ7WhhoaL0,관악동물종합병원,37.4801005,126.9564741,4.5,16,1665-4 Bongcheon-dong, Gwanak-gu, Seoul, South Korea
+ChIJyfEqYTOgfDUR8ZllarePQak,나을동물병원,37.4849635,126.9698984,2.8,4,248-11 Sadang 5(o)-dong, Dongjak-gu, Seoul, South Korea
+ChIJBWJOo6iffDUR9sLoSOx5xf0,치과·심장 전문 이로동물병원,37.484221,126.9368797,4.6,16,1678 Nambusunhwan-ro, Sillim-dong, Gwanak-gu, Seoul, South Korea
+ChIJ3_44PDOgfDURGYOqyISZO94,원동물병원,37.4858501,126.9685283,4.7,28,224-24 Sadang-dong, Dongjak-gu, Seoul, South Korea
+ChIJO0vK6bShfDURBgP2Qb3vMJQ,나라동물병원,37.4841788,126.9791271,3,1,1003-27 Sadang-dong, Dongjak-gu, Seoul, South Korea
+ChIJcXsVGTWgfDURcEZ36uqud9A,모범동물병원,37.483656,126.9733334,3,1,265-12 Sadang 3동, Dongjak-gu, Seoul, South Korea
+ChIJ4ZSBNEigfDURzRh2lFdRDMY,사당동물병원,37.4767958,126.9766389,4.7,3,1047-44 Sadang 1동, Dongjak-gu, Seoul, South Korea
+ChIJzflVikygfDURVMU0GQm8Me8,성민동물병원,37.4796343,126.9821794,2.8,5,442-3 Bangbae-dong, Seocho-gu, Seoul, South Korea
+ChIJb239ikygfDURujNFfembfDA,VIP동물의료센터,37.4796343,126.9821794,4.1,14,36 Dongjak-daero, Bangbae 2동, Seocho-gu, Seoul, South Korea
+ChIJ1_7h-rShfDURsBFFqlErGXQ,굿파파24시반려동물건강검진센터,37.4847105,126.9795675,4.6,7,287 Sadang-ro, Sadang-dong, Dongjak-gu, Seoul, South Korea
+ChIJIbI84eehfDUR4FPKMaRbCvs,흑석애니피스동물병원,37.5076529,126.9645836,0,0,8-32 Heukseok-dong, Dongjak-gu, Seoul, South Korea
+ChIJ48EFMqihfDURUg_oN5F4MW8,남서울동물병원,37.483823,126.9963867,0,0,907-5 Bangbae 1동, Seocho-gu, Seoul, South Korea
+ChIJYd8HCAGhfDUR_4kSRMwM-bU,여울동물병원,37.4775056,127.0004457,5,2,1024-4 Bangbae 3동, Seocho-gu, Seoul, South Korea
+ChIJcT1MRqqhfDURF3ffFovUNIU,반려동물의료센터다울,37.4803512,126.9951647,4,14,981-52 Bangbae 3동, Seocho-gu, Seoul, South Korea
+ChIJY9yx86OhfDURkJIZ3CWj9l0,방배종합동물병원,37.4930162,126.990637,0,0,796-28 Bangbae-dong, Seocho-gu, Seoul, South Korea
+ChIJPSx4jg-hfDURVJseQB94wQE,Daniel Animal Hospital,37.48297,127.006237,4.1,7,1487-1 Seocho-dong, Seocho-gu, Seoul, South Korea
+ChIJm4ZTChWhfDUR3Q1lMga7boU,서초동물병원,37.4854065,127.0170236,3,3,1603-66 Seocho 1동, Seocho-gu, Seoul, South Korea
+ChIJYZWYbwuhfDURG7JdBfJ6CBE,햇살아래동물병원,37.4639501,127.024917,4.2,10,725 Umyeon-dong, Seocho-gu, Seoul, South Korea
+ChIJd-AYddmgfDUR6akbw-b-Rdc,서초 힐스 동물병원,37.46214,127.026473,4.3,26,Yangjae 1동, Seocho-gu, Seoul, South Korea
+ChIJw36g6U6hfDUR5kOwAgdgFus,24시양재동물병원,37.4877676,127.0328831,0,0,949-2 Dogok-dong, 강남구, Seoul, South Korea
+ChIJA385ecijfDURI5FKKP4JFl0,Sky Animal Medical Center,37.5195996,127.0273496,4,1,3-8 도산대로 25길, 신사동, 강남구, Seoul, South Korea
+ChIJR8nUwMmmfDURHAE0dJKYJZI,구룡동물병원,37.4756305,127.0470765,2.5,2,1228-2 Gaepo-dong, 강남구, Seoul, South Korea
+ChIJSc8zL3unfDURG17M1WAcNp0,동물병원,37.4788846,127.0472382,0,0,223 Gaepo-ro, Gaepo 4동, 강남구, Seoul, South Korea
+ChIJn-YxoJChfDURZCokRyQk4LU,도그스데이,37.4701531,127.039942,0,0,23-13 Gangnam-daero 12길, Yangjae 2동, Seocho-gu, Seoul, South Korea
+ChIJnST0rhmkfDURB99M7HrNEjs,Daechi Animal Medical Center,37.4983462,127.0583789,0,0,439, Dogok-ro, 강남구, Seoul, South Korea
+ChIJa2GCWLamfDURLCY-L_Tbmpw,포이동물병원,37.4789079,127.0472153,5,3,1258-1 Gaepo-dong, 강남구, Seoul, South Korea
+ChIJRd3m4rmmfDURW2j95AQrk3g,자연동물병원,37.4792134,127.0509093,3.7,3,1211 Gaepo-dong, 강남구, Seoul, South Korea
+ChIJOxoLHrWmfDURqWvinJsrStY,에이블동물병원,37.4808558,127.0416985,4.8,29,211 송지 빌딩 1 층, Baumoe-ro, Seocho-gu, Seoul, South Korea
+ChIJM3mRr86mfDURHKeKo3OAJkI,한동물병원,37.4719087,127.0459656,3.9,7,377-4 Yangjae 2동, Seocho-gu, Seoul, South Korea
+ChIJISAEFLemfDUR6BE20sTQNl0,나은동물병원,37.47910299999999,127.049117,4.2,6,South Korea, Seoul, 강남구, 흥진빌딩101호
+ChIJWcnlzkShfDUR_NVYIMSe9uo,서이동물병원,37.4932668,127.0256892,1,1,1332-1 Seocho-dong, Seocho-gu, Seoul, South Korea
+ChIJxeqvbsimfDURLll7mWz3vA0,한동물병원,37.4741863,127.0497985,5,1,1187-1 Gaepo-dong, 강남구, Seoul, South Korea
+ChIJ2Ro6B7KmfDURKbW6Z3NsxB0,우리집동물병원,37.4864625,127.0452152,4.3,3,180-31 Dogok-dong, 강남구, Seoul, South Korea
+ChIJZ71T0puhfDUR58zdwJ0u-6s,서초이음동물병원,37.4868229,127.0221044,5,1,347 Hyoryeong-ro, Seocho-dong, Seocho-gu, Seoul, South Korea
+ChIJg8IMgWqhfDUR-bxXFWudL6c,M Animal Medical Center,37.48921,127.0183656,3.7,11,South Korea, Seoul, Seocho-gu, Seocho 1동, 1628-11 1 층
+ChIJw4L_4BukfDURykjKeXmZ2qo,Hansarang Animal Hospital,37.4975169,127.0559639,4,1,938-18 대치동, 강남구, Seoul, South Korea
+ChIJZ0cQkUGhfDURHkW5UNjGgXE,강남서초동물병원,37.49026070000001,127.0203404,5,4,97 Saimdang-ro, Seocho 1동, Seocho-gu, Seoul, South Korea
+ChIJ_6W4FZxfezURcqOmGCdBQYQ,과천동물병원,37.4279964,126.9929164,3,2,1-11 Byeoryang-dong, Gwacheon-si, 경기도, South Korea
+ChIJ338P4lOhfDURNn7viu55d74,하나카 동물병원,37.4942669,127.0346883,4,2,834-45 Yeoksam-dong, 강남구, Seoul, South Korea
+ChIJM3F-yXuhfDURfZRLYE90Epc,쿨펫동물병원,37.504404,127.0041354,0,0,19-3 Banpo 4동, Seocho-gu, Seoul, South Korea
+ChIJBYvYHCekfDURPy4J0GXRSjs,개포동물병원,37.4893514,127.068824,3.8,8,186-17 Gaepo-dong, 강남구, Seoul, South Korea
+ChIJZzFW1IGmfDUR2huwuriRfs8,수정동물병원,37.482905,127.080106,4,2,Gwangpyeong-ro 9길, Irwonbon-dong, 강남구, Seoul, South Korea
+ChIJt7p7DgKkfDURcrs6IyC5ODw,도곡 종합 동물병원,37.495879,127.046228,3,1,Yeoksam 2동, 강남구, Seoul, South Korea
+ChIJvwG5MHalfDURM5PaZRsX4w0,송파원동물병원 SONGPAWON ANIMAL HOSPITAL,37.5092061,127.1118818,2.3,3,South Korea, 백제고분로 432 2F 송파구 서울특별시 KR
+ChIJh1ayE0iifDURQnAmU2X6vjU,이태원동물병원 Itaewon Animal Hospital,37.5363658,126.9871919,4.6,11,531번지 Itaewon-dong, 용산구, Seoul, South Korea
+ChIJQUA-wLOlfDURPpliXWelQSk,광동한방동물병원,37.5048153,127.0870681,3,1,250-13 Jamsil-dong, 송파구, Seoul, South Korea
+ChIJL_DBBqimfDURp-7VOpU-Mhg,고려종합동물병원,37.4953782,127.0527143,4.1,20,527 Dogok-dong, 강남구, Seoul, South Korea
+ChIJzcYLfAShfDURNf1hO5sCxpg,봄동물병원,37.4901954,127.0329759,5,1,115 Dogok-ro, Yeoksam-dong, 강남구, Seoul, South Korea
+ChIJuwHSru2lfDUR8T0A5tniHzs,헬릭스동물메디컬센터(송파분원),37.5037457,127.0878762,5,1,56 Samjeon-ro, Samjeon-dong, 송파구, Seoul, South Korea
+ChIJAZGbZLGlfDURCyiz8BPvKJo,서울동물의료원,37.5046555,127.0886827,0,0,7-6 Samjeon-dong, 송파구, Seoul, South Korea
+ChIJt_FDHKqmfDURAE2ywjHf-YU,오래오래동물병원,37.4950455,127.0451681,3.7,7,784 Yeoksam-dong, 강남구, Seoul, South Korea
+ChIJv06LeiqlfDURU26BU0fKh8c,히포사이언스,37.4842142,127.1184375,0,0,South Korea, KR 서울특별시 송파구 법원로11길 25 H비즈니스파크 A동 1413호
+ChIJ21KOvfalfDURLd4muJiX17Q,Tall animal hospital,37.480926,127.121805,3.5,28,South Korea, Seoul, 송파구, 620 송파 푸르지오시티 110호
+ChIJfR7v7OOjfDUR3SN6RDuB_aE,고양이병원 백산동물병원,37.4999946,127.0393429,3.8,83,725-15 Yeoksam-dong, 강남구, Seoul, South Korea
+ChIJNZ3Ig2KvfDURq3ZzFXDcSOk,봄빛동물병원,37.4920355,127.1260051,2.8,5,125-8 Garak-dong, 송파구, Seoul, South Korea
+ChIJMaacx1-vfDUR8CCnMdS2fM4,송파 바로 동물병원,37.48302870000001,127.1277222,3.7,17,서울시 송파구 문정동 85 어은 회관 102 호 새말 로 125), Saemal-ro, 송파구, Seoul, South Korea
+ChIJTbsqkGGvfDURK6FFUr_Zmd8,하군이네동물병원,37.4881849,127.1277058,4.3,3,19 Songi-ro 32길, Munjeong 1동, 송파구, Seoul, South Korea
+ChIJ3YwCpXuvfDURxCX9qVNcVSo,영국동물병원,37.4941853,127.1330676,3.9,15,190-6 Garak-dong, 송파구, Seoul, South Korea
+ChIJE7lfaXSvfDURHctrQvK5zXo,가람동물병원,37.4931023,127.1436221,4,1,562-2 Geoyeo 1동, 송파구, Seoul, South Korea
+ChIJK-WNqJ2ofDUR0Im30ibK6M0,스칸디동물병원,37.4707719,127.1416006,5,1,South Korea, 경기도, Seongnam-si, Sujeong-gu, Bokjeong-dong, 위례광장로 70
+ChIJG2-n-7OlfDURfII6IFei7rY,(주)피스에스월드,37.5037457,127.0878762,0,0,South Korea, 삼전동 28-2번지 청목빌딩 송파구 서울특별시 KR
+ChIJeXczS5WofDURdYbnvH3mBSw,조은동물병원,37.43910899999999,127.14729,4.3,8,3066 Jungang-dong, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJe8T84lavfDURR5I8NBfdfsQ,위례24시동물의료센터,37.4669249,127.1495165,5,1,South Korea, 경기도, Seongnam-si, Sujeong-gu, 위례광장로 104 2층 2241,2242호
+ChIJS_bPhZ-vfDURA67wr4bFY9Y,첼린져동물병원,37.4974074,127.1469272,3,2,183-11 Geoyeo-dong, 송파구, Seoul, South Korea
+ChIJZ8_9Ld2ofDURbPP3t2TBpGI,한국동물의료원,37.437776,127.1583445,3.7,9,2999-16 Sangdaewon 2동, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJvWAVSsWofDURrM9Hof0jzck,(주)서울동물병원,37.4443863,127.1577888,3.3,15,7 Geumgwang-dong, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJAcD30taofDURi27MesH4BUM,강남동물병원,37.4461362,127.1635382,3.6,5,3661 Geumgwang 2동, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJXQh5cyyvfDURo5PhuMX5nA8,25시동물병원,37.4560239,127.1629546,4.2,47,1589 Eunhaeng 2동, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJ_fRKb3SvfDUR1zRkr1UK1OU,노아동물병원,37.4929357,127.1438721,2.5,2,562-4 Geoyeo-dong, 송파구, Seoul, South Korea
+ChIJ9fG-B3OvfDURb6hjl_BAI6A,마루동물병원,37.4899558,127.1447166,5,10,13 Yangsan-ro 4길, Geoyeo 2동, 송파구, Seoul, South Korea
+ChIJGYwJn5-vfDURZZ32liqyJ8Q,오주동물병원,37.4980462,127.1460662,4,9,133-77 Geoyeo-dong, 송파구, Seoul, South Korea
+ChIJK1ZIJ3aofDUR33c0xz-P9Cg,분당밝은아이동물병원,37.4170233,127.1259326,5,8,312 Yeosu-dong, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJW24JZ3WofDURChrmd4Ct1gU,탑동물병원,37.4120286,127.1263483,4,1,352-1 Yatap 1동, Bundang-gu, Seongnam-si, 경기도, South Korea
+ChIJ-1Ah21aofDURxpgs1kN4BDE,도촌동물병원,37.414223,127.1432355,4.5,4,568 Dochon-dong, Jungwon-gu, Seongnam-si, 경기도, South Korea
+ChIJ5Z0fe5uvfDURHMdTlk-o4bQ,김민재동물병원,37.5036287,127.1386779,3,4,120-7 Ogeum-dong, 송파구, Seoul, South Korea
+ChIJWU5PXIarfDURcggbK4-D0k4,송정동물의료센터,37.4190573,127.2460991,5,5,140 Tanbeol-dong, Gwangju-si, 경기도, South Korea
+ChIJyWYwsX6rfDUR7IQW7NxXLNQ,바른동물병원,37.413449,127.2587918,3.6,7,South Korea, 경기도, Gwangju-si, Pabal-ro, 107 KR
+ChIJgYWrwOadfDURbAEVZbG2-B4,해피동물병원,37.5036111,126.8616667,4.1,8,South Korea, Seoul, Guro-gu, Gocheok-dong, 50-95
+ChIJRxDBZLyffDURPhcFv3nLZos,보라매동물병원,37.4895711,126.9279766,2.7,3,971-3 Boramae-dong, Gwanak-gu, Seoul, South Korea
+ChIJOVwq83SffDUROs5GSu1kaK4,예일동물병원,37.4893981,126.9271717,0,0,South Korea, Seoul, Gwanak-gu, Sillim-dong, 1429-3 2층
+ChIJT5Ots7SffDURPTnJyAsmJ-I,라이프동물병원,37.5054573,126.9146573,5,1,4945 Singil-dong, 영등포구, Seoul, South Korea
+ChIJORoNQkuefDURmIWg9clRd-o,유석동물병원,37.4934314,126.9098116,4.4,20,4824 Singil 6(yuk)-dong, 영등포구, Seoul, South Korea
+ChIJdWaDXQuhfDUR3jUYsEi8vxs,서초 동물사랑센터,37.4763321,127.0381241,0,0,22 Yangjaecheon-ro 19길, Yangjae 1동, Seocho-gu, Seoul, South Korea
+ChIJLesnzfSdfDURaqGEPM_AVsU,오류동물병원,37.497041,126.8465954,4.3,6,33-40 Oryu 1동, Guro-gu, Seoul, South Korea
+ChIJJdeBVwmefDURwY_dB8EdBzw,쿨펫동물병원,37.498252,126.872799,0,0,South Korea, Seoul, 서울시 구로구 구로동 롯데마트 구로점 3층
+ChIJKV8-DjSffDURKFhuHyJTor0,Keuleuleu,37.4861862,126.9169103,0,0,501-7 Sillim-dong, Gwanak-gu, Seoul, South Korea
+ChIJHYmslNaffDURGFTcWJsaPV0,(주)라라동물의료원,37.4893062,126.8916581,4,32,72 Dorim-ro, Guro-dong, Guro-gu, Seoul, South Korea
+ChIJ26UDsBqkfDUR2Sp-DAVXkcM,SMART동물병원,37.5021871,127.0514084,5,1,South Korea, 대치동 899-12번지 강남구 서울특별시 KR
+ChIJVVVVVRqkfDURpkF17mMd2Gc,서울동물병원,37.5012744,127.0536039,4.6,9,426 Yeoksam-ro, Daechi 4동, 강남구, Seoul, South Korea
+ChIJASLE-w6kfDURJgDlXgqr0U8,선릉동물병원,37.5068489,127.0476866,5,2,140-1 Samseong-dong, 강남구, Seoul, South Korea
+ChIJ94VxBLulfDURfBWE_dHC86w,삼전동물병원,37.5027947,127.0967653,2.7,15,133-17 Samjeon-dong, 송파구, Seoul, South Korea
+ChIJA03LRaKlfDURF1zZ_Q5sjy4,닥터캣 고양이병원,37.5026796,127.0990332,4.6,29,15 Seokchon-dong, 송파구, Seoul, South Korea
+ChIJ4w9yNJqlfDURo3-_BwjU404,Songpa Animal Hospital,37.5015124,127.1109742,4.1,12,Songpa-dong, 송파구, Seoul, South Korea
+ChIJLS0ZSZ-lfDURIE5ZR0HeuqU,닥터제이동물병원,37.5065167,127.1055143,0,0,184-8 Seokchon-dong, 송파구, Seoul, South Korea
+ChIJMzURyvOvfDURWTUzG6im42s,페토피아동물병원,37.5224041,127.1336223,0,0,449-13 Seongnae-dong, 강동구, Seoul, South Korea
+ChIJnyBZRDR9ezUR2Iag9EOrJBs,늘푸른동물병원,37.4970708,126.7784052,0,0,150 Sinheung-ro, Jung 2동, Bucheon-si, 경기도, South Korea
+ChIJ91kQdQiffDURm9dSr5R2xo8,한국동물병원,37.5049302,126.9220045,5,2,829-1 Singil-dong, 영등포구, Seoul, South Korea
+ChIJS_1CzaShfDURUovusNLEnzo,수동물병원,37.4924329,126.9864152,5,2,790-27 Bangbae-dong, Seocho-gu, Seoul, South Korea
+ChIJs29IyvOvfDURSsN-mU1F2xY,방주동물의료센터,37.5224484,127.1336562,4.3,3,449-13 Seongnae-dong, 강동구, Seoul, South Korea
+ChIJC8ui4oaxfDURGDVD0TSbSDo,건국동물병원,37.540431,127.2088922,0,0,406-2 Sinjang-dong, 하남시, 경기도, South Korea
+ChIJ22vsr5qxfDURQRE4ezeg0Gc,햇살동물병원,37.54114,127.2002884,0,0,383-10 Deokpung-dong, 하남시, 경기도, South Korea
+ChIJfepGpXmefDURmSf7UIRL1j8,페토브동물병원,37.5145134,126.8715105,0,0,329-5 Sinjeong 6(yuk)-dong, 양천구, Seoul, South Korea
+ChIJc4Mzdk2efDURZUkK7QlarNQ,Sinpung,37.49864480000001,126.9086027,3.9,30,70 Singil-ro, Singil 6(yuk)-dong, 영등포구, Seoul, South Korea
+ChIJS0BP86iffDURYFmXrm85kXk,대방동물병원,37.5015695,126.920477,4.5,31,628 Singil 6(yuk)-dong, 영등포구, Seoul, South Korea
+ChIJOdVP6wekfDURuCqFDwrG0Dc,역삼동물병원,37.50541339999999,127.0410825,0,0,527 Eonju-ro, Yeoksam-dong, 강남구, Seoul, South Korea
+ChIJkUi3b4OlfDURXoWzF3_2LE8,송이동물병원,37.5024896,127.1172078,4.2,5,164-7 Songpa 2동, 송파구, Seoul, South Korea
+ChIJK4Ri3HulfDURb0YE9RP9hTo,라임동물병원,37.5108776,127.1188738,5,1,South Korea, 방이동 135-1번지 1층 송파구 서울특별시 KR
+ChIJT5ld45qxfDURCDuoCiVIN7A,하남숲동물병원,37.5431091,127.1989443,4.6,11,340-28 Deokpung 2동, 하남시, 경기도, South Korea
+ChIJhZRbe2uefDURtcMMxO7RHtY,벨라동물병원,37.500534,126.88458,4.4,13,South Korea, Seoul, Guro-gu, Guro 5(o)-dong, 501-12
+ChIJ1W6vWmuefDUReuV2UvkK9AA,지구촌동물종합병원,37.4992561,126.8848661,4.3,129,519-4 Guro 5(o)-dong, Guro-gu, Seoul, South Korea
+ChIJk84eGnCffDURPhVJfJXiYmA,유케어 종합동물병원,37.5050587,126.942391,2.7,9,214 Sang-doro, Sangdo 2동, Dongjak-gu, Seoul, South Korea
+ChIJP6K_3puhfDURmCwM3LMOI7M,한강동물병원,37.5022173,126.9905098,0,0,1166 Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJ55jvvo2lfDUR1d0Qt_ciMKQ,스마트동물병원 대치선릉지점,37.5022236,127.0503311,4,1,898 대치동, 강남구, Seoul, South Korea
+ChIJtYf4nZylfDURvlNWEAu1L44,한양종합동물병원,37.50323940000001,127.1134581,4.3,9,103-29 Songpa-dong, 송파구, Seoul, South Korea
+ChIJaR1LRnilfDUReX2YaCLXNsQ,페토피아동물병원,37.5082944,127.1166521,4,22,203 Ogeum-ro, Bangi-dong, 송파구, Seoul, South Korea
+ChIJaVYdsXelfDURX_W33tftdTc,강남종합동물병원,37.509572,127.112958,5,1,135-8 Songpa 1동, 송파구, Seoul, South Korea
+ChIJfWaPx6-lfDURagnMrOkVW_c,Skin and ear Animal Hospital,37.5084916,127.1045508,4.1,11,474 Songpa-daero, Songpa 1동, 송파구, Seoul, South Korea
+ChIJC-3VRnilfDURr3y8VOT772w,24시페토피아동물병원,37.5081198,127.1166158,4.8,6,124-8 Bangi-dong, 송파구, Seoul, South Korea
+ChIJW4oApZmhfDURuyH0-R3OWp4,서래동물병원,37.4983071,126.9984609,5,1,91-10 Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJQYtiRh6wfDURTd-BL6AoRbk,길종합동물병원,37.5343473,127.1442598,0,0,50-2 Dunchon-dong, 강동구, Seoul, South Korea
+ChIJpeKjA4-xfDURu-ivHJLgKqE,하남동물병원,37.5371424,127.2040914,4.1,25,420-35 Deokpung-dong, 하남시, 경기도, South Korea
+ChIJA8NI_96dfDURmgQJvYKcsS0,참사랑동물병원,37.5081788,126.8650655,4.8,9,337-7 Sinjeong 7(chil)-dong, 양천구, Seoul, South Korea
+ChIJ18UhJHSffDUR3BM7g41viFo,다나은동물병원,37.50589009999999,126.8772398,0,0,South Korea, Seoul, Guro-gu, Sindorim-dong, Sindorim-ro, 7 1층
+ChIJPTOYrKqffDURci2IXaju19o,우신동물병원,37.50711570000001,126.9111947,3.8,19,232-15 Singil 4동, 영등포구, Seoul, South Korea
+ChIJ6_NfCuehfDURZIC46ahujAA,중앙동물병원,37.5089305,126.9620283,3,1,162-3 Heukseok-dong, Dongjak-gu, Seoul, South Korea
+ChIJYwsXDZ6hfDURYtIhxhLpPr4,이을반려동물케어센터,37.4990946,126.9971831,4.9,11,106-13 Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJ41irpHmhfDURkvuwhMzb9p4,동물병원두리,37.5044228,127.0002664,5,1,South Korea, KR 서울특별시 서초구 18-3 래미안퍼스티지중심상가 147호
+ChIJA3WVIfqjfDUR7Z_csl6B4NE,강남동물병원,37.507793,127.0344379,4.6,19,205 Bongeunsa-ro, Nonhyeon 2동, 강남구, Seoul, South Korea
+ChIJWSjkb_qjfDUR-cbc41fWdCo,충현동물병원,37.5089873,127.0327714,4.4,60,191-12 논현동, 강남구, Seoul, South Korea
+ChIJUwH5mL2lfDURrc-AXYfUFGo,엄마손동물병원,37.4996008,127.1031537,0,0,252-2 Seokchon-dong, 송파구, Seoul, South Korea
+ChIJSU4b9FilfDURWbgduXtADLY,가람동물병원,37.5290014,127.1242079,4,4,South Korea, Seoul, 강동구, Seongnae-dong, 550-2
+ChIJg7eoRrKdfDURsTAPamiRzYM,다정동물병원,37.5310922,126.837512,0,0,116-14 Sinwol 1동, 양천구, Seoul, South Korea
+ChIJs5tkqMWdfDUR7vjwnmNWlJ8,바우동물병원,37.5171498,126.8545663,3.8,4,South Korea, Seoul, 양천구, Sinjeong 1동, 1052-3
+ChIJB_PxAgyffDURwTVgEH1FQ28,캣앤캣 고양이병원(Cat and Cat Feline Clinic),37.5204501,126.8897929,5,3,76 Seonyu-ro, Mullae-dong, 영등포구, Seoul, South Korea
+ChIJ-w1hB4yefDURnzEc1ZYGTGk,애드펫동물병원,37.521622,126.8848688,4.7,3,1-1 Yangpyeongdong 2가, 영등포구, Seoul, South Korea
+ChIJq6qqqqeffDURCC1gh4Jtnjw,Phoenix Animal Hospital,37.4999695,126.9254434,3.8,16,43 Sang-doro, Daebang-dong, Dongjak-gu, Seoul, South Korea
+ChIJCdnB4s-ffDURS8wx6KuiqxE,다정다감 동물병원,37.5058239,126.9468886,0,0,South Korea, Seoul, Dongjak-gu, Sangdo-dong, 22-1 1층 102호
+ChIJjWUXfGShfDURtIRWREXtQqI,신반포동물병원,37.5033209,127.0108015,4.4,5,56-1 Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJ78twmbGlfDUR4YMoErC7YUY,25시동물병원,37.5055165,127.0894048,3.7,34,5-3 Samjeon-dong, 송파구, Seoul, South Korea
+ChIJ56gBXYKlfDURAwqFNjn1V_c,웰니스 동물병원,37.5112348,127.0980274,0,0,240 Olympic-ro, Jamsil-dong, 송파구, Seoul, South Korea
+ChIJy0J1fXmhfDURyBllWMb87Ng,헬릭스동물메디컬센터,37.5049151,127.0023743,3.9,37,19-1 Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJoUj1-_yjfDURaPJLnYDx9ZI,Anajo,37.5033759,127.0315658,0,0,Yeoksam-dong, 강남구, Seoul, South Korea
+ChIJL3Gw6gmkfDUROqLm0oYFIf0,(주)중앙동물메디컬센터,37.5098484,127.0414372,4.3,28,277-21 논현동, 강남구, Seoul, South Korea
+ChIJaRmkJv2vfDURiWnrfdn4HLE,내품에동물병원,37.534564,127.135634,4.3,31,Seongnae 3동, 강동구, Seoul, South Korea
+ChIJn6XDIx6wfDURlhRz29RL8-I,김태화동물병원,37.5340847,127.1435566,4,5,53-1 Dunchon-dong, 강동구, Seoul, South Korea
+ChIJM9T8Eaq6fDURrV_Hb9otHXU,쥬라기동물병원,37.5442346,127.125178,4.2,22,333-38 천호동, 강동구, Seoul, South Korea
+ChIJYcEUIBqwfDURzoSRxzds-CU,강동동물병원,37.5423463,127.1419265,4.5,4,336-4 Gil-dong, 강동구, Seoul, South Korea
+ChIJxcfvaOOvfDURMV2wU7ooo8o,서울동물메디컬센터,37.5317642,127.1381216,4.6,117,486-7 Dunchon-dong, 강동구, Seoul, South Korea
+ChIJGbPW1cidfDURowz-eciE_k8,서부동물병원,37.52212129999999,126.851622,2,3,South Korea, Seoul, 양천구, Sinwol-dong, 502-5
+ChIJlT8bntGdfDUR8JFUbueVI9Y,해성동물병원,37.5206216,126.8599823,5,1,1020-17 Sinjeong 1동, 양천구, Seoul, South Korea
+ChIJhzXy72GhfDUROAFgZY4jOcQ,반포자이동물병원,37.5065936,127.0139319,4.5,2,Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJ0Snr5VmlfDUR-8Pn21RDgT0,닥터표 동물병원,37.5320632,127.1214215,4.8,14,322-7 Seongnae-dong, 강동구, Seoul, South Korea
+ChIJcVJp71mlfDURilJyTXISglE,박형우동물병원,37.5315365,127.1212494,4.1,20,321-1 Seongnae-dong, 강동구, Seoul, South Korea
+ChIJ76zhu8WdfDURwYrllrsPzms,서울탑동물병원,37.5176998,126.853628,3.3,11,South Korea, Seoul, 양천구, Sinjeong 3동, 1182-11
+ChIJG5SV_9adfDUR2Nkr8tfYdWQ,공원옆동물병원,37.5173729,126.8653092,4.6,16,321-6 Sinjeong-dong, 양천구, Seoul, South Korea
+ChIJ7Z5TD2mffDUR2fri7O2FLlo,디아크동물종합병원,37.5117369,126.9391006,3.3,7,246-1 Noryangjin 2동, Dongjak-gu, Seoul, South Korea
+ChIJ7TEC4kuffDURQzva_o-F1qY,시유동물메디컬센터,37.5199656,126.9698589,4.2,13,24 Ichon-ro 64길, Ichon-dong, 용산구, Seoul, South Korea
+ChIJvQB8MuGjfDURPUV8IvddFW8,라파엘종합동물병원,37.5087927,127.0219391,4.5,16,722-29 Banpo-dong, Seocho-gu, Seoul, South Korea
+ChIJLepn1OWjfDURfhcRdn28P-M,그레이스,37.5105703,127.0242166,5,7,122-20 논현동, 강남구, Seoul, South Korea
+ChIJM9c3WEqhfDURWvSKSY7J9mc,아크리스동물병원,37.5137302,127.0619008,4.2,52,160-21 Samseong-dong, 강남구, Seoul, South Korea
+ChIJnYUbPhSwfDUR2k1Ro1v1YF4,안단테동물병원,37.5485366,127.143303,5,4,30-5 Cheonho 1동, 강동구, Seoul, South Korea
+ChIJK4kBPhSwfDURrVFhLLW7lZ0,안단테 동물병원,37.5485122,127.1432873,4.7,7,30-5 천호동, 강동구, Seoul, South Korea
+ChIJcZRkKP2vfDURwYjyjVTp0ww,강동24시SKY동물의료센터,37.53429879999999,127.1359586,3.9,9,1122 Cheonho-daero, Seongnae-dong, 강동구, Seoul, South Korea
+ChIJX_Yz8sixfDURkUGt4Y2-kKc,튼튼동물의료센터,37.561421,127.1933908,3.7,27,73 Gangbyeon-ro, 미사 하남시, 경기도, South Korea
+ChIJsTl8y0WwfDURg8zT5bzdOM8,해태동물병원,37.5534304,127.1546111,5,3,47-12 Myeongil 2동, 강동구, Seoul, South Korea
+ChIJMVC5wbmdfDUR_fm91KLS3s4,Yangcheon Animal Hospital,37.5222323,126.8426229,2.2,6,444-11 Sinwol 4동, 양천구, Seoul, South Korea
+ChIJv-7eRoeefDURh-kaR7txZGk,노아동물병원,37.5184063,126.8706612,4.5,10,6 Mokdongdong-ro 10길, Sinjeong-dong, 양천구, Seoul, South Korea
+ChIJIYYwXPuefDURDHKS-KcYNhI,LUV Pet,37.5171897,126.9022603,0,0,Yeongdeungpo-dong, 영등포구 SEOUL South Korea
+ChIJzSbgnSuffDURul4ZdpxnSDk,경인동물의료센터,37.5156938,126.9054517,4.5,16,832 Gyeongin-ro, Yeongdeungpobon-dong, 영등포구, Seoul, South Korea
+ChIJM-XdPqeffDURpRSh7rEWDrc,서울축산동물병원,37.5242855,126.9042255,0,0,64-48 Yeongdeungpodong 7(chil)-ga, 영등포구, Seoul, South Korea
+ChIJOR08RYeefDURVTuxErCylv8,리더스동물병원,37.5216218,126.8742309,3.8,4,117-37 Sinjeong 2동, 양천구, Seoul, South Korea
+ChIJpQ8Qx_KefDURjhm0RUNdBzg,영등포동물병원,37.5231775,126.8962565,3.8,5,348 Dangsandong 1(il)-ga, 영등포구, Seoul, South Korea
+ChIJnVOUwkCffDURYmALnPif2Js,Bridge Point Animal Hospital Yoido,37.5210634,126.9343933,5,1,417 Yeouidaebang-ro, Yeoeuido-dong, 영등포구, Seoul, South Korea
+ChIJ9bK78fShfDURjRoD29FPhwc,이촌종합동물병원,37.5188461,126.9734713,1,1,300-83 Ichon-dong, 용산구, Seoul, South Korea
+ChIJp3q7zvOjfDURs4whtjjt6kA,최영민동물의료센터,37.5151461,127.032368,4.3,4,24 Nonhyeon-ro 132길, Nonhyeon 2동, 강남구, Seoul, South Korea
+ChIJX6YWWxWwfDURsPkDtjVE6IA,피카소동물병원,37.5502065,127.1467313,5,2,289-15 명일동, 강동구, Seoul, South Korea
+ChIJE4bPZgGwfDURbm4Op0cVs80,현대종합동물병원,37.5416239,127.1308442,5,3,397-74 Cheonho 3동, 강동구, Seoul, South Korea
+ChIJpZkAExSxfDURCVLXXTjhHCQ,페테리안,37.5695912,127.1859791,5,2,South Korea, 경기도, 하남시, Mangwol-dong, 974 구산프라자 3층
+ChIJY-4rvA2dfDURqgpSXNKp3js,고강동물병원,37.5268146,126.815792,3.9,9,474-1 Gogang-dong, Ojeong-gu, Bucheon-si, 경기도, South Korea
+ChIJeyLlKMmdfDURiGwtnZwDlSM,우신동물병원,37.5226425,126.8514591,4.7,27,South Korea, Seoul, 양천구, Sinwol 2동, 501-12
+ChIJVR9upSycfDURUIP5IYVhj_4,신정동물병원,37.5252044,126.8594267,4.8,8,987-3 Sinjeong 4동, 양천구, Seoul, South Korea
+ChIJOR08RYeefDUR7kgrkUDsrec,리더스24시동물병원,37.5216218,126.8742309,4.3,4,117-37 Sinjeong 2동, 양천구, Seoul, South Korea
+ChIJKfVOEUCffDURa8jJ5vv-0yo,여의도동물병원,37.5187643,126.9334972,4.4,17,108 Gukjegeumyung-ro, Yeoeuido-dong, 영등포구, Seoul, South Korea
+ChIJe281L_WhfDURRBJwVQQIA_M,Bay Animal Hospital,37.51784809999999,126.9729615,0,0,102, Hangang Mansion 11, 248 Ichon-ro, Ichon 1동, 용산구, Seoul, South Korea
+ChIJ538s2fSffDURo77mBT76OCU,동물병원 품,37.5043512,126.9493828,0,0,South Korea, Seoul, Dongjak-gu, Sangdo 1동, Yangnyeong-ro, 277-1 동물병원 품 1층
+ChIJrcmItR-ifDURc4JqLF16YhQ,Bada animal hospital, veterinarian,37.523218,126.9731278,5,2,South Korea, 용산동5가 24-1번지 상가 지층 비21호 용산파크타워 용산구 서울특별시 KR
+ChIJmzYz_uujfDURR6OysQA6fAA,신사동물병원,37.5175174,127.0237611,0,0,138 도산대로, 논현동, 강남구, Seoul, South Korea
+ChIJ2fkbOPWjfDURU9p2D-ldYiQ,강남25시동물병원,37.5160698,127.0386317,3.8,15,240-1 논현동, 강남구, Seoul, South Korea
+ChIJhwQGCXSkfDURBjQ-UhK1uSI,굿모닝동물병원,37.5181254,127.0452141,4.7,3,South Korea, Seoul, 강남구, 학동로 413 107호 청담빌딩
+ChIJwW4rbwGwfDURZ5L8IcB47I4,세종동물병원,37.5416795,127.1303998,0,0,397-27 천호동, 강동구, Seoul, South Korea
+ChIJc9kbNEucfDUR6CEdMhySXIw,세명동물병원,37.5326387,126.8427945,4.3,4,353-58 Hwagok 1동, 강서구, Seoul, South Korea
+ChIJ6ZpLvuydfDURTzb4Y17A87o,24시 우리들동물메디컬센터,37.5228713,126.8648753,0,0,161 목동로, Sinjeong-dong, 양천구, Seoul, South Korea
+ChIJ9S3c2y6cfDURPWw3p5UdKGk,하트온동물병원,37.5321209,126.8617858,5,6,797-22 화곡동, 강서구, Seoul, South Korea
+ChIJwWTtPzWifDURyewqMmXDeTI,청화동물병원,37.5310395,126.9958021,4.1,38,21-1 Itaewon-dong, 용산구, Seoul, South Korea
+ChIJSYuno8ajfDURuG8Ib8htSss,튼튼동물병원,37.52519849999999,127.0241008,0,0,South Korea, Seoul, 강남구, 압구정동, 421 2층
+ChIJ50_eXeyjfDURI_6DuXVEHak,신사24시SKY동물병원,37.5188931,127.025364,0,0,South Korea, Seoul, 강남구, 신사동, 561-16번지 1층 2층
+ChIJjdsn6aSjfDURin0Kg0B6RTY,에이드동물병원,37.5211367,127.0278857,0,0,586-4 신사동, 강남구, Seoul, South Korea
+ChIJz30jXuyjfDUR4hkUnSqxkcw,페츠비동물병원,37.5189026,127.0253829,4.7,7,561-16 신사동, 강남구, Seoul, South Korea
+ChIJH4acVemjfDURRZ_zl4gzluo,신사동물병원(구 24시동물병원),37.519607,127.029003,4.6,18,59-5 논현동, 강남구, Seoul, South Korea
+ChIJq6qqqq2mfDURSu01allMwFY,Yeeun Animal Hospital,37.4923809,127.0400194,4.6,61,189 Dogok-ro, Yeoksam 1동, 강남구, Seoul, South Korea
+ChIJMdWpXEewfDUR2IlTSE_v8fU,두루동물병원,37.5489846,127.1536751,4.3,4,249-6 명일동, 강동구, Seoul, South Korea
+ChIJr2UDFLOdfDURF-1XkmirB5A,강서동물병원,37.5321754,126.8395951,3.3,19,421-23 Hwagok 1동, 강서구, Seoul, South Korea
+ChIJy8kzpkqcfDURHGq6ElmhxT0,미래동물병원,37.5317034,126.8463722,0,0,343-51 Hwagok 1동, 강서구, Seoul, South Korea
+ChIJsXPkkcujfDURlh0FJJG9A_g,보광동물병원,37.5264568,127.0007184,4,5,80-11 Bogwang-dong, 용산구, Seoul, South Korea
+ChIJX-ll_IujfDURDh6F6uWrr9A,치료멍멍동물의료센터,37.522319,127.0351874,4.8,20,South Korea, 서울특별시 강남구, 신사동, 도산대로 309
+ChIJKx8y3ImjfDURyVn5MLozWvc,이비치동물치과병원,37.5222242,127.0396519,4.5,13,1-18 청담동, 강남구, Seoul, South Korea
+ChIJ32cxDdulfDURrgfw4KgZg58,청담리덴동물치과병원,37.5245423,127.0527048,0,0,South Korea, Seoul, 강남구, 청담동, 도산대로, 301 540
+ChIJaV-BTLamfDUR8mBLnteEOzM,Ian Animal Medical Center,37.5238585,127.039623,4.3,26,806 선릉로, 청담동, 강남구, Seoul, South Korea
+ChIJafVr7nmkfDURs0eYtI-eDoA,이리온 동물병원 청담점,37.5242841,127.0447752,4,36,445 도산대로, 청담동, 강남구, Seoul, South Korea
+ChIJEYLe5nqkfDURdgX9lMtcm60,일마레동물메디컬센터,37.5239867,127.0492375,4.2,5,514 도산대로, 청담동, 강남구, Seoul, South Korea
+ChIJExuvdRawfDURRBiWMRtMYyQ,필립동물병원,37.5465958,127.1457871,2.3,3,343-7 명일동, 강동구, Seoul, South Korea
+ChIJG5SqkValfDUR1MWRoJ5ie5g,천호종합동물병원,37.5363744,127.1223174,0,0,480-2 Pungnap 1동, 송파구, Seoul, South Korea
+ChIJhyekgwWwfDUROc1xXWbmU9I,Dalae,37.5458237,127.1335325,4.4,12,294-23 천호동, 강동구, Seoul, South Korea
+ChIJhUVXIrSjfDURsqh3JPh_63Y,한남2001동물병원,37.5333726,127.0019681,0,0,South Korea, Seoul, 용산구, 642-41,
+ChIJmf4ghLCjfDURrAtAuRuc_zs,달래동물의료센터(Dallae Veterinary Clinic),37.5355035,127.0065391,4.4,12,South Korea, Seoul, 용산구, 한남동, 프라자 76 2층 달래동물의료센터
+ChIJc6sYdwqjfDURU5xVdqdk1Jo,압구정웰동물병원,37.5233172,127.0213378,5,1,South Korea, Seoul, 강남구, 신사동, 압구정로, 108 덕산빌딩
+ChIJsbojq-OkfDURZt0n9QZfbjI,펫프라자동물병원,37.5316614,127.0802067,3.3,3,636-29 자양동, 광진구, Seoul, South Korea
+ChIJ803hTE6cfDURsAGu1GD7FcI,우장동물병원,37.541091,126.8376228,5,1,1066-10 Hwagok 3동, 강서구, Seoul, South Korea
+ChIJVdqzkdyefDURsDYRpddOLyw,디오빌동물병원,37.533212,126.9022778,4.5,13,11-33 Dangsandong 5(o)-ga, 영등포구, Seoul, South Korea
+ChIJC3SzfQ-ifDURQZlXMtkz0vs,열린동물종합병원,37.53559389999999,126.9617498,3.5,4,84-10 Wonhyoro 2가, 용산구, Seoul, South Korea
+ChIJATYDYVGjfDURTwNtE-7hItc,원스동물병원,37.5449499,126.9694824,5,1,16 Cheongpa-ro 47길, Cheongpadong 2가, 용산구, Seoul, South Korea
+ChIJLebFOLSjfDURfr5-vS9CyBo,펫토이동물병원,37.5334282,127.0012182,4,6,653-26 한남동, 용산구, Seoul, South Korea
+ChIJ0UPum-OkfDURsYT6HX22JzI,우리동물병원,37.531628,127.080215,4,2,636-29 자양동, 광진구, Seoul, South Korea
+ChIJc_VLaxGkfDUROTmG4RZJvkE,Dogeujjang,37.505117,127.0545201,0,0,14-12 Teheran-ro 78길, Daechi 4동, 강남구, Seoul, South Korea
+ChIJZSsj7B2lfDURNW45hfa7__w,해맑은 동물병원,37.5315611,127.0838696,4.4,7,662-13 자양동, 광진구, Seoul, South Korea
+ChIJNRMXAKudfDUR5UW-hVcVMy0,다나동물병원,37.5485652,126.8366234,4.5,2,254 Gangseo-ro, 화곡동, 강서구, Seoul, South Korea
+ChIJWyQpiQ6ifDURVbN88jp7qIU,효창동물병원,37.5392601,126.9618608,4.8,12,70-11 Hyo창동, 용산구, Seoul, South Korea
+ChIJ3R538bqjfDURrdMKIwW7VMo,더힐동물의료센터,37.5346037,127.0095526,4.3,8,29-6 한남동, 용산구, Seoul, South Korea
+ChIJN-FDY4ulfDURTdv4DkAvVgo,로얄도그앤캣메디컬센터,37.5358089,127.0684009,5,1,49 Neungdong-ro, Jayang 4동, 광진구, Seoul, South Korea
+ChIJrdPdhx6lfDURw9JC7qWR_cs,아이본동물병원,37.53228550000001,127.0855631,0,0,South Korea, Seoul, 광진구, 자양동, Jayang-ro, 48 아이본동물병원 1층
+ChIJpbkHWEacfDURheSoJmmZKrM,대한동물병원,37.543791,126.843157,2.7,3,South Korea, Seoul, 강서구, 서울특별시 강서구 화곡로 205 대한동물병원
+ChIJZyVnw-2kfDURRPCjFbPJSFk,이다종합동물병원,37.5357555,127.0661025,5,1,South Korea, Seoul, 광진구, Jayang 3동, 553-280
+ChIJGxqw9ZmkfDURoEnu40EUcJQ,포레동물병원(forêt animal hospital),37.5435773,127.0492196,4.6,8,성수일로33 포레동물병원, 성동구, Seoul, South Korea
+ChIJqxWAmO-kfDURv2pTLKTKjT4,아라우나 동물병원,37.534439,127.070913,4.3,11,548 Ttukseom-ro, 자양동, 광진구, Seoul, South Korea
+ChIJX-K0CBOxfDURpjsSIslR-Vg,미사동물병원,37.566666,127.1885603,4.1,30,South Korea, 경기도, 하남시, Mangwol-dong, 미사강변중앙로 223
+ChIJPRWzkL2efDURfHGBHdiN0Z0,가나종합동물병원,37.5377149,126.8820894,4.2,10,908-31 Mok-dong, 양천구, Seoul, South Korea
+ChIJqWcXOseefDURXYAKOaaftUU,사랑의 동물병원,37.538535,126.8913203,0,0,South Korea, 5가 76번지 한신아파트 107동 1층 상가 12호 영등포구 서울특별시 KR
+ChIJCbyFKdqYfDUR9Fcib1t8lI8,뉴욕동물병원,37.55073,126.916004,4,2,395-44 서교동, 마포구, Seoul, South Korea
+ChIJ-dxsFuqYfDURt6A6M6MvVV4,마리동물병원(Mari Animal Hospital),37.5579266,126.928187,3,2,동교동, 마포구, Seoul, South Korea
+ChIJjQ9-sySZfDURUD6i82bi4WM,닥터호오 동물병원,37.5429776,126.9378623,0,0,24 대흥로, Yonggang-dong, 마포구, Seoul, South Korea
+ChIJT97RqLCYfDURDkl7b0lD5LQ,용강동물병원,37.5435925,126.9385296,4.8,6,337-41 대흥동, 마포구, Seoul, South Korea
+ChIJsZEiFMSkfDURfIsg9UJw1hs,수동물병원,37.5484114,127.0683249,0,0,355-10 Gunja-dong, 광진구, Seoul, South Korea
+ChIJIU0s5jqlfDUR1CurDKJY-Kw,프라임동물병원,37.5391291,127.0920743,4.2,5,659 구의동, 광진구, Seoul, South Korea
+ChIJ_bJTnjqlfDURYjCk36lQPAE,쥬라기동물병원,37.5420399,127.0952643,4,4,530-39 광장동, 광진구, Seoul, South Korea
+ChIJLa6HmTylfDUR3mXmcwlwODM,광진 필동물병원,37.5370307,127.0953541,4.8,4,South Korea, 강변상가 1,2층 광진구 서울특별시 KR
+ChIJZf9BNzelfDURZP9MJnsR2aU,에디슨동물병원,37.5423412,127.1001892,2.3,3,565 광장동, 광진구, Seoul, South Korea
+ChIJJWw7dgmwfDURk0lpoUvHqpo,광나루동물병원,37.5522615,127.1285664,4.3,3,500 Amsa-dong, 강동구, Seoul, South Korea
+ChIJb7A116aefDUR8iqgIscttmA,대현동물병원,37.5441435,126.8706736,4,2,531.13 Mok 2동, 양천구, Seoul, South Korea
+ChIJs1m1DuCZfDURWpgu335rvZU,캣&덴탈 하이디 동물병원,37.5513611,126.9118182,0,0,South Korea, Seoul, 마포구, 합정동, World cup-ro 3길, 14 한강2차푸르지오 상업시설 123호
+ChIJazmpiqSYfDURqWwOdg4bxSI,굿모닝동물병원,37.5446758,126.9460288,5,4,164-4 Yeomni-dong, 마포구, Seoul, South Korea
+ChIJs3GZ6qCYfDURWalpcoqkO6E,공덕건강한동물병원,37.5445093,126.9526393,4.6,7,256-13 공덕동, 마포구, Seoul, South Korea
+ChIJX3b76GKZfDURjrEA78yUbOg,콩닥동물병원,37.5461523,126.95212,0,0,127 마포대로, 공덕동, 마포구, Seoul, South Korea
+ChIJW-tfM6ejfDURl1qRiqiZ5BY,함께하는동물병원,37.542955,127.0130779,4.6,7,263-1 옥수동, 성동구, Seoul, South Korea
+ChIJpfnhZAqjfDURdKmh2B_EiVU,오석헌동물병원,37.5442674,127.0153759,4.4,19,South Korea, Seoul, 성동구, Dokseodang-ro, 223 래미안옥수리버젠 상가동 1층
+ChIJNx_KgTqlfDURh18Ga3bUzVY,동서울동물병원,37.5417344,127.0961809,4.6,16,517-5 광장동, 광진구, Seoul, South Korea
+ChIJcbv1qxicfDUR-0d2vDY51QQ,강/현림종합동물병원,37.5439796,126.8624166,4.5,2,657-16 Mok 3동, 양천구, Seoul, South Korea
+ChIJTWtKiR2cfDURWetUFVVfbc4,미니주동물병원,37.547952,126.867759,5,3,601-6 Mok 3동, 양천구, Seoul, South Korea
+ChIJ9RCFEdGYfDURcsEYuzw9NGs,홍익동물병원,37.548036,126.9183648,4,8,411-18 합정동, 마포구, Seoul, South Korea
+ChIJV03OSpWYfDURaUbIKv80gXI,서진동물병원,37.556313,126.9326409,1,1,185-1 동교동, 마포구, Seoul, South Korea
+ChIJUWRF6gijfDUR7U_QBWAVntk,그녀의동물병원,37.548006,127.008606,3.3,6,South Korea, 신당동 844번지 남산타운남산타운 동6동 2호 중구 서울특별시 KR
+ChIJ5y_N22yjfDURNH0zsEHZCwU,Hanvit Animal Hospital,37.5540016,127.0194029,4,1,63-1, 금호san길, 성동구, Seoul, South Korea
+ChIJjbYThkWlfDURhAK0gr650Zk,오늘동물병원,37.5467885,127.0448729,0,0,South Korea, Seoul, 성동구, Seongsu-dong 1(il)-ga, 왕십리로, 104 2층
+ChIJs4ajPNukfDURNZK1EL6mExs,피카소동물병원,37.5473514,127.0733237,4.5,6,216 Hwayang-dong, 광진구, Seoul, South Korea
+ChIJOQc2AyalfDURl8l1yAIcvLk,연두동물병원,37.544695,127.087674,3,4,524 Gwangnaru-ro, Guui 1동, 광진구, Seoul, South Korea
+ChIJ-5McLCalfDURKTZCys_bTJ8,광진동물종합병원,37.545206,127.0859318,4,36,68-37 구의동, 광진구, Seoul, South Korea
+ChIJSa5sCM2xfDURUpRars-V4o8,고덕 고래힐 동물병원,37.5583657,127.1510413,4.7,3,South Korea, Seoul, 강동구, Godeok-dong, Arisu-ro 50길, 50 래미안 상가 2층 212호
+ChIJqTnh76aefDURyYIj15rjfgA,두암한방동물병원,37.546797,126.8715106,4.6,25,73 목동중앙북로, Mok 2동, 양천구, Seoul, South Korea
+ChIJH1BQauqYfDURKsI8ax2krnI,파티마동물병원,37.55772899999999,126.928836,0,0,179-1 동교동, 마포구, Seoul, South Korea
+ChIJeXiJs0-ZfDURA2RSbkZ00A0,닥터호오동물병원,37.5519241,126.9475529,5,1,South Korea, Seoul, 마포구, Yeomni-dong, 대흥로, 24 서강빌딩
+ChIJnVuRkJ-YfDUR5HTs1oD_pik,FLYING PET,37.548915,126.952153,4.8,17,Mapodaero11길, 35, 마포구, Seoul, South Korea
+ChIJ7RymYA-jfDURo0vlbonuqMw,AniCom Medical Center,37.5520315,127.0080279,5,4,83-1다산로, 신당 2동, 중구, Seoul, South Korea
+ChIJp7KstEKjfDURF6MCezchdh8,평화와생명이함께하는동물병원,37.5565324,127.0287527,4.7,3,328-1 행당 2동, 성동구, Seoul, South Korea
+ChIJPWOJzUqlfDUR9XiI_5APERE,Square Animal Medical Center,37.54709,127.10641,4.2,11,South Korea, Seoul, 광진구, 광장동 326-16번지 1층
+ChIJx3w65m6cfDURONVYz_4BlMU,우리아이동물메디컬센터,37.5581556,126.839103,0,0,South Korea, 내발산동 646번지 1층 2호 강서구 서울특별시 KR
+ChIJof5LveycfDURwVAOB049FwU,송정종합동물병원,37.5616991,126.8095417,0,0,45-37 공항동, 강서구, Seoul, South Korea
+ChIJd-0CaxycfDURNQeet4hVPhU,혜인동물병원,37.5491803,126.863831,4.5,26,613-8 Mok 3동, 양천구, Seoul, South Korea
+ChIJaRiW9deYfDURP56s3asGbys,동물메디컬센터W,37.5534241,126.9122819,3.9,79,444-5 서교동, 마포구, Seoul, South Korea
+ChIJd4luKt-YfDURLhu6xL-97fA,카라동물병원,37.557691,126.913695,4.6,11,2 층, 122 잔다리로, 마포구, Seoul, South Korea
+ChIJVdh2yMKYfDURzaBCoRVjjNg,워너비동물병원,37.5576578,126.9225126,4.6,5,193 동교로, 서교동, 마포구, Seoul, South Korea
+ChIJR3b885-YfDURpOlQhpKS0u8,연세종합동물병원,37.5480922,126.9530558,3.5,2,285 공덕동, 마포구, Seoul, South Korea
+ChIJwxwc1HWifDURNMi7F0o5Cro,24시 산들산들 동물병원,37.550953,126.956476,4,51,7 마포대로 16길, 공덕동, 마포구, Seoul, South Korea
+ChIJsQNKbXiifDURnetZYjWRnDI,북아현동물병원,37.5574769,126.9582759,3.7,9,289-1 신촌로, 북아현동, 서대문구, Seoul, South Korea
+ChIJ0dHL_VqjfDUR7FvKOiCoEMA,무학동물병원,37.5632028,127.0315755,0,0,959-24 하왕십리동, 성동구, Seoul, South Korea
+ChIJ7XZ7rYadfDURY-tJ3BZjF5c,모모동물병원,37.5583999,126.8246664,0,0,South Korea, Seoul, 강서구, 마곡동, 중앙1로 20 M시그니처 205호
+ChIJQSIXUGedfDURn3DvaevNv8Y,호서동물의료센터,37.56292,126.8404401,0,0,680 등촌-dong, 강서구, Seoul, South Korea
+ChIJcQAi_COZfDURriqNkvfPEOQ,이황동물병원,37.5607842,126.9054768,3.3,9,477-3 망원동, 마포구, Seoul, South Korea
+ChIJq6qqqnmifDURXq3s6yvUNRs,마음을나누는동물병원,37.5577978,126.9554328,4.9,13,10 신촌로 35길, 북아현동, 서대문구, Seoul, South Korea
+ChIJwy0ZzQ-jfDURpIY17TTJgfM,미래지동물의료센터,37.5536414,127.0096041,5,1,107다산로, 신당 2동, 중구, Seoul, South Korea
+ChIJ0xOa712jfDUROOmfKi3BexA,오렌지동물병원,37.5560093,127.0339644,4.4,23,322-100 행당동, 성동구, Seoul, South Korea
+ChIJCzUJpBajfDUR7z6NzzxE5pU,바우미우동물병원,37.5592308,127.0127997,3.2,10,336-3 신당 2동, 중구, Seoul, South Korea
+ChIJ_eehUCq7fDUR2wStcQmMlaM,방주동물병원,37.5593153,127.0809319,4.2,5,161-27 중곡동, 광진구, Seoul, South Korea
+ChIJS03noIycfDURCwLNdVHRPSo,마곡나무 동물병원,37.560233,126.819497,4.5,27,South Korea, Seoul, 강서구, 747 엠밸리 10단지 1014동 103호
+ChIJkbJU5BydfDURsZXrjy6emN0,참동물병원,37.5668547,126.8237711,5,2,South Korea, Seoul, 강서구, 마곡동, 마곡서로 133 엠벨리7단지 712동 102-1호
+ChIJHWysFG2cfDURvp-lYLJUjvw,아프리카 동물 메디컬센터,37.5581495,126.8449071,3.1,49,335 공항대로, 등촌-dong, 강서구, Seoul, South Korea
+ChIJjxByBA-cfDURuyhVW7cD3tQ,도그플러스동물병원,37.5584359,126.8547981,3.9,21,639-11 등촌 1동, 강서구, Seoul, South Korea
+ChIJe5mr9ieZfDUR_ATudxnCA0k,망원동물종합병원,37.55482689999999,126.9108418,4.2,12,386-2 망원동, 마포구, Seoul, South Korea
+ChIJhX2DVOmYfDUR6saAXlD5q50,연남동물병원,37.5618123,126.9269191,3,1,227-2 연남동, 마포구, Seoul, South Korea
+ChIJkZR8S52YfDURDt07-pHbi2Q,월드팻동물병원,37.5570078,126.9533333,4.1,22,331-11 아현동, 마포구, Seoul, South Korea
+ChIJGQGnGjOjfDUReSMEFvDxZxM,한양동물메디컬센터,37.5596166,127.0369899,5,2,282 왕십리로, 행당 1동, 성동구, Seoul, South Korea
+ChIJIa-QWCi7fDURbeRwnBydk0Y,킴스동물병원,37.5640369,127.0800707,5,1,231-7 중곡동, 광진구, Seoul, South Korea
+ChIJP56oNIebfDURNFzx8cH8ebY,젠틀리동물병원,37.5752417,126.830452,0,0,73-4 마곡동, 강서구, Seoul, South Korea
+ChIJ5US-uuCYfDURXxqInVwLUr0,우리동생동물병원,37.5620127,126.9157401,4.4,28,South Korea, 성산동 17-23번지 마포구 서울특별시 KR
+ChIJ99QdRfOYfDURdMO-6MGkRvg,연희동물병원,37.5687282,126.9317795,5,1,89-9 연희동, 서대문구, Seoul, South Korea
+ChIJX7zYg-KifDUR3Zdgg9NWukc,윤신근애견종합병원,37.561697,126.9968491,3.8,37,53 필동 2가, 중구, Seoul, South Korea
+ChIJq4quMxyjfDURdQPfAWEydYo,황동물병원,37.5624417,127.0000359,4.5,11,32-1 묵정동, 중구, Seoul, South Korea
+ChIJKZH4c1O7fDURpA3QVLxYHLA,뉴월드동물병원,37.5712021,127.0464349,0,0,465-98 답십리 1동, 동대문구, Seoul, South Korea
+ChIJs4UXuCm7fDURvByTgNnpiZY,중곡종합동물병원,37.562676,127.0815429,4.7,12,241-34 중곡동, 광진구, Seoul, South Korea
+ChIJCQznBCW3fDUR79oPxEuYayc,강두완가축병원,37.6124769,127.1601171,4.5,2,2-1 도농동, 남양주시, 경기도, South Korea
+ChIJbeY8x4SifDURAkWaZeksTcg,독립문동물병원,37.5690038,126.9632755,4.3,4,171-1 통일로, Cheonyeon-dong, 서대문구, Seoul, South Korea
+ChIJ82ZEfuKifDUR9C936y_VScE,대한가축병원,37.5620673,126.9969058,0,0,93-1 충무로 4가, 중구, Seoul, South Korea
+ChIJA34P41qjfDURx4s2CtJ8YKs,조은동물병원,37.5645831,127.0278948,4,9,381 왕십리로, 하왕십리동, 성동구, Seoul, South Korea
+ChIJy8nF2U6jfDURMv9_t9LgZXk,텐즈힐링동물병원,37.5701922,127.023683,3.5,4,12-37 상왕십리동 성동구, Seoul, South Korea
+ChIJZ8qvTEmjfDUR6-sEfGZLRro,맑은동물병원,37.5719436,127.0239147,5,2,109-13 신설동, 동대문구, Seoul, South Korea
+ChIJ6Sop8zO7fDURVlSQSaNtb2Y,아인스동물병원,37.5650413,127.0673476,4.3,8,435-6 장안 1동, 동대문구, Seoul, South Korea
+ChIJo7nV50i7fDUR2APTCHFoLZM,그랜드동물병원,37.5726188,127.0576283,4.6,7,53-6 답십리 2동, 동대문구, Seoul, South Korea
+ChIJd5faW0a7fDURVZDYlbZhhpM,전농동물병원,37.5762017,127.0579337,0,0,26-13 전농 2동, 동대문구, Seoul, South Korea
+ChIJNxYVsEi7fDURh22F9nRphIY,더케이동물병원,37.5726727,127.0557243,3.9,7,South Korea, Seoul, 동대문구, 답십리-dong, 답십리-ro, 140 세기플라자 211호
+ChIJCc03Z5qcfDURj8H-Hffyahs,황하동물병원,37.5725866,126.8112356,5,1,567-14 방화동, 강서구, Seoul, South Korea
+ChIJ56XHtBOZfDURR4SL5ZY007o,닥터K,37.5763653,126.8933847,5,1,37-36 상암동, 마포구, Seoul, South Korea
+ChIJdYL01mGYfDURLF47czdR44M,헬로우동물병원,37.5727411,126.9357258,4.4,12,178 연희로, 연희동, 서대문구, Seoul, South Korea
+ChIJEc1F7oSifDURunPwFZPJ6tY,우리동물병원,37.5709216,126.961351,3.4,11,197 통일로, Yeongcheon-dong, 서대문구, Seoul, South Korea
+ChIJ5U2AgViYfDUReunktjaqGiA,Hans Animal Hospital,37.576659,126.924873,4.5,8,South Korea, Seoul, 서대문구, 서울시 서대문구 남가좌동 338-39
+ChIJC5QWyVqjfDUR3748CzJPZ3c,베이지동물병원,37.5672798,127.0256357,3.6,5,South Korea, KR 서울특별시 성동구 왕십리로410 센트라스 상가D동 106호
+ChIJH1LZS067fDURodXNwh4oXYM,아띠동물의료센터,37.573679,127.0523385,4.6,31,108-2 답십리-dong, 동대문구, Seoul, South Korea
+ChIJy7WczRKZfDURvD6nzjIoZA8,아프지말게동물병원,37.578331,126.88978,3.8,4,South Korea, Seoul, 마포구, 상암월드컵파크4단지 상가 113-2호
+ChIJUYsA2gGZfDURZ3t2ermkLQM,두리틀동물병원,37.5787728,126.9107866,4.2,30,South Korea, Seoul, 서대문구, 북가좌2동 응암로 66 2층
+ChIJzT5Mpt-9fDURTyZjblK_-Zc,HanSaRang Animal Hospital,37.5903757,127.0038594,5,1,27 성북로, 성북동, 성북구, Seoul, South Korea
+ChIJBwzhNFC7fDURGJjhkCmdHyc,제연동물병원,37.5750329,127.0496055,3.9,10,77 답십리-ro, 전농 1동, 동대문구, Seoul, South Korea
+ChIJHQAFfJiwfDURXc5_Z6iOtWQ,건국동물병원,37.5921178,127.1342036,5,5,765 교문동, 구리시, 경기도, South Korea
+ChIJye3T9ZeZfDUR03ab---JlHE,어울림동물병원,37.573032,126.9156292,0,0,278-63 남가좌 1동, 서대문구, Seoul, South Korea
+ChIJHbEeeiaZfDURqOSQsJYpB1k,어울림 동물병원,37.5730639,126.9156195,5,3,278-63 남가좌 1동, 서대문구, Seoul, South Korea
+ChIJV2OiJHaZfDUR_xdD45GBbAU,에덴동물병원,37.5913912,126.8825059,5,2,83-6 Deogeun-dong, 덕양구, 고양시, 경기도, South Korea
+ChIJc3xfGSujfDURDzqS18TxViA,Daehakro Animal Hospital,37.5845885,127.0001891,4.5,4,14-1 Myeongnyun 2가, 종로구, Seoul, South Korea
+ChIJrcW8p8-8fDURdFMSIyeYeVM,베스트동물병원,37.5899214,127.0100768,0,0,32 Dongsomundong 3가, 성북구, Seoul, South Korea
+ChIJ_UKusf66fDURu500DRjvi4Q,엔젤동물병원,37.5870343,127.0878471,4,5,115-21 면목동, 중랑구, Seoul, South Korea
+ChIJl988YnOYfDURS9AgSzdb96U,Hansol Animal Hospital (서대문구, Seoul),37.584865,126.948639,3.3,27,103-6 홍제 2동, 서대문구, Seoul, South Korea
+ChIJ7fVb_dqifDURTIdwONCAqGA,CARE,37.5788188,126.9884184,2.9,16,29-38 창덕궁길, 가회동, 종로구, Seoul, South Korea
+ChIJq6qqqm-jfDURqXbn4dijWwY,금호동물병원,37.5523361,127.0246566,4.9,8,105 금호-ro, 금호 2.3가동, 성동구, Seoul, South Korea
+ChIJ1f0lOFm7fDUR4jppgVR0lbc,푸른종합동물병원,37.5833673,127.0439626,3.7,11,675 청량리동, 동대문구, Seoul, South Korea
+ChIJD_rv93K7fDURtXIuRoThzWQ,애니케이동물병원,37.5940704,127.0588407,0,0,324-3 이문 1동, 동대문구, Seoul, South Korea
+ChIJN0tbkZiwfDURzxXwRv-zEhA,시티종합동물병원,37.59206229999999,127.1329815,4.6,13,764-10 교문동, 구리시, 경기도, South Korea
+ChIJuQu-Ray7fDURIoXlX1Mcwbw,진정훈동물병원,37.6003103,127.0793753,4,1,303-16 Junghwa-dong, 중랑구, Seoul, South Korea
+ChIJAx2W0rmwfDURmc9fIQoVI4A,행복한동물병원,37.59733960000001,127.1445357,3.4,5,506-3 수택동, 구리시, 경기도, South Korea
+ChIJx6S3ohKYfDURNC2NUaFPyK0,홍제동물병원,37.5895869,126.9427501,3.9,21,330-54 홍제 1동, 서대문구, Seoul, South Korea
+ChIJe2q3Ode8fDURHWQC7kD8J5o,앙리동물병원,37.59339600000001,127.0016826,5,3,South Korea, 성북동 155-15번지 1층 농협 성북구 서울특별시 KR
+ChIJ8xE5KMe8fDURYn1Qxa7EzLc,VIP동물의료센터,37.5922066,127.0135319,3.7,92,73 동소문로, 동선동, 성북구, Seoul, South Korea
+ChIJ_yejG8i8fDURMa2nT98U0Es,서울종합동물병원,37.5880051,127.0181872,3.4,10,9-1 보문동 1가, 성북구, Seoul, South Korea
+ChIJ-zwGXKq7fDURU2cZN2Lo8So,로얄동물메디컬센터,37.5952831,127.0799032,3.8,101,207 Junghwa 2동, 중랑구, Seoul, South Korea
+ChIJQQ8hkKyifDURyHlAkKSJzOU,북악동물병원,37.5988639,126.9602481,4,2,127-7 홍지동, 종로구, Seoul, South Korea
+ChIJkRfv0MC8fDURLzduF7LxxFM,Sungshin anmal hospital,37.5945235,127.0162516,0,0,18 아리랑로, 동선동, 성북구, Seoul, South Korea
+ChIJDQMaqZ68fDURhHzFWwgvY7c,강북동물병원,37.5961711,127.0351298,0,0,19-1 종암동, 성북구, Seoul, South Korea
+ChIJJWPWvEO6fDURQ1Xn8vxjHp4,금란동물병원,37.59842200000001,127.1005678,3.5,15,364-27 망우동, 중랑구, Seoul, South Korea
+ChIJh7SChVG6fDURotI22tHhCQY,닥터아이펫 동물병원,37.5971441,127.087458,4.2,18,South Korea, Seoul, 중랑구, Sangbong 1동, 망우로, 315 영진빌딩 2층
+ChIJ6eXWTqWwfDURjhz_DDqlQ8Y,명문동물병원,37.6001169,127.136092,4.2,5,370 수택동, 구리시, 경기도, South Korea
+ChIJm930oVCafDURToJqJzvdpWA,행신동물병원,37.6192757,126.8316768,3.9,7,647-14 행신동, 덕양구, 고양시, 경기도, South Korea
+ChIJ6eTESjOYfDUR7n81l00Uawk,Dodam Animal Hospital,37.605632,126.91116,4.1,8,South Korea, Seoul, 은평구, 51-22
+ChIJZWoNLbWZfDURBzb-WwHd7UI,늘푸른동물병원,37.5982252,126.9109657,4.4,72,20-24 Sinsa 1동, 은평구, Seoul, South Korea
+ChIJUxXhequifDUR2LpfmbHQov4,올리브동물병원,37.599235,126.9589611,4.5,21,Jahamun-ro, 홍지동, 종로구, Seoul, South Korea
+ChIJs_Atwe-8fDURqkRRnbyNysk,Jeongneung Animal Hospital,37.605024,127.0117205,3.5,2,4 보국문로, 정릉동, 성북구, Seoul, South Korea
+ChIJhx3ms4-8fDURSicVB_dYzrQ,열린동물병원,37.6054754,127.0269081,0,0,하월곡동, 성북구, Seoul, South Korea
+ChIJ69KX_ES6fDURgNP0TxHYcsk,세진동물병원,37.5986719,127.0962349,4.5,2,1 망우동, 중랑구, Seoul, South Korea
+ChIJpcOciLWwfDURKbEh5wQ3yWo,24시THE케어동물의료센터,37.60325210000001,127.147086,3.8,60,561-1 수택동, 구리시, 경기도, South Korea
+ChIJGY2bfzO3fDUR0fLJX78hJb4,부영동물병원,37.6063024,127.1528033,1,1,South Korea, 경기도, 남양주시, 미금로 16 도농센트레빌아파트 단지내상가 205호
+ChIJg8Pn1ZO8fDURVWwO0h2FwYk,길음동물병원,37.6025312,127.0238529,4,1,877-1 길음동, 성북구, Seoul, South Korea
+ChIJ__NBGUy3fDURXFhY4DNfnPE,펫가든 동물병원,37.612671,127.140869,3.5,2,South Korea, 경기도, 구리시, 인창동, 동구릉로 136번길, 57 롯데마트 별관 1층
+ChIJy8F3Dq2wfDUR-C00U343SZw,우리애(愛) 동물병원,37.6087742,127.1349007,0,0,South Korea, 인창동 495-10번지 1층 구리시 경기도 KR
+ChIJ9SwaNTyafDURGlnYICMlKt8,디엔씨동물병원,37.6234592,126.8362043,4,8,950-1 행신동, 덕양구, 고양시, 경기도, South Korea
+ChIJGSRj6Ou8fDUReFytz9gg76k,북악동물병원,37.6030865,127.0139094,3.8,23,139-3 Jeongneung 1동, 성북구, Seoul, South Korea
+ChIJVWWNp5q7fDURcxF1VWdI3mg,아이봄 동물병원,37.6050099,127.095637,5,1,66 신내로, 신내동, 중랑구, Seoul, South Korea
+ChIJ-51PYKawfDURkV-YJ-3CO2k,아마존동물병원,37.6006152,127.1293993,3.5,6,270-2 교문 1동, 구리시, 경기도, South Korea
+ChIJnXawLUOafDURuV_FCArsJGM,아마존동물병원,37.6244418,126.8360095,3.2,13,944 행신동, 덕양구, 고양시, 경기도, South Korea
+ChIJbZWIxSGYfDURQ_5DsFQR0EI,녹번동물병원,37.6080567,126.9317229,3.5,6,117-112 녹번동, 은평구, Seoul, South Korea
+ChIJ6UFahCCYfDUR5Z2fvRKRy-c,불광동물병원,37.6113896,126.9294452,5,1,274-10 불광동, 은평구, Seoul, South Korea
+ChIJpcOykou8fDUR5yeLSxwDvtU,우리종합동물병원,37.6107834,127.0225838,0,0,번지 1 층, 1125-9 길음동, 성북구, Seoul, South Korea
+ChIJpSrA3EuFfDURDGYVDsaL41Q,강남동물병원,37.65168750000001,126.7784033,0,0,802-1 마두동, 일산동구, 고양시, 경기도, South Korea
+ChIJY-eNvoaXfDURpear-geuREc,도그원동물의료센터,37.6197705,126.9176215,1,1,Yeonseo-ro 29길, Galhyeon 1동, 은평구, Seoul, South Korea
+ChIJZVNctC6YfDURWJBbW2Y6jMg,더독(THEDOG)동물병원,37.611306,126.9175853,2,2,224-24 대조동, 은평구, Seoul, South Korea
+ChIJ5wFS5Xu9fDURNOrcsOw_wKM,넬 동물의료센터,37.6087789,127.0357595,0,0,75-1 오패산로, Wolgok 1동, 성북구, Seoul, South Korea
+ChIJBRgc9r27fDUR1Ca7yMkxGng,다나동물병원,37.6136228,127.0616137,3.6,11,6-107 장위동, 성북구, Seoul, South Korea
+ChIJQwvkpXuafDURC9the4TBdtQ,동물의왕국,37.6404398,126.832315,4,1,913 화정동, 덕양구, 고양시, 경기도, South Korea
+ChIJz1mfBGSafDUR1YTxQmXw6Tk,FM Animal Medical Center,37.6339538,126.8309982,4,6,76 화정로, Hwajeong 2동, 덕양구, 고양시, 경기도, South Korea
+ChIJIY9MDSmYfDUR6CJSZy5HGNA,연서동물병원,37.6131669,126.9178352,4.2,12,223-13 대조동, 은평구, Seoul, South Korea
+ChIJbWuMc569fDURa8rPB9xomkE,더편한 동물병원,37.6124043,127.0272631,5,1,South Korea, Seoul, 성북구, 길음동, 숭인로, 50 상가동 2203호
+ChIJU4zNUZi7fDURGnbtcvNm2Fk,중앙동물병원,37.6088301,127.0592689,3,1,268-11 석관동, 성북구, Seoul, South Korea
+ChIJ_SAHCLa7fDUR0pFcAUiMiD4,Taeneung Veterinary Clinic,37.6115533,127.0780153,4.8,13,8 공릉로, 묵동, 중랑구, Seoul, South Korea
+ChIJ7yWfUsy7fDURVKdOK8Xqhig,화랑동물병원,37.6192405,127.0796104,4.2,22,653-10 공릉동, 노원구, Seoul, South Korea
+ChIJVzOVgTObfDURo76CUarsNjw,탑케어동물의료원,37.6311912,126.8310468,0,0,South Korea, 경기도, 고양시, 덕양구, 화신로 272번길, 5 KR
+ChIJP-X33TqZfDUR43JfVIgLX08,원흥동물의료센터(삼송행신덕양구서오릉화전향동화정능곡도래울동물병원),37.6293335,126.8687368,4.4,18,South Korea, 경기도, 고양시, 덕양구, 도래울로 40 KR
+ChIJ07-fjWa9fDURZmJOfhtczF8,아이사랑동물병원,37.6171833,127.0220243,0,0,South Korea, Seoul, 강북구, 미아동, 삼양로 24길, 19 102동 104호
+ChIJqVrUNWG8fDUR16qJ50Kj1-4,솔샘동물병원,37.6191635,127.0224334,4.4,9,860-98 미아동, 강북구, Seoul, South Korea
+ChIJRdV84r27fDURmVOyfwUhaXM,대학종합동물병원,37.6140583,127.0623488,4.1,8,3-16 장위동, 성북구, Seoul, South Korea
+ChIJP9tEoc-7fDURFYDF4F6D85E,Main Animal Medical Center,37.621655,127.0739,1.7,6,576-23 공릉 1동, 노원구, Seoul, South Korea
+ChIJNcTeJ8mafDURREtZjwknZxw,애니웰동물병원,37.6400825,126.7899326,4.4,8,1314 백석동, 일산동구, 고양시, 경기도, South Korea
+ChIJd5tmCXuafDURo6S0cEw8rlQ,화정동물병원,37.6399954,126.8320928,3.9,20,913-4 화정동, 덕양구, 고양시, 경기도, South Korea
+ChIJVVUFLHW8fDURTxiq6Gg2b1o,홈펫동물병원,37.6274378,127.0377276,0,0,148-41 Beon 2동, 강북구, Seoul, South Korea
+ChIJe3EpNnG2fDURoBNFyBP_nmg,성신동물병원,37.634114,127.2057509,5,1,404-41 금곡동, 남양주시, 경기도, South Korea
+ChIJMSIhrW-8fDURjwxU49lbHXQ,24시간동물병원,37.6245841,127.0271298,4,2,125-25 미아동, 강북구, Seoul, South Korea
+ChIJ11yDIs69fDURT-AUSAYuBAw,위즈(WIZ)동물병원,37.62660899999999,127.0262038,0,0,South Korea, 동 197-9 KR 서울특별시 강북구 서울 강북구 미아[미아3동
+ChIJG1bviz-XfDURhd2HxuFl_Cw,Samsong our animal hospital,37.645539,126.887957,3.8,10,South Korea, 경기도, 고양시, 덕양구, 동산동 361-4 행복플러스빌딩 107호
+ChIJG-uNMz-XfDURTzxr6iCzYUE,포근한동물병원,37.648049,126.884453,4,13,South Korea, 경기도, 고양시, 덕양구, 동 세로 63 강남 프라자 103 호
+ChIJQXl-mL6XfDUR6hv2QNLdOQs,우리덕구동물병원,37.6342169,126.9263379,4.7,3,South Korea, Seoul, 은평구, 진관2-ro, 77 205동 B104호 뉴타운 우물골아파트
+ChIJ5Uk6BUC8fDURjzu7siy3QcU,BONOBONO ANIMAL HOSPITAL,37.6334668,127.0177175,4.7,22,South Korea, Seoul, 강북구, 수유동, 삼양로 336
+ChIJF_ZqzovJfDUR5y65MDakz6I,나라동물병원,37.6794974,127.2086382,3,4,499-2 오남리, 오남읍, 남양주시, 경기도, South Korea
+ChIJf-Plt5CQfDURtfUa4ofGKZ0,신원당동물병원,37.6544105,126.8404249,3.8,14,706-4 성산동, 덕양구, 고양시, 경기도, South Korea
+ChIJDX8e4kqFfDURcYvAS10muiw,올리브동물병원,37.6488823,126.7812087,4.1,13,806 마두동, 일산동구, 고양시, 경기도, South Korea
+ChIJGeH5IqWXfDURgSBQG3Z3ESM,피움동물병원,37.6404122,126.9208227,0,0,South Korea, Seoul, 은평구, 진관동, 진관3-ro, 37 1층 102,103호
+ChIJ3Y6_LSO8fDURo-ZnOuEnyyE,Love Animal Hospital,37.6453036,127.015297,0,0,319-12 우이동, 강북구, Seoul, South Korea
+ChIJ9YETYRS8fDURkNn6o2LWmwk,동물병원위드,37.6356105,127.0227965,2.5,2,47-69 수유동, 강북구, Seoul, South Korea
+ChIJr9El_Y-QfDUR6YUEGULCCZQ,민동물병원,37.6555769,126.8356476,4.3,3,699-1 성산동, 덕양구, 고양시, 경기도, South Korea
+ChIJk1hQtwe8fDUR-0NwX0v9hEg,신창동물병원,37.6383604,127.0381283,3.7,14,557-100 창동, 도봉구, Seoul, South Korea
+ChIJHdvpWQe8fDURM2oBXje0PI4,한빛동물병원,37.6401423,127.0397801,0,0,568-5 창 3동, 도봉구, Seoul, South Korea
+ChIJD4_NFG65fDURZHCDuIFFPF4,쿨펫동물병원,37.64686,127.0709026,0,0,361 중계 1동, 노원구, Seoul, South Korea
+ChIJi1K-VkyFfDUR8_aku1IOifk,가람동물병원,37.6546871,126.7777366,4,6,South Korea, 경기도, 고양시, 일산동구, 마두동, 796
+ChIJwc4moiO8fDUROjr7qQrcQ-c,대형동물병원,37.6479422,127.0146581,3.7,20,278-3 수유 2동, 강북구, Seoul, South Korea
+ChIJZ9MpgHS5fDURUdEGd8Zmx8Q,25시동물병원,37.6478044,127.0775964,3,3,363 중계-dong, 노원구, Seoul, South Korea
+ChIJEzi-_rOXfDURt2mN7diYSsY,24시 라인동물의료센터,37.6531843,126.8963481,0,0,South Korea, 경기도, 고양시, 덕양구, 신도동, 동송로 70 힐스테이트 삼송역 227~231호
+ChIJBcPudSO8fDURFzDQOB14ZGU,애니케어동물병원 수유점,37.647723,127.0142549,3.1,7,279-290 수유동, 강북구, Seoul, South Korea
+ChIJe6WOoda5fDUR2BOyIHdPXBA,VIP동물의료센터 노원점,37.6477914,127.0623239,5,1,1333 동일로, 상계 6.7동, 노원구, Seoul, South Korea
+ChIJl0NLiqTLfDURvUshRp_VvC0,시편한 이비인후과,37.656174,127.2472549,0,0,153-7 호평동, 남양주시, 경기도, South Korea
+ChIJLTBY34qZfDURBAfb1oJXtjk,제이비컴퍼니,37.6137202,126.8707605,0,0,51-12 화랑로 165번길, 화전동, 덕양구, 고양시, 경기도, South Korea
+ChIJZQhNzk-FfDURq8Tv8GXGrt8,제이엠동물병원,37.6582031,126.7734369,4.3,23,43-20 정발산로, 정발산동, 일산동구, 고양시, 경기도, South Korea
+ChIJGX8JPyCXfDUReyLojfI2hrw,신원동물메디컬센터,37.662303,126.888357,4.3,8,South Korea, 경기도, 고양시, 덕양구, 신원동 638-4 101호
+ChIJc9_E2Ku-fDUR4ARGROnpEKg,삼성동물종합병원,37.6501645,127.0353227,3.8,8,88-115 쌍문 3동, 도봉구, Seoul, South Korea
+ChIJ4eq6XQ65fDURM7ddC068vyU,은마로동물병원,37.6579663,127.0745193,3,3,363 한글비석로, 중계 4동, 노원구, Seoul, South Korea
+ChIJPXQBNja_fDURYw8iu0BUQps,강북우리동물의료센터,37.6568202,127.0399881,0,0,586 도봉-ro, 창동, 도봉구, Seoul, South Korea
+ChIJLS5B5f2PfDURU5urMcun3e8,DR.DOG동물병원,37.6706297,126.7812081,4.1,53,1294-4 정발산동, 일산동구, 고양시, 경기도, South Korea
+ChIJ2RGLWx6RfDURbRNeCbhPN9I,페로페라동물병원,37.67732609999999,126.8125843,0,0,South Korea, 경기도, 고양시, 일산동구, Wicity 2(i)-ro 11(sibil)beon-g, 16 KR 글라스플라자 202호
+ChIJw_WVVbK-fDURREOWVxCfVms,태일동물병원,37.6576081,127.0372667,3.4,5,45-3 쌍문 2동, 도봉구, Seoul, South Korea
+ChIJl5O1rUy5fDUR8eijuydS3d0,별난동물병원,37.6585679,127.0402818,4.8,4,716-31 쌍문동, 도봉구, Seoul, South Korea
+ChIJHXfZGRS5fDURHU9-RNZ_vbw,스마트동물병원,37.6583016,127.065723,4.6,34,470 Nowon-ro, 상계 2동, 노원구, Seoul, South Korea
+ChIJB6gmDAS5fDURzgp1RB4WBTY,고려동물병원,37.6634447,127.0762038,4.6,5,79-145 상계 3.4동, 노원구, Seoul, South Korea
+ChIJe782s_-4fDURWQxDMW2fB54,당고개동물병원,37.6689686,127.0803177,4.7,3,76-4 상계 3.4동, 노원구, Seoul, South Korea
+ChIJPWnBbja5fDURKDwqOE9rM0k,365동물병원,37.6629348,127.0463381,4.4,23,713-35 방학동, 도봉구, Seoul, South Korea
+ChIJC5OY87W-fDUR8k1_-Z6u9Bg,태현동물병원,37.6648945,127.0358127,3,1,662-35 방학 2동, 도봉구, Seoul, South Korea
+ChIJB70UfefHfDURIPC4I5DSkmI,Love Animal Hospital,37.70849219999999,127.1193128,2.8,4,413 청학리, 별내면, 남양주시, 경기도, South Korea
+ChIJ0fXN5ReQfDURPXZVTwpVVkk,펫스티벌동물병원,37.6790173,126.7936892,4.3,39,South Korea, 일산동구 풍동 660-3번지 3층 고양시 경기도 KR
+ChIJoxIKEjW5fDURfLaaQIOv3aw,현대종합동물병원,37.6644406,127.0424049,3.9,30,680-1 방학동, 도봉구, Seoul, South Korea
+ChIJTWFTlUPJfDUR5LgTR4AnN50,Jinjeop Animal Hospital,37.7197727,127.197115,5,2,974-2 금곡리, 진접읍, 남양주시, 경기도, South Korea
+ChIJkxug9hXJfDUR7RhFQDnM2rk,Dream Animal Hospital,37.7208669,127.1862653,4.7,6,367-9 장현리, 진접읍, 남양주시, 경기도, South Korea
+ChIJ3_Jx9dePfDURuAmLX8L9hRc,참사랑동물병원,37.69343240000001,126.7807352,4,1,1570 중산동, 일산동구, 고양시, 경기도, South Korea
+ChIJjWTL60PJfDURvm20UNIvTDU,Hamill Animal Hospital,37.720567,127.196371,4,29,금곡리, 진접읍, 남양주시, 경기도, South Korea
+ChIJoxmTQCe5fDURWgTNmqWV7Es,은빛동물병원,37.6755959,127.0550953,4,1,1118-53 상계 1동, 노원구, Seoul, South Korea
+ChIJLeEUINm4fDURey91dyv48yc,수동물병원,37.6792984,127.0550731,2,1,1262 상계동, 노원구, Seoul, South Korea
+ChIJKdrGhOCPfDURDP4yoUIuq-0,산들동물병원,37.6816751,126.7784903,5,1,1669-4 중산동, 일산동구, 고양시, 경기도, South Korea
+ChIJlX9Ybms1YzURbhPs9JE8DQk,창hyun Animal Hospital,37.645993,127.304913,4.1,23,창현로, 화도읍, 남양주시, 경기도, South Korea
+ChIJm3h3auaPfDURHqUtW9-QCNk,이용철동물병원,37.6835724,126.7727363,3.9,9,643-3 일산동, 일산서구, 고양시, 경기도, South Korea
+ChIJs3y4gda4fDUR8HvBwNOjCUs,Dodam Animal Hospital,37.682633,127.045487,3.7,3,562-26 도봉 1동, 도봉구, Seoul, South Korea
+ChIJVfjmBduPfDURAYdI_2nO_Sc,Maidog,37.6931545,126.7734859,0,0,1593-3 Tanhyeon-dong, 일산서구, 고양시, 경기도, South Korea

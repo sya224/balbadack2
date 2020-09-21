@@ -1,0 +1,488 @@
+ChIJoQYDN_5iezUR0WpSsfSqbyM|보우동물병원(Vow Animal Hospital)|37.466951,126.821819|South Korea, Gyeonggi-do, Bucheon, Sosa-gu, Okgil-dong, 옥길동 729-3|032-343-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed|http://paper1984.blog.me/|3.6
+ChIJ_Ziff-FiezURTj-huZyrRJ0|노엘동물병원|37.47308400000001,126.8087169|South Korea, Gyeonggi-do, Bucheon, Sosa-gu, Beombak-dong, 32-6번지 광림빌딩 2층 KR|032-247-7575|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 4:00 PM|Closed||4.6
+ChIJO2TEiehiezURhojcTzu_NB0|늘기쁜동물병원|37.481681,126.8062109|3-14 Goean-dong, Sosa-gu, Bucheon, Gyeonggi-do, South Korea|032-341-4333|||||||||
+ChIJ--dJcSdjezURzexljASybI4|햇살동물병원|37.4743484,126.7957399|184-6 Sosabon 3(sam)-dong, Sosa-gu, Bucheon, Gyeonggi-do, South Korea|032-345-8275|||||||||
+ChIJqRaU9NhiezURyy0mpNGozKs|우리들동물병원|37.475649,126.7957595|160-29 Sosabon 3(sam)-dong, Sosa-gu, Bucheon, Gyeonggi-do, South Korea|032-346-5454||||||||http://www.wooridleclinic.kr/|3.4
+ChIJt98BqhtiezURxraSfArbEzM|굿모닝동물병원|37.4774603,126.8603446|158-235 Gwangmyeong-dong, Gwangmyeong-si, Gyeonggi-do, South Korea|02-2683-5638|||||||||1
+ChIJOWvdPqtjezURtOn38-Qsubw|24시비엔동물의료센터|37.4831003,126.8083961|111-46 Goean-dong, Sosa-gu, Bucheon, Gyeonggi-do, South Korea|032-345-7559|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours||4.2
+ChIJYbELPrxjezURZT7_BYCswvY|고래 동물병원|37.43631329999999,126.8044972|South Korea, Gyeonggi-do, Siheung-si, 은계 Beonnyeong-gil, 11 은계프라자 2층 KR 고래 동물병원|031-505-7588|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed|http://blog.naver.com/whaleamc|3.6
+ChIJxdJubAhiezURVG03tltb_QU|케이나인종합동물병원|37.4891254,126.8563725|403-143 Gaebong 3(sam)-dong, Guro-gu, Seoul, South Korea|02-2686-3939|||||||||4
+ChIJE-TM6hZiezURDR4pb9jrAQc|광명종합동물병원|37.47652,126.8532925|158-1428 Gwangmyeong 4(sa)-dong, Gwangmyeong-si, Gyeonggi-do, South Korea|02-2060-7577||||||||http://www.petzzi.com/bbs/board.php?bo_table=compliment&wr_id=4913|4
+ChIJN21y3chiezURfPOgXvAAegQ|로뎀종합동물병원|37.4922072,126.7906844|95-5 Wonmi 1(il)-dong, Wonmi-gu, Bucheon, Gyeonggi-do, South Korea|032-611-8976|||||||||
+ChIJ8-bjiXViezURMzWIehv4pH4|금강동물병원|37.4953189,126.8429292|48-1 Oryu 1(il)-dong, Guro-gu, Seoul, South Korea|02-2686-8008|||||||||3.3
+ChIJM48Xvzd9ezURiVW2cft_LdI|길동물병원|37.5009281,126.7727692|1144-2 Jung-dong, Wonmi-gu, Bucheon, Gyeonggi-do, South Korea|032-321-8430|||||||||
+ChIJvYOBlPCdfDURXPQmMMQfTsE|굿모닝동물병원|37.4966245,126.8561223|353-15 Gaebong-dong, Guro-gu, Seoul, South Korea|02-2060-8673|||||||||4
+ChIJLQzp_W9hezUReAY9Wa9UMYc|소하동물병원|37.4359934,126.8792328|920-5 Soha 2(i)-dong, Gwangmyeong-si, Gyeonggi-do, South Korea|02-897-6540|||||||||
+ChIJE1NhGQhiezURd2ill5ZmchU|개명동물병원|37.49012150000001,126.8562867|403-141 Gaebong 2(i)-dong, Guro-gu, Seoul, South Korea|02-2619-0888|||||||||4
+ChIJt98BqhtiezURgOSSLXKsXk8|참좋은동물병원|37.4774603,126.8603446|923 Ori-ro, Gwangmyeong-dong, Gwangmyeong-si, Gyeonggi-do, South Korea|02-2683-5638|||||||||4.5
+ChIJdTDWZ2tjezURWlCQZieOsvw|광명24아이디동물의료센터|37.476062,126.8659522|259 Cheolsan-dong, Gwangmyeong-si, Gyeonggi-do, South Korea||||||||||
+ChIJKWIba-GffDURjVPBvfA_h3A|DS 동물병원|37.4802977,126.9040756|3, Jowonjungang-ro, Gwanak-gu, Seoul, 조원동 서울특별시 South Korea|02-862-0972|Closed|10:00 AM – 8:00 PM|Closed|10:00 AM – 8:00 PM|Closed|10:00 AM – 7:00 PM|Closed|https://www.instagram.com/shihtzhu_family/|
+ChIJhc1YBL1hezURSuiepvBRBCQ|진동물병원|37.45176319999999,126.8918427|541-8 Geumha-ro, Soha 1(il)-dong, Gwangmyeong-si, Gyeonggi-do, South Korea||||||||||3
+ChIJ32d9m9hhezURtL1yL4dCJ0c|앨리스동물병원|37.4469968,126.8834699|South Korea, Gyeonggi-do, Gwangmyeong-si, Soha 1(il)-dong, Soha-ro, 88 201호|02-899-7512|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|http://www.facebook.com/aliceah2015|5
+ChIJ3yVt9RmefDUR1SITnqLJOIo|푸른동물병원|37.4885427,126.8842864|722-4 Guro 2(i)-dong, Guro-gu, Seoul, South Korea|02-861-0075|||||||||3
+ChIJbUtooyeefDURVcQDrgrXefs|글로리동물병원|37.4767045,126.8982445|483 Siheung-daero, Doksan-dong, Geumcheon-gu, Seoul, South Korea||||||||||4.8
+ChIJDy21Ls5hezURZdPLluwww2Q|금천동물병원|37.4638794,126.9034519|378-397 Doksan-dong, Geumcheon-gu, Seoul, South Korea|02-894-8085|||||||||5
+ChIJjVzlMimefDURmkvux4HWSjg|우리동물병원|37.4778499,126.9038681|961 Doksan-dong, Geumcheon-gu, Seoul, South Korea|02-853-7582|||||||||2
+ChIJRRa89y6efDURfGoBOXCMsHw|DS 동물병원|37.4801274,126.9038403|1668-15 Sillim-dong, Gwanak-gu, Seoul, South Korea|02-862-0972|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed|https://www.instagram.com/shihtzhu_family/|5
+ChIJCylY8bdhezURbEzWDfcGQ5M|시흥가축병원|37.4550471,126.9007302|882-54 Siheung-dong, Geumcheon-gu, Seoul, South Korea|02-802-0227|||||||||4.5
+ChIJ0wt9_tZhezURJnYvSCnHKgU|그린동물병원|37.4709341,126.9032017|193-31 Doksan 4(sa)-dong, Geumcheon-gu, Seoul, South Korea|02-856-4113|||||||||3
+ChIJESPNCLhhezURrAphgMoE278|금천24시K동물의료센터|37.456214,126.8996427|999-1 Siheung-dong, Geumcheon-gu, Seoul, South Korea|02-808-2475|||||||||4.3
+ChIJOZp0ioxhezUREZF4hU88stc|더조은동물의료센터|37.449426,126.9029397|South Korea, Seoul, Geumcheon-gu, Siheung 1(il)-dong, Siheung-daero, 172|02-802-2811|9:30 AM – 9:30 PM|9:30 AM – 9:30 PM|9:30 AM – 9:30 PM|9:30 AM – 9:30 PM|9:30 AM – 9:30 PM|9:30 AM – 9:30 PM|10:00 AM – 8:00 PM||4.9
+ChIJexBi3LVhezURfgd2IBFZ2lM|제일종합동물병원|37.4525197,126.9062297|837-37 Siheung 4(sa)-dong, Geumcheon-gu, Seoul, South Korea|02-894-3029|||||||||3.7
+ChIJozhRzsdhezUR-caYKvFg1RA|파랑새동물병원|37.4582411,126.8995358|1077-31 Doksan 2(i)-dong, Geumcheon-gu, Seoul, South Korea|02-805-2825|||||||||4.7
+ChIJq5guXtGffDUR-VUu1sJLUvA|늘푸른동물병원|37.4743783,126.9166726|727-21 Sillim-dong, Gwanak-gu, Seoul, South Korea|02-857-7572|||||||||4.6
+ChIJEahDisiffDURYVbGLzIufto|Beleullin|37.4832446,126.9207351|1531 Nambusunhwan-ro, Sinsa-dong, Gwanak-gu, Seoul, South Korea|02-830-1494||||||||http://berlin-vet.com/|
+ChIJ4ddI3ihgezURs--ltTQLVYA|난향동물병원|37.4640876,126.9193699|666-30 Nanhyang-dong, Gwanak-gu, Seoul, South Korea|02-863-8875|||||||||3
+ChIJq6qqquuffDUROJf1BWP8UlQ|정우동물병원|37.471702,126.9345244|138 Sillim-ro, Seorim-dong, Gwanak-gu, Seoul, South Korea|02-871-6704|||||||||
+ChIJ4TP058GffDURC3_3cCGo0VQ|한성동물병원|37.4782212,126.9318251|South Korea, Seoul, Gwanak-gu, Sillim-dong, 409-165|02-872-7609||||||||http://www.vetopia.co.kr/|4
+ChIJ4UUxyimgfDURIHTH4bqdS68|프렌즈동물병원|37.4847944,126.9551407|34-51 Bongcheon-dong, Gwanak-gu, Seoul, South Korea|02-874-7585|||||||||5
+ChIJp5TB_BShfDURbuqxgBD54h0|로잔동물의료센터|37.48636430000001,126.9564585|3 Gwanak-ro 29-gil, Seonghyeon-dong, Gwanak-gu, Seoul, South Korea|02-872-7588|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|http://www.elvmc.co.kr/|4.3
+ChIJHWTZMeKhfDURz7yO9H6xVZQ|24시 굿케어동물의료센터|37.47995859999999,126.9568599|1861 Nambusunhwan-ro, Haengun-dong, Gwanak-gu, Seoul, South Korea|02-6956-2475|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours||3.7
+ChIJDR_erSegfDURQJZ7WhhoaL0|관악동물종합병원|37.4801005,126.9564741|1665-4 Bongcheon-dong, Gwanak-gu, Seoul, South Korea|02-883-2733|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM||4.5
+ChIJyfEqYTOgfDUR8ZllarePQak|나을동물병원|37.48496349999999,126.9698984|248-11 Sadang 5(o)-dong, Dongjak-gu, Seoul, South Korea||||||||||2.8
+ChIJBWJOo6iffDUR9sLoSOx5xf0|치과·심장 전문 이로동물병원|37.484221,126.9368797|1678 Nambusunhwan-ro, Sillim-dong, Gwanak-gu, Seoul, South Korea|02-887-1575|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|http://www.iroanimal.com/|4.6
+ChIJ3_44PDOgfDURGYOqyISZO94|원동물병원|37.4858501,126.9685283|224-24 Sadang-dong, Dongjak-gu, Seoul, South Korea|02-587-5618||||||||https://blog.naver.com/jjaem76|4.7
+ChIJO0vK6bShfDURBgP2Qb3vMJQ|나라동물병원|37.4841788,126.9791271|1003-27 Sadang-dong, Dongjak-gu, Seoul, South Korea|02-522-2656|||||||||3
+ChIJcXsVGTWgfDURcEZ36uqud9A|모범동물병원|37.483656,126.9733334|265-12 Sadang 3(sam)-dong, Dongjak-gu, Seoul, South Korea|02-532-1740|||||||||3
+ChIJ4ZSBNEigfDURzRh2lFdRDMY|사당동물병원|37.4767958,126.9766389|1047-44 Sadang 1(il)-dong, Dongjak-gu, Seoul, South Korea|02-586-8275|||||||||4.7
+ChIJzflVikygfDURVMU0GQm8Me8|성민동물병원|37.4796343,126.9821794|442-3 Bangbae-dong, Seocho-gu, Seoul, South Korea|02-581-2524|||||||||2.8
+ChIJb239ikygfDURujNFfembfDA|VIP동물의료센터|37.4796343,126.9821794|36 Dongjak-daero, Bangbae 2(i)-dong, Seocho-gu, Seoul, South Korea|02-525-3102|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://vipah.co.kr/|4.1
+ChIJ1_7h-rShfDURsBFFqlErGXQ|굿파파24시반려동물건강검진센터|37.4847105,126.9795675|287 Sadang-ro, Sadang-dong, Dongjak-gu, Seoul, South Korea|02-593-8275||||||||http://blog.naver.com/shysky3620|4.6
+ChIJIbI84eehfDUR4FPKMaRbCvs|흑석애니피스동물병원|37.5076529,126.9645836|8-32 Heukseok-dong, Dongjak-gu, Seoul, South Korea|02-817-0025|||||||||
+ChIJ48EFMqihfDURUg_oN5F4MW8|남서울동물병원|37.483823,126.9963867|907-5 Bangbae 1(il)-dong, Seocho-gu, Seoul, South Korea|02-582-2186|||||||||
+ChIJYd8HCAGhfDUR_4kSRMwM-bU|여울동물병원|37.4775056,127.0004457|1024-4 Bangbae 3(sam)-dong, Seocho-gu, Seoul, South Korea||10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed||5
+ChIJcT1MRqqhfDURF3ffFovUNIU|반려동물의료센터다울|37.48035120000001,126.9951647|981-52 Bangbae 3(sam)-dong, Seocho-gu, Seoul, South Korea|02-3473-0911|||||||||4
+ChIJY9yx86OhfDURkJIZ3CWj9l0|방배종합동물병원|37.49301620000001,126.990637|796-28 Bangbae-dong, Seocho-gu, Seoul, South Korea|02-593-8255|||||||||
+ChIJPSx4jg-hfDURVJseQB94wQE|Daniel Animal Hospital|37.48297,127.006237|1487-1 Seocho-dong, Seocho-gu, Seoul, South Korea|02-585-0087|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed|http://www.snuvet.co.kr/page/3/8/list/4///|4.1
+ChIJm4ZTChWhfDUR3Q1lMga7boU|서초동물병원|37.4854065,127.0170236|1603-66 Seocho 1(il)-dong, Seocho-gu, Seoul, South Korea|02-582-2357||||||||https://seochoan.modoo.at/|3
+ChIJYZWYbwuhfDURG7JdBfJ6CBE|햇살아래동물병원|37.46395009999999,127.024917|725 Umyeon-dong, Seocho-gu, Seoul, South Korea|02-575-0750|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|http://sunanimal.modoo.at/|4.2
+ChIJd-AYddmgfDUR6akbw-b-Rdc|서초 힐스 동물병원|37.46214000000001,127.026473|Yangjae 1(il)-dong, Seocho-gu, Seoul, South Korea|02-574-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 5:00 PM|Closed|http://blog.naver.com/hillsah|4.3
+ChIJw36g6U6hfDUR5kOwAgdgFus|24시양재동물병원|37.4877676,127.0328831|949-2 Dogok-dong, Gangnam-gu, Seoul, South Korea|02-579-2471|||||||||
+ChIJA385ecijfDURI5FKKP4JFl0|Sky Animal Medical Center|37.5195996,127.0273496|3-8 Dosan-daero 25-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea||||||||||4
+ChIJR8nUwMmmfDURHAE0dJKYJZI|구룡동물병원|37.47563049999999,127.0470765|1228-2 Gaepo-dong, Gangnam-gu, Seoul, South Korea|02-529-3462|||||||||2.5
+ChIJSc8zL3unfDURG17M1WAcNp0|동물병원|37.47888459999999,127.0472382|223 Gaepo-ro, Gaepo 4(sa)-dong, Gangnam-gu, Seoul, South Korea||||||||||
+ChIJn-YxoJChfDURZCokRyQk4LU|도그스데이|37.4701531,127.039942|23-13 Gangnam-daero 12-gil, Yangjae-dong, Seocho-gu, Seoul, South Korea|070-5226-0482|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|Closed|Closed|http://dogsday.co.kr/|
+ChIJnST0rhmkfDURB99M7HrNEjs|Daechi Animal Medical Center|37.4983462,127.0583789|439, 도곡로 대치동 강남구 서울특별시 South Korea||||||||||
+ChIJa2GCWLamfDURLCY-L_Tbmpw|포이동물병원|37.4789079,127.0472153|1258-1 Gaepo-dong, Gangnam-gu, Seoul, South Korea|02-578-8400||||||||http://www.gp4.co.kr/8400?q_cat=E%3BI%3BM&PHPSESSID=609a1606978377a661e53e0a31c8c5a3&ot=k1|5
+ChIJRd3m4rmmfDURW2j95AQrk3g|자연동물병원|37.4792134,127.0509093|1211 Gaepo-dong, Gangnam-gu, Seoul, South Korea|02-576-8275|||||||||3.7
+ChIJOxoLHrWmfDURqWvinJsrStY|에이블동물병원|37.4808558,127.0416985|211 송지 빌딩 1 층, 바우뫼로 양재1동 서초구 서울특별시 South Korea|02-2058-1882|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 7:00 PM|Closed|https://ableah.com/|4.8
+ChIJM3mRr86mfDURHKeKo3OAJkI|한동물병원|37.47190870000001,127.0459656|377-4 Yangjae 2(i)-dong, Seocho-gu, Seoul, South Korea|02-574-8575|||||||||3.9
+ChIJISAEFLemfDUR6BE20sTQNl0|나은동물병원|37.47910299999999,127.049117|South Korea, Seoul, Gangnam-gu, Gaepo-dong, 흥진빌딩101호|02-577-7582|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|http://blog.naver.com/naeun-ah|4.2
+ChIJWcnlzkShfDUR_NVYIMSe9uo|서이동물병원|37.49326679999999,127.0256892|1332-1 Seocho-dong, Seocho-gu, Seoul, South Korea|02-3487-0075|||||||||1
+ChIJxeqvbsimfDURLll7mWz3vA0|한동물병원|37.4741863,127.0497985|1187-1 Gaepo-dong, Gangnam-gu, Seoul, South Korea|02-575-7581|||||||||5
+ChIJ2Ro6B7KmfDURKbW6Z3NsxB0|우리집동물병원|37.4864625,127.0452152|180-31 Dogok-dong, Gangnam-gu, Seoul, South Korea|02-572-8998|||||||||4.3
+ChIJZ71T0puhfDUR58zdwJ0u-6s|서초이음동물병원|37.4868229,127.0221044|347 Hyoryeong-ro, Seocho-dong, Seocho-gu, Seoul, South Korea|02-3474-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|https://blog.naver.com/iumah|5
+ChIJg8IMgWqhfDUR-bxXFWudL6c|M Animal Medical Center|37.48921,127.0183656|South Korea, Seoul, Seocho-gu, Seocho 1(il)-dong, 1628-11 1 층|02-588-7511||||||||http://mamc.modoo.at/|3.7
+ChIJw4L_4BukfDURykjKeXmZ2qo|Hansarang Animal Hospital|37.49751689999999,127.0559639|938-18 Daechi-dong, Gangnam-gu, Seoul, South Korea|02-538-4062|||||||||4
+ChIJZ0cQkUGhfDURHkW5UNjGgXE|강남서초동물병원|37.49026070000001,127.0203404|97 Saimdang-ro, Seocho 1(il)-dong, Seocho-gu, Seoul, South Korea|02-598-9875||||||||http://www.gsac.co.kr/|5
+ChIJ_6W4FZxfezURcqOmGCdBQYQ|과천동물병원|37.4279964,126.9929164|1-11 Byeoryang-dong, Gwacheon-si, Gyeonggi-do, South Korea|02-502-2688|||||||||3
+ChIJ338P4lOhfDURNn7viu55d74|하나카 동물병원|37.4942669,127.0346883|834-45 Yeoksam 1(il)-dong, Gangnam-gu, Seoul, South Korea|02-566-5852|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 AM|Closed|http://blog.naver.com/vethanaka|4
+ChIJM3F-yXuhfDURfZRLYE90Epc|쿨펫동물병원|37.504404,127.0041354|19-3 Banpo 4(sa)-dong, Seocho-gu, Seoul, South Korea|02-6282-5757|||||||||
+ChIJBYvYHCekfDURPy4J0GXRSjs|개포동물병원|37.4893514,127.068824|186-17 Gaepo-dong, Gangnam-gu, Seoul, South Korea|02-3411-1604|||||||||3.8
+ChIJZzFW1IGmfDUR2huwuriRfs8|수정동물병원|37.482905,127.080106|Gwangpyeong-ro 9-gil, Irwonbon-dong, Gangnam-gu, Seoul, South Korea|02-6053-6052|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 5:00 PM|Closed||4
+ChIJt7p7DgKkfDURcrs6IyC5ODw|도곡 종합 동물병원|37.495879,127.046228|Yeoksam 2(i)-dong, Gangnam-gu, Seoul, South Korea|02-554-8875|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|http://blog.naver.com/scarface928|3
+ChIJvwG5MHalfDURM5PaZRsX4w0|송파원동물병원 SONGPAWON ANIMAL HOSPITAL|37.50920609999999,127.1118818|South Korea, Seoul, Songpa 1(il)-dong, 백제고분로 432 2F 송파구 서울특별시 KR|02-419-7571|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed||3
+ChIJh1ayE0iifDURQnAmU2X6vjU|이태원동물병원 Itaewon Animal Hospital|37.5363658,126.9871919|531번지 Itaewon-dong, Yongsan-gu, Seoul, South Korea|02-797-6677|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|http://www.vetmedic.co.kr/|4.9
+ChIJQUA-wLOlfDURPpliXWelQSk|광동한방동물병원|37.50481529999999,127.0870681|250-13 Jamsil-dong, Songpa-gu, Seoul, South Korea|02-2202-0344|||||||||3
+ChIJL_DBBqimfDURp-7VOpU-Mhg|고려종합동물병원|37.4953782,127.0527143|527 Dogok-dong, Gangnam-gu, Seoul, South Korea|02-575-7902|||||||||4.1
+ChIJzcYLfAShfDURNf1hO5sCxpg|봄동물병원|37.4901954,127.0329759|115 Dogok-ro, Yeoksam 1(il)-dong, Gangnam-gu, Seoul, South Korea|1644-9416|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|https://blog.naver.com/bomah0508|5
+ChIJuwHSru2lfDUR8T0A5tniHzs|헬릭스동물메디컬센터(송파분원)|37.50374569999999,127.0878762|56 Samjeon-ro, Samjeon-dong, Songpa-gu, Seoul, South Korea|02-6953-7502|||||||||5
+ChIJAZGbZLGlfDURCyiz8BPvKJo|서울동물의료원|37.5046555,127.0886827|7-6 Samjeon-dong, Songpa-gu, Seoul, South Korea|02-2202-3515|||||||||
+ChIJt_FDHKqmfDURAE2ywjHf-YU|오래오래동물병원|37.49504549999999,127.0451681|784 Yeoksam-dong, Gangnam-gu, Seoul, South Korea|02-568-2090|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|Closed||3.7
+ChIJv06LeiqlfDURU26BU0fKh8c|히포사이언스|37.4842142,127.1184375|South Korea, Seoul, Munjeong 2(i)-dong, KR 서울특별시 송파구 법원로11길 25 H비즈니스파크 A동 1413호|02-532-5526||||||||http://www.hipposc.com/|
+ChIJ21KOvfalfDURLd4muJiX17Q|Tall animal hospital|37.480926,127.121805|South Korea, Seoul, Songpa-gu, Munjeong 2(i)-dong, 620 송파 푸르지오시티 110호|02-6401-1512|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed||3.5
+ChIJfR7v7OOjfDUR3SN6RDuB_aE|고양이병원 백산동물병원|37.4999946,127.0393429|725-15 Yeoksam-dong, Gangnam-gu, Seoul, South Korea|1644-5653|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://www.thecatclinic.co.kr/|3.8
+ChIJNZ3Ig2KvfDURq3ZzFXDcSOk|봄빛동물병원|37.4920355,127.1260051|125-8 Garak-dong, Songpa-gu, Seoul, South Korea|02-400-7582|||||||||2.8
+ChIJMaacx1-vfDUR8CCnMdS2fM4|송파 바로 동물병원|37.48302870000001,127.1277222|서울시 송파구 문정동 85 어은 회관 102 호 새말 로 125), 새말로 장지동 송파구 서울특별시 South Korea|02-400-8575|||||||||3.7
+ChIJTbsqkGGvfDURK6FFUr_Zmd8|하군이네동물병원|37.4881849,127.1277058|19 Songi-ro 32-gil, Munjeong 1(il)-dong, Songpa-gu, Seoul, South Korea|02-3401-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 5:00 PM|10:00 AM – 8:00 PM||4.3
+ChIJ3YwCpXuvfDURxCX9qVNcVSo|영국동물병원|37.49418530000001,127.1330676|190-6 Garak-dong, Songpa-gu, Seoul, South Korea|02-430-7005|||||||||3.9
+ChIJE7lfaXSvfDURHctrQvK5zXo|가람동물병원|37.4931023,127.1436221|562-2 Geoyeo 1(il)-dong, Songpa-gu, Seoul, South Korea|02-408-9725||||||||http://cafe475.daum.net/_c21_/home?grpid=1IrO3|4
+ChIJK-WNqJ2ofDUR0Im30ibK6M0|스칸디동물병원|37.4707719,127.1416006|South Korea, Gyeonggi-do, Seongnam-si, Sujeong-gu, Changgok-dong, 위례광장로 70|031-759-7579|||||||||5
+ChIJG2-n-7OlfDURfII6IFei7rY|(주)피스에스월드|37.50374569999999,127.0878762|South Korea, Seoul, Samjeon-dong, 삼전동 28-2번지 청목빌딩 송파구 서울특별시 KR||||||||||
+ChIJeXczS5WofDURdYbnvH3mBSw|조은동물병원|37.439109,127.14729|3066 Jungang-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|031-741-1701|||||||||4.3
+ChIJe8T84lavfDURR5I8NBfdfsQ|위례24시동물의료센터|37.4669249,127.1495165|South Korea, Gyeonggi-do, Seongnam-si, Sujeong-gu, Changgok-dong, 위례광장로 104 2층 2241,2242호|031-758-7599|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://naver.me/IFeqJgzP|5
+ChIJS_bPhZ-vfDURA67wr4bFY9Y|첼린져동물병원|37.49740740000001,127.1469272|183-11 Geoyeo-dong, Songpa-gu, Seoul, South Korea|02-404-8275|||||||||3
+ChIJZ8_9Ld2ofDURbPP3t2TBpGI|한국동물의료원|37.437776,127.1583445|2999-16 Sangdaewon 2(i)-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|031-744-8990|||||||||3.7
+ChIJvWAVSsWofDURrM9Hof0jzck|(주)서울동물병원|37.4443863,127.1577888|7 Geumgwang-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|031-741-8118|||||||||3.3
+ChIJAcD30taofDURi27MesH4BUM|강남동물병원|37.4461362,127.1635382|3661 Geumgwang 2(i)-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|02-741-3012|||||||||3.6
+ChIJXQh5cyyvfDURo5PhuMX5nA8|25시동물병원|37.4560239,127.1629546|1589 Eunhaeng 2(i)-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|031-731-0025|||||||||4.2
+ChIJ_fRKb3SvfDUR1zRkr1UK1OU|노아동물병원|37.4929357,127.1438721|562-4 Geoyeo-dong, Songpa-gu, Seoul, South Korea|02-401-0075|||||||||2.5
+ChIJ9fG-B3OvfDURb6hjl_BAI6A|마루동물병원|37.4899558,127.1447166|13 Yangsan-ro 4-gil, Geoyeo 2(i)-dong, Songpa-gu, Seoul, South Korea|02-443-8898|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 5:00 PM|10:00 AM – 5:00 PM|Closed||5
+ChIJGYwJn5-vfDURZZ32liqyJ8Q|오주동물병원|37.4980462,127.1460662|133-77 Geoyeo-dong, Songpa-gu, Seoul, South Korea|02-443-8083|||||||||4
+ChIJK1ZIJ3aofDUR33c0xz-P9Cg|분당밝은아이동물병원|37.4170233,127.1259326|312 Yeosu-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|031-754-0201|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|Closed|http://www.brighteyeah.com/|5
+ChIJW24JZ3WofDURChrmd4Ct1gU|탑동물병원|37.4120286,127.1263483|352-1 Yatap 1(il)-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South Korea|031-703-7582|||||||||4
+ChIJ-1Ah21aofDURxpgs1kN4BDE|도촌동물병원|37.414223,127.1432355|568 Dochon-dong, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea|031-752-5975|||||||||4.5
+ChIJ5Z0fe5uvfDURHMdTlk-o4bQ|김민재동물병원|37.5036287,127.1386779|120-7 Ogeum-dong, Songpa-gu, Seoul, South Korea|02-443-8973|||||||||3
+ChIJWU5PXIarfDURcggbK4-D0k4|송정동물의료센터|37.4190573,127.2460991|140 Tanbeol-dong, Gwangju-si, Gyeonggi-do, South Korea|031-767-7975|10:00 AM – 8:00 PM|10:00 AM – 9:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 9:00 PM|10:00 AM – 8:00 PM|12:00 – 7:00 PM|http://www.songjeongamc.com/|5
+ChIJyWYwsX6rfDUR7IQW7NxXLNQ|바른동물병원|37.413449,127.2587918|South Korea, Gyeonggi-do, Gwangju-si, Songjeong-dong, Pabal-ro, 107 KR|031-762-8875|||||||||3.6
+ChIJgYWrwOadfDURbAEVZbG2-B4|해피동물병원|37.5036111,126.8616667|50-95 Gocheok-dong, Guro-gu, Seoul, South Korea|02-2619-7533|||||||||4.1
+ChIJRxDBZLyffDURPhcFv3nLZos|보라매동물병원|37.4895711,126.9279766|971-3 Boramae-dong, Gwanak-gu, Seoul, South Korea|02-885-2130|||||||||2.7
+ChIJOVwq83SffDUROs5GSu1kaK4|예일동물병원|37.4893981,126.9271717|South Korea, Seoul, Gwanak-gu, Sillim-dong, 1429-3 2층|02-832-0081|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 8:00 PM|Closed||
+ChIJT5Ots7SffDURPTnJyAsmJ-I|라이프동물병원|37.5054573,126.9146573|4945 Singil-dong, Yeongdeungpo-gu, Seoul, South Korea|02-832-7975|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 7:00 PM|Closed||5
+ChIJORoNQkuefDURmIWg9clRd-o|유석동물병원|37.49343140000001,126.9098116|4824 Singil 6(yuk)-dong, Yeongdeungpo-gu, Seoul, South Korea|02-833-7554||||||||http://www.petzzi.com/bbs/board.php?bo_table=biz&wr_id=8|4.4
+ChIJdWaDXQuhfDUR3jUYsEi8vxs|서초 동물사랑센터|37.4763321,127.0381241|22 Yangjaecheon-ro 19-gil, Yangjae 1(il)-dong, Seocho-gu, Seoul, South Korea|||||||||https://www.azipet.com/pet-information/seochoalc|
+ChIJLesnzfSdfDURaqGEPM_AVsU|오류동물병원|37.497041,126.8465954|33-40 Oryu 1(il)-dong, Guro-gu, Seoul, South Korea|02-2612-3232|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 6:00 PM|Closed||4.3
+ChIJJdeBVwmefDURwY_dB8EdBzw|쿨펫동물병원|37.49825200000001,126.872799|South Korea, Seoul, Guro-dong, 서울시 구로구 구로동 롯데마트 구로점 3층|02-2631-3263||||||||http://cafe.naver.com/coolpetguro|
+ChIJKV8-DjSffDURKFhuHyJTor0|Keuleuleu|37.4861862,126.9169103|501-7 Sillim-dong, Gwanak-gu, Seoul, South Korea|010-2010-9066||||||||http://krrrr.co.kr/|
+ChIJHYmslNaffDURGFTcWJsaPV0|(주)라라동물의료원|37.4893062,126.8916581|72 Dorim-ro, Guro-dong, Guro-gu, Seoul, South Korea|02-839-7585|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|http://www.lalapet.co.kr/|4
+ChIJ26UDsBqkfDUR2Sp-DAVXkcM|SMART동물병원|37.5021871,127.0514084|South Korea, Seoul, Daechi-dong, 대치동 899-12번지 강남구 서울특별시 KR|02-554-7582|||||||||5
+ChIJVVVVVRqkfDURpkF17mMd2Gc|서울동물병원|37.50127440000001,127.0536039|426 Yeoksam-ro, Daechi-dong, Gangnam-gu, Seoul, South Korea|02-566-8211||||||||http://www.clinicpet.com/|4.6
+ChIJASLE-w6kfDURJgDlXgqr0U8|선릉동물병원|37.5068489,127.0476866|140-1 Samseong-dong, Gangnam-gu, Seoul, South Korea|02-557-1555|||||||||5
+ChIJ94VxBLulfDURfBWE_dHC86w|삼전동물병원|37.5027947,127.0967653|133-17 Samjeon-dong, Songpa-gu, Seoul, South Korea|02-424-2955|||||||||2.7
+ChIJA03LRaKlfDURF1zZ_Q5sjy4|닥터캣 고양이병원|37.5026796,127.0990332|15 Seokchon-dong, Songpa-gu, Seoul, South Korea|02-2039-2575|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|Closed|http://www.drcat-ah.co.kr/|4.6
+ChIJ4w9yNJqlfDURo3-_BwjU404|Songpa Animal Hospital|37.5015124,127.1109742|Songpa-dong, Songpa-gu, Seoul, South Korea|02-424-3662|12:00 AM – 11:30 PM|12:00 AM – 11:30 PM|12:00 AM – 11:30 PM|12:00 AM – 11:30 PM|12:00 AM – 11:30 PM|12:00 AM – 11:30 PM|12:00 AM – 11:30 PM||4.1
+ChIJLS0ZSZ-lfDURIE5ZR0HeuqU|닥터제이동물병원|37.5065167,127.1055143|184-8 Seokchon-dong, Songpa-gu, Seoul, South Korea|02-2202-3633|||||||||
+ChIJMzURyvOvfDURWTUzG6im42s|페토피아동물병원|37.5224041,127.1336223|449-13 Seongnae-dong, Gangdong-gu, Seoul, South Korea|02-471-8275||||||||http://petopi.co.kr/?page_id=26|
+ChIJnyBZRDR9ezUR2Iag9EOrJBs|늘푸른동물병원|37.4970708,126.7784052|150 Sinheung-ro, Jung 2(i)-dong, Bucheon, Gyeonggi-do, South Korea|032-662-2469|||||||||
+ChIJ91kQdQiffDURm9dSr5R2xo8|한국동물병원|37.5049302,126.9220045|829-1 Singil-dong, Yeongdeungpo-gu, Seoul, South Korea|02-848-0075|||||||||5
+ChIJS_1CzaShfDURUovusNLEnzo|수동물병원|37.4924329,126.9864152|790-27 Bangbae-dong, Seocho-gu, Seoul, South Korea|02-534-9773||||||||http://www.sooamc.com/|5
+ChIJs29IyvOvfDURSsN-mU1F2xY|방주동물의료센터|37.5224484,127.1336562|449-13 Seongnae-dong, Gangdong-gu, Seoul, South Korea|02-476-3927|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|http://bangzoo.net/|4.3
+ChIJC8ui4oaxfDURGDVD0TSbSDo|건국동물병원|37.540431,127.2088922|406-2 Sinjang-dong, Hanam-si, Gyeonggi-do, South Korea|031-793-5528|||||||||
+ChIJ22vsr5qxfDURQRE4ezeg0Gc|햇살동물병원|37.54114,127.2002884|383-10 Deokpung-dong, Hanam-si, Gyeonggi-do, South Korea|031-793-8275|||||||||
+ChIJfepGpXmefDURmSf7UIRL1j8|페토브동물병원|37.5145134,126.8715105|329-5 Sinjeong 6(yuk)-dong, Yangcheon-gu, Seoul, South Korea|02-2642-1239|||||||||
+ChIJc4Mzdk2efDURZUkK7QlarNQ|Sinpung|37.49864480000001,126.9086027|70 Singil-ro, Singil-dong, Yeongdeungpo-gu, Seoul, South Korea|02-835-7572|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|https://namu.wiki/w/%EC%8B%A0%ED%92%8D|3.9
+ChIJS0BP86iffDURYFmXrm85kXk|대방동물병원|37.5015695,126.920477|628 Singil 6(yuk)-dong, Yeongdeungpo-gu, Seoul, South Korea|02-833-0309||||||||http://m.cafe.daum.net/kangajisinji/5Ef0/40?q=D_oLHCIrjQufI0&|4.5
+ChIJOdVP6wekfDURuCqFDwrG0Dc|역삼동물병원|37.50541339999999,127.0410825|527 Eonju-ro, Yeoksam 1(il)-dong, Gangnam-gu, Seoul, South Korea|02-556-5252|10:00 AM – 12:00 AM|10:00 AM – 12:00 AM|10:00 AM – 12:00 AM|10:00 AM – 12:00 AM|10:00 AM – 12:00 AM|10:00 AM – 12:00 AM|10:00 AM – 12:00 AM||
+ChIJkUi3b4OlfDURXoWzF3_2LE8|송이동물병원|37.5024896,127.1172078|164-7 Songpa 2(i)-dong, Songpa-gu, Seoul, South Korea|02-415-7114|||||||||4.2
+ChIJK4Ri3HulfDURb0YE9RP9hTo|라임동물병원|37.51087760000001,127.1188738|South Korea, Seoul, Bangi 1(il)-dong, 방이동 135-1번지 1층 송파구 서울특별시 KR|02-6227-7582|||||||||5
+ChIJT5ld45qxfDURCDuoCiVIN7A|하남숲동물병원|37.5431091,127.1989443|340-28 Deokpung 2(i)-dong, Hanam-si, Gyeonggi-do, South Korea|031-795-7585|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 5:00 PM|Closed|http://forestanimalclinic.blog.me/|4.6
+ChIJhZRbe2uefDURtcMMxO7RHtY|벨라동물병원|37.500534,126.88458|South Korea, Seoul, Guro-gu, Guro 5(o)-dong, 501-12|02-859-8775|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|http://www.bellapet.co.kr/|4.4
+ChIJ1W6vWmuefDUReuV2UvkK9AA|지구촌동물종합병원|37.4992561,126.8848661|519-4 Guro 5(o)-dong, Guro-gu, Seoul, South Korea|02-869-7582|||||||||4.3
+ChIJk84eGnCffDURPhVJfJXiYmA|유케어 종합동물병원|37.5050587,126.942391|214 Sang-doro, Sangdo 2(i)-dong, Dongjak-gu, Seoul, South Korea|02-3280-8275||||||||http://www.24ucare.com/|2.7
+ChIJP6K_3puhfDURmCwM3LMOI7M|한강동물병원|37.50221729999999,126.9905098|1166 Banpo-dong, Seocho-gu, Seoul, South Korea|02-3477-7667|||||||||
+ChIJ55jvvo2lfDUR1d0Qt_ciMKQ|스마트동물병원 대치선릉지점|37.50222359999999,127.0503311|898 Daechi-dong, Gangnam-gu, Seoul, South Korea||||||||||4
+ChIJtYf4nZylfDURvlNWEAu1L44|한양종합동물병원|37.50323940000001,127.1134581|103-29 Songpa-dong, Songpa-gu, Seoul, South Korea|02-420-9993|||||||||4.3
+ChIJaR1LRnilfDUReX2YaCLXNsQ|페토피아동물병원|37.5082944,127.1166521|203 Ogeum-ro, Bangi-dong, Songpa-gu, Seoul, South Korea|02-414-0075||||||||http://petopi.co.kr/?page_id=26|4
+ChIJaVYdsXelfDURX_W33tftdTc|강남종합동물병원|37.509572,127.112958|135-8 Songpa 1(il)-dong, Songpa-gu, Seoul, South Korea|02-415-0195|||||||||5
+ChIJfWaPx6-lfDURagnMrOkVW_c|Skin and ear Animal Hospital|37.5084916,127.1045508|474 Songpa-daero, Songpa 1(il)-dong, Songpa-gu, Seoul, South Korea|02-417-3021|9:30 AM – 6:30 PM|9:30 AM – 6:30 PM|9:30 AM – 6:30 PM|9:30 AM – 6:30 PM|9:30 AM – 6:30 PM|9:00 AM – 6:00 PM|Closed|http://skinnear.modoo.at/|4.1
+ChIJC-3VRnilfDURr3y8VOT772w|24시페토피아동물병원|37.5081198,127.1166158|124-8 Bangi-dong, Songpa-gu, Seoul, South Korea|02-449-7500||||||||http://petopi.co.kr/?page_id=26|4.8
+ChIJW4oApZmhfDURuyH0-R3OWp4|서래동물병원|37.49830710000001,126.9984609|91-10 Banpo-dong, Seocho-gu, Seoul, South Korea|060-528-2756|9:30 AM – 6:00 PM|9:30 AM – 6:00 PM|9:30 AM – 7:00 PM|9:30 AM – 6:00 PM|9:30 AM – 6:00 PM|9:30 AM – 7:00 PM|Closed||5
+ChIJQYtiRh6wfDURTd-BL6AoRbk|길종합동물병원|37.5343473,127.1442598|50-2 Dunchon-dong, Gangdong-gu, Seoul, South Korea|02-484-0075|||||||||
+ChIJpeKjA4-xfDURu-ivHJLgKqE|하남동물병원|37.53714239999999,127.2040914|420-35 Deokpung-dong, Hanam-si, Gyeonggi-do, South Korea|031-793-7802|||||||||4.1
+ChIJA8NI_96dfDURmgQJvYKcsS0|참사랑동물병원|37.5081788,126.8650655|337-7 Sinjeong 7(chil)-dong, Yangcheon-gu, Seoul, South Korea|02-2643-7882|||||||||4.8
+ChIJ18UhJHSffDUR3BM7g41viFo|다나은동물병원|37.50589009999999,126.8772398|South Korea, Seoul, Guro-gu, Sindorim-dong, Sindorim-ro, 7 1층|02-2672-7582|||||||||
+ChIJPTOYrKqffDURci2IXaju19o|우신동물병원|37.5071157,126.9111947|232-15 Singil 4(sa)-dong, Yeongdeungpo-gu, Seoul, South Korea|02-836-6509|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours||3.8
+ChIJ6_NfCuehfDURZIC46ahujAA|중앙동물병원|37.5089305,126.9620283|162-3 Heukseok-dong, Dongjak-gu, Seoul, South Korea|02-813-9952|||||||||3
+ChIJYwsXDZ6hfDURYtIhxhLpPr4|이을반려동물케어센터|37.4990946,126.9971831|106-13 Banpo-dong, Seocho-gu, Seoul, South Korea|02-593-7575|10:00 AM – 7:00 PM|10:00 AM – 10:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 10:00 PM|10:00 AM – 7:00 PM|2:00 – 6:00 PM||4.9
+ChIJ41irpHmhfDURkvuwhMzb9p4|동물병원두리|37.50442280000001,127.0002664|South Korea, Seoul, Banpo-dong, 147호 KR 서울특별시 서초구 18-3 래미안퍼스티지중심상가|02-3476-7522|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed|http://blog.naver.com/dooriah|5
+ChIJA3WVIfqjfDUR7Z_csl6B4NE|강남동물병원|37.507793,127.0344379|205 Bongeunsa-ro, Nonhyeon 2(i)-dong, Gangnam-gu, Seoul, South Korea|02-514-7582|||||||||4.6
+ChIJWSjkb_qjfDUR-cbc41fWdCo|충현동물병원|37.50898730000001,127.0327714|191-12 Nonhyeon-dong, Gangnam-gu, Seoul, South Korea|02-3445-7582||||||||http://www.pet7582.co.kr/|4.4
+ChIJUwH5mL2lfDURrc-AXYfUFGo|엄마손동물병원|37.4996008,127.1031537|252-2 Seokchon-dong, Songpa-gu, Seoul, South Korea|02-419-2611|||||||||
+ChIJSU4b9FilfDURWbgduXtADLY|가람동물병원|37.5290014,127.1242079|550-2 Seongnae-dong, Gangdong-gu, Seoul, South Korea|02-484-5502|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 6:00 PM|Closed|http://garamah.blog.me/|4
+ChIJg7eoRrKdfDURsTAPamiRzYM|다정동물병원|37.5310922,126.837512|116-14 Sinwol 1(il)-dong, Yangcheon-gu, Seoul, South Korea|02-2694-9550|||||||||
+ChIJs5tkqMWdfDUR7vjwnmNWlJ8|바우동물병원|37.5171498,126.8545663|1052-3 Sinjeong 1(il)-dong, Yangcheon-gu, Seoul, South Korea|02-2643-8204|||||||||3.8
+ChIJB_PxAgyffDURwTVgEH1FQ28|캣앤캣 고양이병원(Cat and Cat Feline Clinic)|37.5204501,126.8897929|76 Seonyu-ro, Mullaedong 3(sam)-ga, Yeongdeungpo-gu, Seoul, South Korea|02-2677-2720|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:30 PM|Closed|https://www.catcatclinic.co.kr/|5
+ChIJ-w1hB4yefDURnzEc1ZYGTGk|애드펫동물병원|37.521622,126.8848688|1-1 Yangpyeongdong 2(i)-ga, Yeongdeungpo-gu, Seoul, South Korea|02-2068-2277|||||||||4.7
+ChIJq6qqqqeffDURCC1gh4Jtnjw|Phoenix Animal Hospital|37.4999695,126.9254434|43 Sang-doro, Daebang-dong, Dongjak-gu, Seoul, South Korea|02-813-7579|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 7:00 PM|9:00 AM – 7:00 PM|http://cafe.daum.net/phoenixah|3.8
+ChIJCdnB4s-ffDURS8wx6KuiqxE|다정다감 동물병원|37.5058239,126.9468886|South Korea, Seoul, Dongjak-gu, Sangdo-dong, 22-1 1층 102호|02-6959-0759|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|https://blog.naver.com/djdg2020|
+ChIJjWUXfGShfDURtIRWREXtQqI|신반포동물병원|37.5033209,127.0108015|56-1 Banpo-dong, Seocho-gu, Seoul, South Korea|02-3482-0076|||||||||4.4
+ChIJ78twmbGlfDUR4YMoErC7YUY|25시동물병원|37.5055165,127.0894048|5-3 Samjeon-dong, Songpa-gu, Seoul, South Korea|02-424-6581|||||||||3.7
+ChIJ56gBXYKlfDURAwqFNjn1V_c|웰니스 동물병원|37.5112348,127.0980274|240 Olympic-ro, Jamsil 3(sam)-dong, Songpa-gu, Seoul, South Korea|02-6941-1480|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|http://blog.naver.com/wellnesslw|
+ChIJy0J1fXmhfDURyBllWMb87Ng|헬릭스동물메디컬센터|37.5049151,127.0023743|19-1 Banpo-dong, Seocho-gu, Seoul, South Korea|02-2135-9119|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://helix-amc.com/|3.9
+ChIJoUj1-_yjfDURaPJLnYDx9ZI|Anajo|37.5033759,127.0315658|Yeoksam-dong, Gangnam-gu, Seoul, South Korea|1544-6295|||||||||
+ChIJL3Gw6gmkfDUROqLm0oYFIf0|(주)중앙동물메디컬센터|37.5098484,127.0414372|277-21 Nonhyeon-dong, Gangnam-gu, Seoul, South Korea|02-512-3331|||||||||4.3
+ChIJaRmkJv2vfDURiWnrfdn4HLE|내품에동물병원|37.534564,127.135634|Seongnae 3(sam)-dong, Gangdong-gu, Seoul, South Korea|02-477-1775|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 7:00 PM|http://mylovehug.blog.me/|4.3
+ChIJn6XDIx6wfDURlhRz29RL8-I|김태화동물병원|37.5340847,127.1435566|53-1 Dunchon-dong, Gangdong-gu, Seoul, South Korea|02-486-4252|||||||||4
+ChIJM9T8Eaq6fDURrV_Hb9otHXU|쥬라기동물병원|37.5442346,127.125178|333-38 Cheonho-dong, Gangdong-gu, Seoul, South Korea|02-483-7463|||||||||4.2
+ChIJYcEUIBqwfDURzoSRxzds-CU|강동동물병원|37.5423463,127.1419265|336-4 Gil-dong, Gangdong-gu, Seoul, South Korea|02-472-7343||||||||https://joubebe.com/bbs_detail.php?bbs_num=2606&tb=info_map|4.5
+ChIJxcfvaOOvfDURMV2wU7ooo8o|서울동물메디컬센터|37.5317642,127.1381216|486-7 Dunchon-dong, Gangdong-gu, Seoul, South Korea|02-457-0075|||||||||4.6
+ChIJGbPW1cidfDURowz-eciE_k8|서부동물병원|37.5221213,126.851622|502-5 Sinwol-dong, Yangcheon-gu, Seoul, South Korea|02-2601-8275|||||||||2
+ChIJlT8bntGdfDUR8JFUbueVI9Y|해성동물병원|37.5206216,126.8599823|1020-17 Sinjeong 1(il)-dong, Yangcheon-gu, Seoul, South Korea|02-2651-9953|||||||||5
+ChIJhzXy72GhfDUROAFgZY4jOcQ|반포자이동물병원|37.5065936,127.0139319|Banpo-dong, Seocho-gu, Seoul, South Korea|02-3476-3535|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 8:00 PM|Closed|http://blog.naver.com/bxiah|4.5
+ChIJ0Snr5VmlfDUR-8Pn21RDgT0|닥터표 동물병원|37.5320632,127.1214215|322-7 Seongnae-dong, Gangdong-gu, Seoul, South Korea|02-484-4063|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|http://drpyoah.modoo.at/|4.8
+ChIJcVJp71mlfDURilJyTXISglE|박형우동물병원|37.5315365,127.1212494|321-1 Seongnae-dong, Gangdong-gu, Seoul, South Korea|02-488-8275||||||||http://www.catnews.net/bbs/board.php?bo_table=G102&wr_id=1094|4.1
+ChIJ76zhu8WdfDURwYrllrsPzms|서울탑동물병원|37.5176998,126.853628|1182-11 Sinjeong 3(sam)-dong, Yangcheon-gu, Seoul, South Korea|02-2601-8875|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM||3.3
+ChIJG5SV_9adfDUR2Nkr8tfYdWQ|공원옆동물병원|37.5173729,126.8653092|321-6 Sinjeong-dong, Yangcheon-gu, Seoul, South Korea|02-2650-8275|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|10:00 AM – 7:30 PM|Closed|10:00 AM – 7:30 PM|10:00 AM – 6:00 PM|Closed|http://blog.naver.com/ilovepet7533|4.6
+ChIJ7Z5TD2mffDUR2fri7O2FLlo|디아크동물종합병원|37.5117369,126.9391006|246-1 Noryangjin 2(i)-dong, Dongjak-gu, Seoul, South Korea|02-816-7582|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|Closed|Closed||3.3
+ChIJ7TEC4kuffDURQzva_o-F1qY|시유동물메디컬센터|37.5199656,126.9698589|24 Ichon-ro 64-gil, Ichon-dong, Yongsan-gu, Seoul, South Korea|02-793-0075|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Closed|Open 24 hours|Open 24 hours||4.2
+ChIJvQB8MuGjfDURPUV8IvddFW8|라파엘종합동물병원|37.5087927,127.0219391|722-29 Banpo-dong, Seocho-gu, Seoul, South Korea|02-3444-7507|||||||||4.5
+ChIJLepn1OWjfDURfhcRdn28P-M|그레이스|37.5105703,127.0242166|122-20 Nonhyeon-dong, Gangnam-gu, Seoul, South Korea|02-3442-5554|||||||||5
+ChIJM9c3WEqhfDURWvSKSY7J9mc|아크리스동물병원|37.5137302,127.0619008|160-21 Samseong-dong, Gangnam-gu, Seoul, South Korea|02-583-7582|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|Closed|Closed|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|Closed||4.2
+ChIJnYUbPhSwfDUR2k1Ro1v1YF4|안단테동물병원|37.5485366,127.143303|30-5 Cheonho 1(il)-dong, Gangdong-gu, Seoul, South Korea|02-476-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 5:00 PM|10:00 AM – 5:00 PM||5
+ChIJK4kBPhSwfDURrVFhLLW7lZ0|안단테 동물병원|37.5485122,127.1432873|30-5 Cheonho-dong, Gangdong-gu, Seoul, South Korea|02-476-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 5:00 PM|10:00 AM – 5:00 PM|http://www.andanteah.co.kr/|4.7
+ChIJcZRkKP2vfDURwYjyjVTp0ww|강동24시SKY동물의료센터|37.53429879999999,127.1359586|1122 Cheonho-daero, Seongnae-dong, Gangdong-gu, Seoul, South Korea|02-472-7579|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|https://blog.naver.com/skyamc_gd|3.9
+ChIJX_Yz8sixfDURkUGt4Y2-kKc|튼튼동물의료센터|37.561421,127.1933908|73 Gangbyeon-ro, 미사 Hanam-si, Gyeonggi-do, South Korea|031-792-5277|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://blog.naver.com/bongmin14|3.7
+ChIJsTl8y0WwfDURg8zT5bzdOM8|해태동물병원|37.5534304,127.1546111|47-12 Myeongil 2(i)-dong, Gangdong-gu, Seoul, South Korea|02-427-5685|||||||||5
+ChIJMVC5wbmdfDUR_fm91KLS3s4|Yangcheon Animal Hospital|37.5222323,126.8426229|444-11 Sinwol 4(sa)-dong, Yangcheon-gu, Seoul, South Korea|02-2607-0022|||||||||2.2
+ChIJv-7eRoeefDURh-kaR7txZGk|노아동물병원|37.5184063,126.8706612|6 Mokdongdong-ro 10-gil, Sinjeong 2(i)-dong, Yangcheon-gu, Seoul, South Korea|02-2654-6183|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 7:00 PM|Closed||4.5
+ChIJIYYwXPuefDURDHKS-KcYNhI|LUV Pet|37.5171897,126.9022603|South Korea, SEOUL YEONGDEUNGPO-GU 영등포동|02-2634-8275||||||||http://www.luvpetkorea.com/|
+ChIJzSbgnSuffDURul4ZdpxnSDk|경인동물의료센터|37.5156938,126.9054517|832 Gyeongin-ro, Yeongdeungpobon-dong, Yeongdeungpo-gu, Seoul, South Korea|02-571-8275|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|9:00 AM – 11:00 PM|http://yeosuderma.com/|4.5
+ChIJM-XdPqeffDURpRSh7rEWDrc|서울축산동물병원|37.5242855,126.9042255|64-48 Yeongdeungpodong 7(chil)-ga, Yeongdeungpo-gu, Seoul, South Korea||||||||||
+ChIJOR08RYeefDURVTuxErCylv8|리더스동물병원|37.5216218,126.8742309|117-37 Sinjeong 2(i)-dong, Yangcheon-gu, Seoul, South Korea|02-2652-1865|||||||||3.8
+ChIJpQ8Qx_KefDURjhm0RUNdBzg|영등포동물병원|37.5231775,126.8962565|348 Dangsandong 1(il)-ga, Yeongdeungpo-gu, Seoul, South Korea|02-2633-9991|||||||||3.8
+ChIJnVOUwkCffDURYmALnPif2Js|Bridge Point Animal Hospital Yoido|37.5210634,126.9343933|417 Yeouidaebang-ro, Yeoeuido-dong, Yeongdeungpo-gu, Seoul, South Korea|02-761-7580||||||||http://www.yeouidoah.com/|5
+ChIJ9bK78fShfDURjRoD29FPhwc|이촌종합동물병원|37.5188461,126.9734713|300-83 Ichon-dong, Yongsan-gu, Seoul, South Korea|02-797-1231|||||||||1
+ChIJp3q7zvOjfDURs4whtjjt6kA|최영민동물의료센터|37.5151461,127.032368|24 Nonhyeon-ro 132-gil, Nonhyeon 2(i)-dong, Gangnam-gu, Seoul, South Korea|02-546-9539|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|https://blog.naver.com/vet6390|4.3
+ChIJX6YWWxWwfDURsPkDtjVE6IA|피카소동물병원|37.5502065,127.1467313|289-15 Myeongil-dong, Gangdong-gu, Seoul, South Korea|02-3427-6419|||||||||5
+ChIJE4bPZgGwfDURbm4Op0cVs80|현대종합동물병원|37.5416239,127.1308442|397-74 Cheonho 3(sam)-dong, Gangdong-gu, Seoul, South Korea|02-488-3703|||||||||5
+ChIJpZkAExSxfDURCVLXXTjhHCQ|페테리안|37.5695912,127.1859791|South Korea, Gyeonggi-do, Hanam-si, Mangwol-dong, 974 구산프라자 3층||||||||||5
+ChIJY-4rvA2dfDURqgpSXNKp3js|고강동물병원|37.5268146,126.815792|474-1 Gogang-dong, Ojeong-gu, Bucheon, Gyeonggi-do, South Korea|032-683-5137|||||||||3.9
+ChIJeyLlKMmdfDURiGwtnZwDlSM|우신동물병원|37.5226425,126.8514591|501-12 Sinwol 2(i)-dong, Yangcheon-gu, Seoul, South Korea|02-2693-8883|||||||||4.7
+ChIJVR9upSycfDURUIP5IYVhj_4|신정동물병원|37.5252044,126.8594267|987-3 Sinjeong 4(sa)-dong, Yangcheon-gu, Seoul, South Korea|02-2697-7576||||||||http://www.petzzi.com/bbs/board.php?bo_table=compliment&wr_id=3326|4.8
+ChIJOR08RYeefDUR7kgrkUDsrec|리더스24시동물병원|37.5216218,126.8742309|117-37 Sinjeong 2(i)-dong, Yangcheon-gu, Seoul, South Korea|02-2652-5475|||||||||4.3
+ChIJKfVOEUCffDURa8jJ5vv-0yo|여의도동물병원|37.5187643,126.9334972|108 Gukjegeumyung-ro, Yeoeuido-dong, Yeongdeungpo-gu, Seoul, South Korea|02-783-7580|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|1:00 – 7:00 PM|http://www.yeouidoah.com/|4.4
+ChIJe281L_WhfDURRBJwVQQIA_M|Bay Animal Hospital|37.51784809999999,126.9729615|Hangang Mansion 11, 102, 248 이촌로 이촌1동 용산구 서울특별시 South Korea|02-749-7588|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|Closed|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM||
+ChIJ538s2fSffDURo77mBT76OCU|동물병원 품|37.5043512,126.9493828|South Korea, Seoul, Dongjak-gu, Sangdo 1(il)-dong, Yangnyeong-ro, 277-1 동물병원 품 1층|02-812-7585|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|10:00 AM – 8:00 PM||
+ChIJrcmItR-ifDURc4JqLF16YhQ|Bada animal hospital, veterinarian|37.523218,126.9731278|South Korea, Seoul, Hangangno-dong, 용산동5가 24-1번지 상가 지층 비21호 용산파크타워 용산구 서울특별시 KR|02-792-2561|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 5:00 PM|9:00 AM – 5:00 PM||5
+ChIJmzYz_uujfDURR6OysQA6fAA|신사동물병원|37.5175174,127.0237611|138 Dosan-daero, Nonhyeon 1(il)-dong, Gangnam-gu, Seoul, South Korea|02-549-4505|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|http://www.sinsapethospital.co.kr/|
+ChIJ2fkbOPWjfDURU9p2D-ldYiQ|강남25시동물병원|37.5160698,127.0386317|240-1 Nonhyeon-dong, Gangnam-gu, Seoul, South Korea|02-545-8575|||||||||3.8
+ChIJhwQGCXSkfDURBjQ-UhK1uSI|굿모닝동물병원|37.5181254,127.0452141|South Korea, Seoul, Gangnam-gu, Cheongdam-dong, 학동로 413 107호 청담빌딩|02-548-5466|||||||||4.7
+ChIJwW4rbwGwfDURZ5L8IcB47I4|세종동물병원|37.54167949999999,127.1303998|397-27 Cheonho-dong, Gangdong-gu, Seoul, South Korea|02-484-8414|||||||||
+ChIJc9kbNEucfDUR6CEdMhySXIw|세명동물병원|37.5326387,126.8427945|353-58 Hwagok 1(il)-dong, Gangseo-gu, Seoul, South Korea|02-2604-3584|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|Closed|http://m.semyungah.com/|4.3
+ChIJ6ZpLvuydfDURTzb4Y17A87o|24시 우리들동물메디컬센터|37.5228713,126.8648753|161 Mokdong-ro, Sinjeong 4(sa)-dong, Yangcheon-gu, Seoul, South Korea|02-2642-7588|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|https://blog.naver.com/truthy2000|
+ChIJ9S3c2y6cfDURPWw3p5UdKGk|하트온동물병원|37.5321209,126.8617858|797-22 Hwagok-dong, Gangseo-gu, Seoul, South Korea||||||||||5
+ChIJwWTtPzWifDURyewqMmXDeTI|청화동물병원|37.5310395,126.9958021|21-1 Itaewon-dong, Yongsan-gu, Seoul, South Korea|02-792-7602||||||||http://www.cwhospital.com/|4.1
+ChIJSYuno8ajfDURuG8Ib8htSss|튼튼동물병원|37.52519849999999,127.0241008|South Korea, Seoul, Gangnam-gu, Apgujeong-dong, 421 2층||||||||||
+ChIJ50_eXeyjfDURI_6DuXVEHak|신사24시SKY동물병원|37.51889309999999,127.025364|South Korea, Seoul, Gangnam-gu, Sinsa-dong, 561-16번지 1층 2층|02-546-2475||||||||https://skyamg.modoo.at/|
+ChIJjdsn6aSjfDURin0Kg0B6RTY|에이드동물병원|37.5211367,127.0278857|586-4 Sinsa-dong, Gangnam-gu, Seoul, South Korea|||||||||http://www.aidah.co.kr/|
+ChIJz30jXuyjfDUR4hkUnSqxkcw|페츠비동물병원|37.5189026,127.0253829|561-16 Sinsa-dong, Gangnam-gu, Seoul, South Korea|02-546-2475|||||||||4.7
+ChIJH4acVemjfDURRZ_zl4gzluo|신사동물병원(구 24시동물병원)|37.519607,127.029003|59-5 Nonhyeon-dong, Gangnam-gu, Seoul, South Korea|02-549-4505|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|http://www.sinsapethospital.co.kr/|4.6
+ChIJq6qqqq2mfDURSu01allMwFY|Yeeun Animal Hospital|37.4923809,127.0400194|189 Dogok-ro, Yeoksam 1(il)-dong, Gangnam-gu, Seoul, South Korea|02-529-5575|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 6:30 PM|http://yeah4u.co.kr/|4.6
+ChIJMdWpXEewfDUR2IlTSE_v8fU|두루동물병원|37.5489846,127.1536751|249-6 Myeongil-dong, Gangdong-gu, Seoul, South Korea|02-442-7772|||||||||4.3
+ChIJr2UDFLOdfDURF-1XkmirB5A|강서동물병원|37.5321754,126.8395951|421-23 Hwagok 1(il)-dong, Gangseo-gu, Seoul, South Korea|02-2691-5900|||||||||3.3
+ChIJy8kzpkqcfDURHGq6ElmhxT0|미래동물병원|37.5317034,126.8463722|343-51 Hwagok 1(il)-dong, Gangseo-gu, Seoul, South Korea|02-2608-0234|||||||||
+ChIJsXPkkcujfDURlh0FJJG9A_g|보광동물병원|37.5264568,127.0007184|80-11 Bogwang-dong, Yongsan-gu, Seoul, South Korea|02-790-9808|||||||||4
+ChIJX-ll_IujfDURDh6F6uWrr9A|치료멍멍동물의료센터|37.522319,127.0351874|South Korea, 서울특별시 Gangnam-gu, Apgujeong-dong, 도산대로 309|02-545-0075|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://7500clinic.com/|4.8
+ChIJKx8y3ImjfDURyVn5MLozWvc|이비치동물치과병원|37.5222242,127.0396519|1-18 Cheongdam-dong, Gangnam-gu, Seoul, South Korea|||||||||http://www.evichi.co.kr/|4.5
+ChIJ32cxDdulfDURrgfw4KgZg58|청담리덴동물치과병원|37.5245423,127.0527048|South Korea, Seoul, Gangnam-gu, Cheongdam-dong, Dosan-daero, 301 540|02-544-2882|||||||||
+ChIJaV-BTLamfDUR8mBLnteEOzM|Ian Animal Medical Center|37.52385849999999,127.039623|806 Seolleung-ro, Cheongdam-dong, Gangnam-gu, Seoul, South Korea|02-574-7533|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|http://www.ian.kr/|4.3
+ChIJafVr7nmkfDURs0eYtI-eDoA|이리온 동물병원 청담점|37.5242841,127.0447752|445 Dosan-daero, Cheongdam-dong, Gangnam-gu, Seoul, South Korea|1577-6125|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|http://www.irion.co.kr/|4
+ChIJEYLe5nqkfDURdgX9lMtcm60|일마레동물메디컬센터|37.5239867,127.0492375|514 Dosan-daero, Cheongdam-dong, Gangnam-gu, Seoul, South Korea|02-3445-7275|||||||||4.2
+ChIJExuvdRawfDURRBiWMRtMYyQ|필립동물병원|37.54659580000001,127.1457871|343-7 Myeongil-dong, Gangdong-gu, Seoul, South Korea|02-426-1475|||||||||2.3
+ChIJG5SqkValfDUR1MWRoJ5ie5g|천호종합동물병원|37.5363744,127.1223174|480-2 Pungnap 1(il)-dong, Songpa-gu, Seoul, South Korea|02-473-6900|||||||||
+ChIJhyekgwWwfDUROc1xXWbmU9I|Dalae|37.5458237,127.1335325|294-23 Cheonho-dong, Gangdong-gu, Seoul, South Korea|02-474-0117|||||||||4.4
+ChIJhUVXIrSjfDURsqh3JPh_63Y|한남2001동물병원|37.5333726,127.0019681|South Korea, Seoul, Yongsan-gu, Hannam-dong, 642-41,|02-793-9230|||||||||
+ChIJmf4ghLCjfDURrAtAuRuc_zs|달래동물의료센터(Dallae Veterinary Clinic)|37.5355035,127.0065391|South Korea, Seoul, Yongsan-gu, Hannam-dong, 프라자 76 2층 달래동물의료센터|02-794-1255|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|1:00 – 6:00 PM|http://www.dallae.co.kr/|4.4
+ChIJc6sYdwqjfDURU5xVdqdk1Jo|압구정웰동물병원|37.5233172,127.0213378|South Korea, Seoul, Gangnam-gu, Sinsa-dong, Apgujeong-ro, 108 덕산빌딩||||||||||5
+ChIJsbojq-OkfDURZt0n9QZfbjI|펫프라자동물병원|37.5316614,127.0802067|636-29 Jayang-dong, Gwangjin-gu, Seoul, South Korea|02-457-0231|||||||||3.3
+ChIJ803hTE6cfDURsAGu1GD7FcI|우장동물병원|37.541091,126.8376228|1066-10 Hwagok 3(sam)-dong, Gangseo-gu, Seoul, South Korea|02-2602-7582||||||||http://animaldoctor.co.kr/detail.php?number=71|5
+ChIJVdqzkdyefDURsDYRpddOLyw|디오빌동물병원|37.533212,126.9022778|11-33 Dangsandong 5(o)-ga, Yeongdeungpo-gu, Seoul, South Korea|02-2671-0026||||||||http://www.drdio.co.kr/|4.5
+ChIJC3SzfQ-ifDURQZlXMtkz0vs|열린동물종합병원|37.53559389999999,126.9617498|84-10 Wonhyoro 2(i)-ga, Yongsan-gu, Seoul, South Korea|02-3273-0075|||||||||3.5
+ChIJATYDYVGjfDURTwNtE-7hItc|원스동물병원|37.54494990000001,126.9694824|16 Cheongpa-ro 47-gil, Cheongpadong 2(i)-ga, Yongsan-gu, Seoul, South Korea|02-719-8275|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed||5
+ChIJLebFOLSjfDURfr5-vS9CyBo|펫토이동물병원|37.5334282,127.0012182|653-26 Hannam-dong, Yongsan-gu, Seoul, South Korea|02-795-2184|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed||4
+ChIJ0UPum-OkfDURsYT6HX22JzI|우리동물병원|37.531628,127.080215|636-29 Jayang-dong, Gwangjin-gu, Seoul, South Korea|02-457-0231|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 8:30 PM|10:00 AM – 7:00 PM|http://blog.naver.com/dldmsqls27|4
+ChIJc_VLaxGkfDUROTmG4RZJvkE|Dogeujjang|37.50511699999999,127.0545201|14-12 Teheran-ro 78-gil, Daechi-dong, Gangnam-gu, Seoul, South Korea|070-7719-0029||||||||http://www.dog-zzang.co.kr/|
+ChIJZSsj7B2lfDURNW45hfa7__w|해맑은 동물병원|37.5315611,127.0838696|662-13 Jayang-dong, Gwangjin-gu, Seoul, South Korea||||||||||4.4
+ChIJNRMXAKudfDUR5UW-hVcVMy0|다나동물병원|37.54856520000001,126.8366234|254 Gangseo-ro, Hwagok-dong, Gangseo-gu, Seoul, South Korea|02-2690-1060|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed|http://blog.naver.com/dana2008/|4.5
+ChIJWyQpiQ6ifDURVbN88jp7qIU|효창동물병원|37.53926010000001,126.9618608|70-11 Hyochang-dong, Yongsan-gu, Seoul, South Korea|02-711-4527|||||||||4.8
+ChIJ3R538bqjfDURrdMKIwW7VMo|더힐동물의료센터|37.5346037,127.0095526|29-6 Hannam-dong, Yongsan-gu, Seoul, South Korea|02-792-8275|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|https://blog.naver.com/thehillvet|4.3
+ChIJN-FDY4ulfDURTdv4DkAvVgo|로얄도그앤캣메디컬센터|37.5358089,127.0684009|49 Neungdong-ro, Jayang 4(sa)-dong, Gwangjin-gu, Seoul, South Korea|02-468-6612|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://royaldnc.com/|5
+ChIJrdPdhx6lfDURw9JC7qWR_cs|아이본동물병원|37.53228550000001,127.0855631|South Korea, Seoul, Gwangjin-gu, Jayang 2(i)-dong, Jayang-ro, 48 아이본동물병원 1층|02-455-5975|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed|https://blog.naver.com/eyebone86|
+ChIJpbkHWEacfDURheSoJmmZKrM|대한동물병원|37.543791,126.843157|South Korea, Seoul, Gangseo-gu, Hwagok-dong, 서울특별시 강서구 화곡로 205 대한동물병원|02-2694-4821|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 8:30 PM|10:00 AM – 7:00 PM|9:00 AM – 6:00 PM|Closed|http://comfortdh.modoo.at/|2.7
+ChIJZyVnw-2kfDURRPCjFbPJSFk|이다종합동물병원|37.5357555,127.0661025|South Korea, Seoul, Gwangjin-gu, Jayang 3(sam)-dong, 553-280|02-463-7075|||||||||5
+ChIJGxqw9ZmkfDURoEnu40EUcJQ|포레동물병원(forêt animal hospital)|37.5435773,127.0492196|성수일로33 포레동물병원, 성수동1가 Seongdong-gu, Seoul, South Korea|02-468-7975|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 5:00 PM|Closed|https://blog.naver.com/nostalsia|4.6
+ChIJqxWAmO-kfDURv2pTLKTKjT4|아라우나 동물병원|37.53443899999999,127.070913|548 Ttukseom-ro, Jayang-dong, Gwangjin-gu, Seoul, South Korea|02-455-7975|10:30 AM – 9:00 PM|10:30 AM – 9:00 PM|10:30 AM – 9:00 PM|10:30 AM – 9:00 PM|10:30 AM – 9:00 PM|10:30 AM – 9:00 PM|Closed|http://arauna.modoo.at/|4.3
+ChIJX-K0CBOxfDURpjsSIslR-Vg|미사동물병원|37.566666,127.1885603|South Korea, Gyeonggi-do, Hanam-si, Mangwol-dong, 미사강변중앙로 223|031-796-7179|9:30 AM – 8:45 PM|9:30 AM – 8:45 PM|9:30 AM – 8:45 PM|9:30 AM – 8:45 PM|9:30 AM – 8:45 PM|9:30 AM – 6:30 PM|9:30 AM – 5:30 PM|https://misa7179.modoo.at/|4.1
+ChIJPRWzkL2efDURfHGBHdiN0Z0|가나종합동물병원|37.5377149,126.8820894|908-31 Mok-dong, Yangcheon-gu, Seoul, South Korea|02-2645-7588|||||||||4.2
+ChIJqWcXOseefDURXYAKOaaftUU|사랑의 동물병원|37.538535,126.8913203|South Korea, Seoul, Yangpyeongdong 5(o)-ga, 5가 76번지 한신아파트 107동 1층 상가 12호 영등포구 서울특별시 KR|070-8126-7582||||||||https://blog.naver.com/tjdqnswls|
+ChIJCbyFKdqYfDUR9Fcib1t8lI8|뉴욕동물병원|37.55073,126.916004|395-44 Seogyo-dong, Mapo-gu, Seoul, South Korea|02-333-9558|||||||||4
+ChIJ-dxsFuqYfDURt6A6M6MvVV4|마리동물병원(Mari Animal Hospital)|37.55792659999999,126.928187|Donggyo-dong, Mapo-gu, Seoul, South Korea|02-323-7582|10:00 AM – 2:00 PM, 3:00 – 8:00 PM|10:00 AM – 2:00 PM, 3:00 – 8:00 PM|10:00 AM – 2:00 PM, 3:00 – 8:00 PM|10:00 AM – 2:00 PM, 3:00 – 8:00 PM|10:00 AM – 2:00 PM, 3:00 – 8:00 PM|10:00 AM – 2:00 PM, 3:00 – 8:00 PM|Closed|http://www.mariamc.co.kr/|3
+ChIJjQ9-sySZfDURUD6i82bi4WM|닥터호오 동물병원|37.5429776,126.9378623|24 Daeheung-ro, Yonggang-dong, Mapo-gu, Seoul, South Korea||||||||||
+ChIJT97RqLCYfDURDkl7b0lD5LQ|용강동물병원|37.5435925,126.9385296|337-41 Daeheung-dong, Mapo-gu, Seoul, South Korea|02-707-2340||||||||http://yonggangah.advet.co.kr/|4.8
+ChIJsZEiFMSkfDURfIsg9UJw1hs|수동물병원|37.5484114,127.0683249|355-10 Gunja-dong, Gwangjin-gu, Seoul, South Korea|02-3409-4640|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|2:00 – 7:00 PM|10:00 AM – 12:30 PM, 1:30 – 7:00 PM|10:00 AM – 12:30 PM, 1:30 – 4:00 PM|Closed||
+ChIJIU0s5jqlfDUR1CurDKJY-Kw|프라임동물병원|37.5391291,127.0920743|659 Gueui-dong, Gwangjin-gu, Seoul, South Korea|02-457-0292|||||||||4.2
+ChIJ_bJTnjqlfDURYjCk36lQPAE|쥬라기동물병원|37.5420399,127.0952643|530-39 Gwangjang-dong, Gwangjin-gu, Seoul, South Korea|02-455-7570|||||||||4
+ChIJLa6HmTylfDUR3mXmcwlwODM|광진 필동물병원|37.5370307,127.0953541|South Korea, Seoul, Guui 3(sam)-dong, 강변상가 1,2층 광진구 서울특별시 KR|02-446-8175||||||||https://blog.naver.com/philamc|4.8
+ChIJZf9BNzelfDURZP9MJnsR2aU|에디슨동물병원|37.5423412,127.1001892|565 Gwangjang-dong, Gwangjin-gu, Seoul, South Korea|02-447-5975|||||||||2.3
+ChIJJWw7dgmwfDURk0lpoUvHqpo|광나루동물병원|37.5522615,127.1285664|500 Amsa-dong, Gangdong-gu, Seoul, South Korea|02-3427-7582|||||||||4.3
+ChIJb7A116aefDUR8iqgIscttmA|대현동물병원|37.5441435,126.8706736|531.13 Mok 2(i)-dong, Yangcheon-gu, Seoul, South Korea|02-2647-8425|||||||||4
+ChIJs1m1DuCZfDURWpgu335rvZU|캣&덴탈 하이디 동물병원|37.5513611,126.9118182|South Korea, Seoul, Mapo-gu, Hapjeong-dong, World cup-ro 3-gil, 14 한강2차푸르지오 상업시설 123호|02-338-0275|10:00 AM – 8:00 PM|Closed|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|http://blog.naver.com/highdah|
+ChIJazmpiqSYfDURqWwOdg4bxSI|굿모닝동물병원|37.54467580000001,126.9460288|164-4 Yeomni-dong, Mapo-gu, Seoul, South Korea|02-711-3375|||||||||5
+ChIJs3GZ6qCYfDURWalpcoqkO6E|공덕건강한동물병원|37.5445093,126.9526393|256-13 Gongdeok-dong, Mapo-gu, Seoul, South Korea|02-701-0705|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed||4.6
+ChIJX3b76GKZfDURjrEA78yUbOg|콩닥동물병원|37.5461523,126.95212|127 Mapo-daero, Ahyeon-dong, Mapo-gu, Seoul, South Korea|02-6383-0303|10:00 AM – 9:30 PM|10:00 AM – 9:30 PM|10:00 AM – 9:30 PM|10:00 AM – 9:30 PM|10:00 AM – 9:30 PM|10:00 AM – 9:30 PM|10:00 AM – 8:00 PM|http://kongvet.co.kr/|
+ChIJW-tfM6ejfDURl1qRiqiZ5BY|함께하는동물병원|37.54295500000001,127.0130779|263-1 Oksu-dong, Seongdong-gu, Seoul, South Korea|02-2299-3283|||||||||4.6
+ChIJpfnhZAqjfDURdKmh2B_EiVU|오석헌동물병원|37.5442674,127.0153759|South Korea, Seoul, Seongdong-gu, Oksu-dong, Dokseodang-ro, 223 래미안옥수리버젠 상가동 1층|02-6402-0301|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed||4.4
+ChIJNx_KgTqlfDURh18Ga3bUzVY|동서울동물병원|37.5417344,127.0961809|517-5 Gwangjang-dong, Gwangjin-gu, Seoul, South Korea|02-444-7533||||||||https://tip.daum.net/question/92110529|4.6
+ChIJcbv1qxicfDUR-0d2vDY51QQ|강/현림종합동물병원|37.5439796,126.8624166|657-16 Mok 3(sam)-dong, Yangcheon-gu, Seoul, South Korea|02-2642-8886|||||||||4.5
+ChIJTWtKiR2cfDURWetUFVVfbc4|미니주동물병원|37.547952,126.867759|601-6 Mok 3(sam)-dong, Yangcheon-gu, Seoul, South Korea|02-2651-8575|||||||||5
+ChIJ9RCFEdGYfDURcsEYuzw9NGs|홍익동물병원|37.548036,126.9183648|411-18 Hapjeong-dong, Mapo-gu, Seoul, South Korea|02-325-2026|||||||||4
+ChIJV03OSpWYfDURaUbIKv80gXI|서진동물병원|37.556313,126.9326409|185-1 Donggyo-dong, Mapo-gu, Seoul, South Korea|02-336-3929|||||||||1
+ChIJUWRF6gijfDUR7U_QBWAVntk|그녀의동물병원|37.548006,127.008606|South Korea, Seoul, Sindang 3(sam)-dong, 신당동 844번지 남산타운남산타운 동6동 2호 중구 서울특별시 KR|02-2237-7582|||||||||3.3
+ChIJ5y_N22yjfDURNH0zsEHZCwU|Hanvit Animal Hospital|37.5540016,127.0194029|63-1, 금호산길 금호2.3가동 성동구 서울특별시 South Korea|02-2286-6146|||||||||4
+ChIJjbYThkWlfDURhAK0gr650Zk|오늘동물병원|37.54678850000001,127.0448729|South Korea, Seoul, Seongdong-gu, Seongsu-dong 1(il)-ga, Wangsimni-ro, 104 2층|02-469-7975|9:00 AM – 7:00 PM|9:00 AM – 7:00 PM|9:00 AM – 7:00 PM|9:00 AM – 7:00 PM|9:00 AM – 7:00 PM|9:00 AM – 7:00 PM|Closed|http://blog.naver.com/oneulah|
+ChIJs4ajPNukfDURNZK1EL6mExs|피카소동물병원|37.5473514,127.0733237|216 Hwayang-dong, Gwangjin-gu, Seoul, South Korea|02-467-3673|||||||||4.5
+ChIJOQc2AyalfDURl8l1yAIcvLk|연두동물병원|37.544695,127.087674|524 Gwangnaru-ro, Guui 1(il)-dong, Gwangjin-gu, Seoul, South Korea|02-455-0975|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|http://blog.naver.com/yeonduah|3
+ChIJ-5McLCalfDURKTZCys_bTJ8|광진동물종합병원|37.54520599999999,127.0859318|68-37 Gueui-dong, Gwangjin-gu, Seoul, South Korea|02-457-4545||||||||http://www.kjamc.com/|4
+ChIJSa5sCM2xfDURUpRars-V4o8|고덕 고래힐 동물병원|37.5583657,127.1510413|South Korea, Seoul, Gangdong-gu, Godeok 1(il)-dong, Arisu-ro 50-gil, 50 래미안 상가 2층 212호|02-441-5515|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 8:00 PM|https://blog.naver.com/goraehillah|4.7
+ChIJqTnh76aefDURyYIj15rjfgA|두암한방동물병원|37.54679700000001,126.8715106|73 Mokdongjungangbuk-ro, Mok 2(i)-dong, Yangcheon-gu, Seoul, South Korea|02-846-4597|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|http://www.petacu.com/|4.6
+ChIJH1BQauqYfDURKsI8ax2krnI|파티마동물병원|37.55772899999999,126.928836|179-1 Donggyo-dong, Mapo-gu, Seoul, South Korea|02-325-7975|||||||||
+ChIJeXiJs0-ZfDURA2RSbkZ00A0|닥터호오동물병원|37.5519241,126.9475529|South Korea, Seoul, Mapo-gu, Yeomni-dong, Daeheung-ro, 24 서강빌딩||9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|Closed|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|10:00 AM – 6:00 PM||5
+ChIJnVuRkJ-YfDUR5HTs1oD_pik|FLYING PET|37.548915,126.952153|Mapodaero11-gil, 35, 아현동 Mapo-gu, Seoul, South Korea|02-2135-2225|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|10:30 AM – 5:30 PM|http://blog.naver.com/flyingpet82|4.8
+ChIJ7RymYA-jfDURo0vlbonuqMw|AniCom Medical Center|37.5520315,127.0080279|83-1 Dasan-ro, Sindang-dong, Jung-gu, Seoul, South Korea|02-2232-9702|9:00 AM – 8:30 PM|9:00 AM – 8:30 PM|9:00 AM – 8:30 PM|9:00 AM – 8:30 PM|9:00 AM – 8:30 PM|9:00 AM – 8:30 PM|11:00 AM – 6:00 PM|http://www.anicomvet.com/|5
+ChIJp7KstEKjfDURF6MCezchdh8|평화와생명이함께하는동물병원|37.55653240000001,127.0287527|328-1 Haengdang 2(i)-dong, Seongdong-gu, Seoul, South Korea|02-3395-0075|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed|http://www.peaceanimal.co.kr/|4.7
+ChIJPWOJzUqlfDUR9XiI_5APERE|Square Animal Medical Center|37.54709,127.10641|South Korea, Seoul, Gwangjin-gu, Gwangjang-dong, 광장동 326-16번지 1층|02-452-7975|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM||4.2
+ChIJx3w65m6cfDURONVYz_4BlMU|우리아이동물메디컬센터|37.5581556,126.839103|South Korea, Seoul, Naebalsan-dong, 내발산동 646번지 1층 2호 강서구 서울특별시 KR|02-3664-0075|||||||||
+ChIJof5LveycfDURwVAOB049FwU|송정종합동물병원|37.5616991,126.8095417|45-37 Gonghang-dong, Gangseo-gu, Seoul, South Korea|02-2661-0530|||||||||
+ChIJd-0CaxycfDURNQeet4hVPhU|혜인동물병원|37.5491803,126.863831|613-8 Mok 3(sam)-dong, Yangcheon-gu, Seoul, South Korea|02-2645-1475|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 6:00 PM|Closed|https://hyeinanimalclinic.business.site/|4.5
+ChIJaRiW9deYfDURP56s3asGbys|동물메디컬센터W|37.55342410000001,126.9122819|444-5 Seogyo-dong, Mapo-gu, Seoul, South Korea|02-323-8275||||||||http://animalw.co.kr/|3.9
+ChIJd4luKt-YfDURLhu6xL-97fA|카라동물병원|37.557691,126.913695|2 층, 122 잔다리로, 서교동 Mapo-gu, Seoul, South Korea|02-6380-0999|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|https://ekara.org/introduce/hospital|4.6
+ChIJVdh2yMKYfDURzaBCoRVjjNg|워너비동물병원|37.5576578,126.9225126|193 Donggyo-ro, Donggyo-dong, Mapo-gu, Seoul, South Korea||||||||||4.6
+ChIJR3b885-YfDURpOlQhpKS0u8|연세종합동물병원|37.5480922,126.9530558|285 Gongdeok-dong, Mapo-gu, Seoul, South Korea|02-712-7582|||||||||3.5
+ChIJwxwc1HWifDURNMi7F0o5Cro|24시 산들산들 동물병원|37.550953,126.956476|7 Mapo-daero 16-gil, Gongdeok-dong, Mapo-gu, Seoul, South Korea|02-393-3588|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://24sdsdah.modoo.at/|4
+ChIJsQNKbXiifDURnetZYjWRnDI|북아현동물병원|37.5574769,126.9582759|289-1 Sinchon-ro, Bukahyeon-dong, Seodaemun-gu, Seoul, South Korea|02-393-0075||||||||http://baha.co.kr/bahabaha/hospitalBoard.latte|3.7
+ChIJ0dHL_VqjfDUR7FvKOiCoEMA|무학동물병원|37.5632028,127.0315755|959-24 Hawangsimni-dong, Seongdong-gu, Seoul, South Korea||||||||||
+ChIJ7XZ7rYadfDURY-tJ3BZjF5c|모모동물병원|37.5583999,126.8246664|South Korea, Seoul, Gangseo-gu, Magok-dong, 중앙1로 20 M시그니처 205호|02-2662-7975|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|Closed|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 5:00 PM|Closed||
+ChIJQSIXUGedfDURn3DvaevNv8Y|호서동물의료센터|37.56292,126.8404401|680 Deungchon 3(sam)-dong, Gangseo-gu, Seoul, South Korea|02-3662-1870||||||||https://blog.naver.com/hoseoah|
+ChIJcQAi_COZfDURriqNkvfPEOQ|이황동물병원|37.56078420000001,126.9054768|477-3 Mangwon-dong, Mapo-gu, Seoul, South Korea|02-336-0073||||||||https://joubebe.com/bbs_detail.php?bbs_num=2923&tb=info_map|3.3
+ChIJq6qqqnmifDURXq3s6yvUNRs|마음을나누는동물병원|37.5577978,126.9554328|10 Sinchon-ro 35-gil, Bukahyeon-dong, Seodaemun-gu, Seoul, South Korea|02-365-7582||||||||http://www.manadong.com/|4.9
+ChIJwy0ZzQ-jfDURpIY17TTJgfM|미래지동물의료센터|37.5536414,127.0096041|107 Dasan-ro, Sindang 2(i)-dong, Jung-gu, Seoul, South Korea|02-2233-7574||||||||http://miraeji_amc.blog.me/|5
+ChIJ0xOa712jfDUROOmfKi3BexA|오렌지동물병원|37.5560093,127.0339644|322-100 Haengdang-dong, Seongdong-gu, Seoul, South Korea|02-2297-7582|||||||||4.4
+ChIJCzUJpBajfDUR7z6NzzxE5pU|바우미우동물병원|37.5592308,127.0127997|336-3 Sindang 2(i)-dong, Jung-gu, Seoul, South Korea|02-2237-3366||||||||https://tip.daum.net/question/61179106|3.2
+ChIJ_eehUCq7fDUR2wStcQmMlaM|방주동물병원|37.5593153,127.0809319|161-27 Junggok-dong, Gwangjin-gu, Seoul, South Korea|02-454-9975|||||||||4.2
+ChIJS03noIycfDURCwLNdVHRPSo|마곡나무 동물병원|37.560233,126.819497|South Korea, Seoul, Gangseo-gu, Gonghang-dong, 747 엠밸리 10단지 1014동 103호|02-2661-7515|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM||4.5
+ChIJkbJU5BydfDURsZXrjy6emN0|참동물병원|37.5668547,126.8237711|South Korea, Seoul, Gangseo-gu, Magok-dong, 마곡서로 133 엠벨리7단지 712동 102-1호|02-2666-7990|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 7:00 PM|Closed|https://blog.naver.com/charmah|5
+ChIJHWysFG2cfDURvp-lYLJUjvw|아프리카 동물 메디컬센터|37.5581495,126.8449071|335 Gonghang-daero, Deungchon 3(sam)-dong, Gangseo-gu, Seoul, South Korea|02-3663-7975|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|http://www.aamc.co.kr/|3.1
+ChIJjxByBA-cfDURuyhVW7cD3tQ|도그플러스동물병원|37.5584359,126.8547981|639-11 Deungchon 1(il)-dong, Gangseo-gu, Seoul, South Korea|02-3662-3533|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|http://blog.naver.com/dogplus3533|3.9
+ChIJe5mr9ieZfDUR_ATudxnCA0k|망원동물종합병원|37.55482689999999,126.9108418|386-2 Mangwon-dong, Mapo-gu, Seoul, South Korea|02-332-0175|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|9:30 AM – 8:00 PM|Closed||4.2
+ChIJhX2DVOmYfDUR6saAXlD5q50|연남동물병원|37.5618123,126.9269191|227-2 Yeonnam-dong, Mapo-gu, Seoul, South Korea|02-3141-8274|||||||||3
+ChIJkZR8S52YfDURDt07-pHbi2Q|월드팻동물병원|37.5570078,126.9533333|331-11 Ahyeon-dong, Mapo-gu, Seoul, South Korea|02-364-3517|||||||||4.1
+ChIJGQGnGjOjfDUReSMEFvDxZxM|한양동물메디컬센터|37.5596166,127.0369899|282 Wangsimni-ro, Haengdang-dong, Seongdong-gu, Seoul, South Korea|02-2281-5200|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|https://blog.naver.com/hyamc|5
+ChIJIa-QWCi7fDURbeRwnBydk0Y|킴스동물병원|37.5640369,127.0800707|231-7 Junggok-dong, Gwangjin-gu, Seoul, South Korea|02-467-4788|||||||||5
+ChIJP56oNIebfDURNFzx8cH8ebY|젠틀리동물병원|37.5752417,126.830452|73-4 Magok-dong, Gangseo-gu, Seoul, South Korea||||||||||
+ChIJ5US-uuCYfDURXxqInVwLUr0|우리동생동물병원|37.5620127,126.9157401|South Korea, Seoul, Seongsan 1(il)-dong, 성산동 17-23번지 마포구 서울특별시 KR|02-335-3333|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed|http://mapowithpet.com/|4.4
+ChIJ99QdRfOYfDURdMO-6MGkRvg|연희동물병원|37.5687282,126.9317795|89-9 Yeonhui-dong, Seodaemun-gu, Seoul, South Korea|02-332-2883|||||||||5
+ChIJX7zYg-KifDUR3Zdgg9NWukc|윤신근애견종합병원|37.561697,126.9968491|53 Pildong 2(i)-ga, Jung-gu, Seoul, South Korea|02-2272-1234|||||||||3.8
+ChIJq4quMxyjfDURdQPfAWEydYo|황동물병원|37.5624417,127.0000359|32-1 Mukjeong-dong, Jung-gu, Seoul, South Korea|02-2278-0075||||||||https://tip.daum.net/question/97830807|4.5
+ChIJKZH4c1O7fDURpA3QVLxYHLA|뉴월드동물병원|37.57120209999999,127.0464349|465-98 Dapsimni 1(il)-dong, Dongdaemun-gu, Seoul, South Korea|02-2212-5233|||||||||
+ChIJs4UXuCm7fDURvByTgNnpiZY|중곡종합동물병원|37.562676,127.0815429|241-34 Junggok-dong, Gwangjin-gu, Seoul, South Korea|02-462-5595|||||||||4.7
+ChIJCQznBCW3fDUR79oPxEuYayc|강두완가축병원|37.6124769,127.1601171|2-1 Donong-dong, Namyangju-si, Gyeonggi-do, South Korea|031-572-9057|||||||||4.5
+ChIJbeY8x4SifDURAkWaZeksTcg|독립문동물병원|37.5690038,126.9632755|171-1 Tongil-ro, Cheonyeon-dong, Seodaemun-gu, Seoul, South Korea|02-733-5060|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 12:00 PM|Closed|http://www.animalhospital.co.kr/|4.3
+ChIJ82ZEfuKifDUR9C936y_VScE|대한가축병원|37.5620673,126.9969058|93-1 Chungmuro 4(sa)-ga, Jung-gu, Seoul, South Korea|02-2263-6134|||||||||
+ChIJA34P41qjfDURx4s2CtJ8YKs|조은동물병원|37.5645831,127.0278948|381 Wangsimni-ro, Hawangsimni-dong, Seongdong-gu, Seoul, South Korea|02-2297-0075|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 8:00 PM|10:00 AM – 7:00 PM|http://blog.naver.com/joeunhoyoung|4
+ChIJy8nF2U6jfDURMv9_t9LgZXk|텐즈힐링동물병원|37.5701922,127.023683|12-37 Sangwangsimni-dong, Seongdong-gu, Seoul, South Korea|02-2295-0975||||||||https://joubebe.com/bbs_detail.php?bbs_num=3037&tb=info_map|3.5
+ChIJZ8qvTEmjfDUR6-sEfGZLRro|맑은동물병원|37.5719436,127.0239147|109-13 Sinseol-dong, Dongdaemun-gu, Seoul, South Korea|02-2234-1379|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 3:00 PM|Closed||5
+ChIJ6Sop8zO7fDURVlSQSaNtb2Y|아인스동물병원|37.5650413,127.0673476|435-6 Jangan 1(il)-dong, Dongdaemun-gu, Seoul, South Korea|02-2213-0075|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 6:00 PM|Closed||4.3
+ChIJo7nV50i7fDUR2APTCHFoLZM|그랜드동물병원|37.5726188,127.0576283|53-6 Dapsimni 2(i)-dong, Dongdaemun-gu, Seoul, South Korea|02-2214-6129|||||||||4.6
+ChIJd5faW0a7fDURVZDYlbZhhpM|전농동물병원|37.5762017,127.0579337|26-13 Jeonnong 2(i)-dong, Dongdaemun-gu, Seoul, South Korea|02-2215-7582|||||||||
+ChIJNxYVsEi7fDURh22F9nRphIY|더케이동물병원|37.5726727,127.0557243|South Korea, Seoul, Dongdaemun-gu, Dapsimni 1(il)-dong, Dapsimni-ro, 140 세기플라자 211호|02-213-8875|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 10:00 PM|10:00 AM – 8:00 PM||3.9
+ChIJCc03Z5qcfDURj8H-Hffyahs|황하동물병원|37.57258659999999,126.8112356|567-14 Banghwa-dong, Gangseo-gu, Seoul, South Korea|02-2664-7773|||||||||5
+ChIJ56XHtBOZfDURR4SL5ZY007o|닥터K|37.5763653,126.8933847|37-36 Sangam-dong, Mapo-gu, Seoul, South Korea|02-306-1259|||||||||5
+ChIJdYL01mGYfDURLF47czdR44M|헬로우동물병원|37.5727411,126.9357258|178 Yeonhui-ro, Yeonhui-dong, Seodaemun-gu, Seoul, South Korea||10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 8:00 PM|10:00 AM – 1:00 PM, 2:00 – 6:00 PM|10:00 AM – 1:00 PM, 2:00 – 6:00 PM||4.4
+ChIJEc1F7oSifDURunPwFZPJ6tY|우리동물병원|37.5709216,126.961351|197 Tongil-ro, Cheonyeon-dong, Seodaemun-gu, Seoul, South Korea|02-393-6675|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|11:00 AM – 7:00 PM||3.4
+ChIJ5U2AgViYfDUReunktjaqGiA|Hans Animal Hospital|37.57665900000001,126.924873|South Korea, Seoul, Seodaemun-gu, Namgajwa-dong, 서울시 서대문구 남가좌동 338-39|02-303-1114|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 4:00 PM|Closed||4.5
+ChIJC5QWyVqjfDUR3748CzJPZ3c|베이지동물병원|37.5672798,127.0256357|South Korea, Seoul, Wangsimnidoseon-dong, KR 서울특별시 성동구 왕십리로410 센트라스 상가D동 106호|02-2295-9888|8:30 AM – 7:30 PM|8:30 AM – 7:30 PM|8:30 AM – 7:30 PM|8:30 AM – 7:30 PM|8:30 AM – 7:30 PM|9:00 AM – 3:00 PM|Closed||3.6
+ChIJH1LZS067fDURodXNwh4oXYM|아띠동물의료센터|37.57367900000001,127.0523385|108-2 Dapsimni-dong, Dongdaemun-gu, Seoul, South Korea|02-6242-8275|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|9:00 AM – 10:00 PM|10:00 AM – 8:00 PM|https://attiah.modoo.at/|4.6
+ChIJy7WczRKZfDURvD6nzjIoZA8|아프지말게동물병원|37.578331,126.88978|South Korea, Seoul, Mapo-gu, Sangam-dong, 상암월드컵파크4단지 상가 113-2호|02-307-3355||||||||http://blog.naver.com/a_mal|3.8
+ChIJUYsA2gGZfDURZ3t2ermkLQM|두리틀동물병원|37.5787728,126.9107866|South Korea, Seoul, Seodaemun-gu, Bukgajwa-dong, 북가좌2동 응암로 66 2층|02-302-3275|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|http://blog.naver.com/drdolittle|4.2
+ChIJzT5Mpt-9fDURTyZjblK_-Zc|HanSaRang Animal Hospital|37.5903757,127.0038594|27 Seongbuk-ro, Seongbuk-dong, Seongbuk-gu, Seoul, South Korea|02-743-7582||||||||https://blog.naver.com/dr-lee|5
+ChIJBwzhNFC7fDURGJjhkCmdHyc|제연동물병원|37.5750329,127.0496055|77 Dapsimni-ro, Jeonnong 1(il)-dong, Dongdaemun-gu, Seoul, South Korea|02-2242-7975|||||||||3.9
+ChIJHQAFfJiwfDURXc5_Z6iOtWQ|건국동물병원|37.5921178,127.1342036|765 Gyomun-dong, Guri-si, Gyeonggi-do, South Korea|031-567-7588|||||||||5
+ChIJye3T9ZeZfDUR03ab---JlHE|어울림동물병원|37.573032,126.9156292|278-63 Namgajwa 1(il)-dong, Seodaemun-gu, Seoul, South Korea||||||||||
+ChIJHbEeeiaZfDURqOSQsJYpB1k|어울림 동물병원|37.5730639,126.9156195|278-63 Namgajwa 1(il)-dong, Seodaemun-gu, Seoul, South Korea|02-305-4242|||||||||5
+ChIJV2OiJHaZfDUR_xdD45GBbAU|에덴동물병원|37.5913912,126.8825059|83-6 Deogeun-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|02-3159-7741|||||||||5
+ChIJc3xfGSujfDURDzqS18TxViA|Daehakro Animal Hospital|37.5845885,127.0001891|14-1 Myeongnyun 2(i)ga, Jongno-gu, Seoul, South Korea|02-3672-8440|||||||||4.5
+ChIJrcW8p8-8fDURdFMSIyeYeVM|베스트동물병원|37.58992140000001,127.0100768|32 Dongsomundong 3(sam)-ga, Seongbuk-gu, Seoul, South Korea|02-921-7580|||||||||
+ChIJ_UKusf66fDURu500DRjvi4Q|엔젤동물병원|37.5870343,127.0878471|115-21 Myeonmok-dong, Jungnang-gu, Seoul, South Korea|02-435-0166|||||||||4
+ChIJl988YnOYfDURS9AgSzdb96U|Hansol Animal Hospital (Seodaemun-gu, Seoul)|37.584865,126.948639|103-6 Hongje 2(i)-dong, Seodaemun-gu, Seoul, South Korea|02-737-8375|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 5:00 PM|Closed|http://blog.naver.com/hansolpet|3
+ChIJ7fVb_dqifDURTIdwONCAqGA|CARE|37.57881879999999,126.9884184|29-38 Changdeokgung-gil, Gahoe-dong, Jongno-gu, Seoul, South Korea|02-313-8886|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|9:00 AM – 6:00 PM|Closed|Closed|http://careanimalrights.org/|2.9
+ChIJq6qqqm-jfDURqXbn4dijWwY|금호동물병원|37.5523361,127.0246566|105 Geumho-ro, Geumho 2(i).3(sam)ga-dong, Seongdong-gu, Seoul, South Korea|02-2281-0049|||||||||4.9
+ChIJ1f0lOFm7fDUR4jppgVR0lbc|푸른종합동물병원|37.5833673,127.0439626|675 Cheongnyangri-dong, Dongdaemun-gu, Seoul, South Korea|02-962-3344|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|Open 24 hours|9:00 AM – 9:00 PM|9:00 AM – 9:00 PM|9:30 AM – 8:30 PM|9:30 AM – 8:30 PM||3.7
+ChIJD_rv93K7fDURtXIuRoThzWQ|애니케이동물병원|37.5940704,127.0588407|324-3 Imun 1(il)-dong, Dongdaemun-gu, Seoul, South Korea|02-967-0877|||||||||
+ChIJN0tbkZiwfDURzxXwRv-zEhA|시티종합동물병원|37.59206229999999,127.1329815|764-10 Gyomun-dong, Guri-si, Gyeonggi-do, South Korea|031-555-7588|||||||||4.6
+ChIJuQu-Ray7fDURIoXlX1Mcwbw|진정훈동물병원|37.6003103,127.0793753|303-16 Junghwa-dong, Jungnang-gu, Seoul, South Korea|02-2207-0073||||||||https://vetzzin.modoo.at/|4
+ChIJAx2W0rmwfDURmc9fIQoVI4A|행복한동물병원|37.59733960000001,127.1445357|506-3 Sutaek-dong, Guri-si, Gyeonggi-do, South Korea|031-557-7588|||||||||3.4
+ChIJx6S3ohKYfDURNC2NUaFPyK0|홍제동물병원|37.5895869,126.9427501|330-54 Hongje 1(il)-dong, Seodaemun-gu, Seoul, South Korea|02-396-5525||||||||https://joubebe.com/bbs_detail.php?bbs_num=2963&tb=info_map|3.9
+ChIJe2q3Ode8fDURHWQC7kD8J5o|앙리동물병원|37.59339600000001,127.0016826|South Korea, Seoul, Seongbuk-dong, 성북동 155-15번지 1층 농협 성북구 서울특별시 KR|02-766-7577||||||||https://henryamc.modoo.at/|5
+ChIJ8xE5KMe8fDURYn1Qxa7EzLc|VIP동물의료센터|37.5922066,127.0135319|73 Dongsomun-ro, Dongseon-dong, Seongbuk-gu, Seoul, South Korea|02-953-0075||||||||http://www.vipah.co.kr/|3.7
+ChIJ_yejG8i8fDURMa2nT98U0Es|서울종합동물병원|37.5880051,127.0181872|9-1 Bomundong 1(il)-ga, Seongbuk-gu, Seoul, South Korea|02-928-5599|||||||||3.4
+ChIJ-zwGXKq7fDURU2cZN2Lo8So|로얄동물메디컬센터|37.5952831,127.0799032|207 Junghwa 2(i)-dong, Jungnang-gu, Seoul, South Korea|02-494-7580||||||||http://www.royalamc.com/|3.8
+ChIJQQ8hkKyifDURyHlAkKSJzOU|북악동물병원|37.5988639,126.9602481|127-7 Hongji-dong, Jongno-gu, Seoul, South Korea|02-391-4575||||||||http://bugak.ad-plus.kr/|4
+ChIJkRfv0MC8fDURLzduF7LxxFM|Sungshin anmal hospital|37.5945235,127.0162516|18 Arirang-ro, Dongseon-dong, Seongbuk-gu, Seoul, South Korea|02-927-7517|||||||||
+ChIJDQMaqZ68fDURhHzFWwgvY7c|강북동물병원|37.5961711,127.0351298|19-1 Jongam-dong, Seongbuk-gu, Seoul, South Korea|02-924-4555|||||||||
+ChIJJWPWvEO6fDURQ1Xn8vxjHp4|금란동물병원|37.59842200000001,127.1005678|364-27 Mangu-dong, Jungnang-gu, Seoul, South Korea|02-492-7582|||||||||3.5
+ChIJh7SChVG6fDURotI22tHhCQY|닥터아이펫 동물병원|37.5971441,127.087458|South Korea, Seoul, Jungnang-gu, Sangbong 1(il)-dong, Mangu-ro, 315 영진빌딩 2층|02-2208-0329|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|Closed|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|http://www.dripet.com/|4.2
+ChIJ6eXWTqWwfDURjhz_DDqlQ8Y|명문동물병원|37.6001169,127.136092|370 Sutaek-dong, Guri-si, Gyeonggi-do, South Korea|031-556-6250||||||||https://myungmoon.tistory.com/|4.2
+ChIJm930oVCafDURToJqJzvdpWA|행신동물병원|37.6192757,126.8316768|647-14 Haengsin-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-971-5534|||||||||3.9
+ChIJ6eTESjOYfDUR7n81l00Uawk|Dodam Animal Hospital|37.605632,126.91116|South Korea, Seoul, Eunpyeong-gu, Yeokchon-dong, 51-22|02-388-0275|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed||4.1
+ChIJZWoNLbWZfDURBzb-WwHd7UI|늘푸른동물병원|37.5982252,126.9109657|20-24 Sinsa 1(il)-dong, Eunpyeong-gu, Seoul, South Korea|02-388-3008|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 6:00 PM|Closed||4.4
+ChIJUxXhequifDUR2LpfmbHQov4|올리브동물병원|37.599235,126.9589611|Jahamun-ro, Buam-dong, Jongno-gu, Seoul, South Korea|02-391-7502||||||||https://olivehospital.modoo.at/|4.5
+ChIJs_Atwe-8fDURqkRRnbyNysk|Jeongneung Animal Hospital|37.605024,127.0117205|4 Bogukmun-ro, Jeongneung-dong, Seongbuk-gu, Seoul, South Korea|02-941-7525|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|9:30 AM – 9:00 PM|Closed||3.5
+ChIJhx3ms4-8fDURSicVB_dYzrQ|열린동물병원|37.6054754,127.0269081|Hawolgok-dong, Seongbuk-gu, Seoul, South Korea|02-916-5724|||||||||
+ChIJ69KX_ES6fDURgNP0TxHYcsk|세진동물병원|37.59867189999999,127.0962349|1 Mangu-dong, Jungnang-gu, Seoul, South Korea|02-2207-3831|||||||||4.5
+ChIJpcOciLWwfDURKbEh5wQ3yWo|24시THE케어동물의료센터|37.60325210000001,127.147086|561-1 Sutaek-dong, Guri-si, Gyeonggi-do, South Korea|031-516-8585||||||||http://thecare24.com/|3.8
+ChIJGY2bfzO3fDUR0fLJX78hJb4|부영동물병원|37.6063024,127.1528033|South Korea, Gyeonggi-do, Namyangju-si, Donong-dong, 미금로 16 도농센트레빌아파트 단지내상가 205호|031-565-7582|11:00 AM – 6:00 PM|11:00 AM – 6:00 PM|11:00 AM – 6:00 PM|11:00 AM – 6:00 PM|11:00 AM – 6:00 PM|10:00 AM – 3:00 PM|Closed|http://herbdog.business.site/|1
+ChIJg8Pn1ZO8fDURVWwO0h2FwYk|길음동물병원|37.6025312,127.0238529|877-1 Gireum-dong, Seongbuk-gu, Seoul, South Korea|02-913-1874|||||||||4
+ChIJ__NBGUy3fDURXFhY4DNfnPE|펫가든 동물병원|37.612671,127.140869|South Korea, Gyeonggi-do, Guri-si, Inchang-dong, Donggureung-ro 136beon-gil, 57 롯데마트 별관 1층|031-565-5275||||||||http://www.ipetfriends.com/|3.5
+ChIJy8F3Dq2wfDUR-C00U343SZw|우리애(愛) 동물병원|37.6087742,127.1349007|South Korea, Guri-si, Inchang-dong, 인창동 495-10번지 1층 구리시 경기도 KR|031-569-7582|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|Closed||
+ChIJ9SwaNTyafDURGlnYICMlKt8|디엔씨동물병원|37.62345920000001,126.8362043|950-1 Haengsin-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-978-0075|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 5:00 PM|Closed|https://www.kaap.or.kr/bbs/view.php?id=free&page=68&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=hit&desc=asc&no=721&PHPSESSID=1250df1384f9d06009ad4dfca1994bf0|4
+ChIJGSRj6Ou8fDUReFytz9gg76k|북악동물병원|37.6030865,127.0139094|139-3 Jeongneung 1(il)-dong, Seongbuk-gu, Seoul, South Korea|02-941-7900||||||||http://bugak.ad-plus.kr/|3.8
+ChIJVWWNp5q7fDURcxF1VWdI3mg|아이봄 동물병원|37.6050099,127.095637|66 Sinnae-ro, Sinnae-dong, Jungnang-gu, Seoul, South Korea|02-433-7515|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 9:00 PM|10:00 AM – 5:00 PM|http://blog.naver.com/ibomah|5
+ChIJ-51PYKawfDURkV-YJ-3CO2k|아마존동물병원|37.6006152,127.1293993|270-2 Gyomun 1(il)-dong, Guri-si, Gyeonggi-do, South Korea|031-564-0075|||||||||3.5
+ChIJnXawLUOafDURuV_FCArsJGM|아마존동물병원|37.6244418,126.8360095|944 Haengsin-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-972-7582|||||||||3.2
+ChIJbZWIxSGYfDURQ_5DsFQR0EI|녹번동물병원|37.6080567,126.9317229|117-112 Nokbeon-dong, Eunpyeong-gu, Seoul, South Korea|02-354-4110|||||||||3.5
+ChIJ6UFahCCYfDUR5Z2fvRKRy-c|불광동물병원|37.6113896,126.9294452|274-10 Bulgwang-dong, Eunpyeong-gu, Seoul, South Korea|02-356-1656||||||||http://petplus0501.cafe24.com/index.php?mid=sub3_2&document_srl=8014|5
+ChIJpcOykou8fDUR5yeLSxwDvtU|우리종합동물병원|37.6107834,127.0225838|번지 1 층, 1125-9 길음동 성북구 서울특별시 South Korea|02-989-8575|||||||||
+ChIJpSrA3EuFfDURDGYVDsaL41Q|강남동물병원|37.6516875,126.7784033|802-1 Madu-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-905-0222|||||||||
+ChIJY-eNvoaXfDURpear-geuREc|도그원동물의료센터|37.6197705,126.9176215|Yeonseo-ro 29-gil, Galhyeon-dong, Eunpyeong-gu, Seoul, South Korea||||||||||1
+ChIJZVNctC6YfDURWJBbW2Y6jMg|더독(THEDOG)동물병원|37.61130600000001,126.9175853|224-24 Daejo-dong, Eunpyeong-gu, Seoul, South Korea|02-382-3243||||||||https://tip.daum.net/question/91749658|2
+ChIJ5wFS5Xu9fDURNOrcsOw_wKM|넬 동물의료센터|37.6087789,127.0357595|75-1 Opaesan-ro, Hawolgok-dong, Seongbuk-gu, Seoul, South Korea||||||||||
+ChIJBRgc9r27fDUR1Ca7yMkxGng|다나동물병원|37.6136228,127.0616137|6-107 Jangwi-dong, Seongbuk-gu, Seoul, South Korea|02-943-8575|||||||||3.6
+ChIJQwvkpXuafDURC9the4TBdtQ|동물의왕국|37.6404398,126.832315|913 Hwajeong-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-965-2100|||||||||4
+ChIJz1mfBGSafDUR1YTxQmXw6Tk|FM Animal Medical Center|37.6339538,126.8309982|76 Hwajung-ro, Hwajeong 2(i)-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-979-7975|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours||3.8
+ChIJIY9MDSmYfDUR6CJSZy5HGNA|연서동물병원|37.6131669,126.9178352|223-13 Daejo-dong, Eunpyeong-gu, Seoul, South Korea|02-358-7582|||||||||4.2
+ChIJbWuMc569fDURa8rPB9xomkE|더편한 동물병원|37.6124043,127.0272631|South Korea, Seoul, Seongbuk-gu, Gireum-dong, Sungin-ro, 50 상가동 2203호|02-982-7975|||||||||5
+ChIJU4zNUZi7fDURGnbtcvNm2Fk|중앙동물병원|37.60883009999999,127.0592689|268-11 Seokgwan-dong, Seongbuk-gu, Seoul, South Korea|02-967-0300|||||||||3
+ChIJ_SAHCLa7fDUR0pFcAUiMiD4|Taeneung Veterinary Clinic|37.6115533,127.0780153|8 Gongneung-ro, Muk-dong, Jungnang-gu, Seoul, South Korea|02-973-1953||||||||http://cafe.daum.net/9731953|4.8
+ChIJ7yWfUsy7fDURVKdOK8Xqhig|화랑동물병원|37.6192405,127.0796104|653-10 Gongneung-dong, Nowon-gu, Seoul, South Korea|02-949-7512|||||||||4.2
+ChIJVzOVgTObfDURo76CUarsNjw|탑케어동물의료원|37.6311912,126.8310468|South Korea, Gyeonggi-do, Goyang-si, Deokyang-gu, Hwajeong 2(i)-dong, Hwasin-ro 272beon-gil, 5 KR|1666-7501||||||||http://www.topcare.kr/|
+ChIJP-X33TqZfDUR43JfVIgLX08|원흥동물의료센터(삼송행신덕양구서오릉화전향동화정능곡도래울동물병원)|37.6293335,126.8687368|South Korea, Gyeonggi-do, Goyang-si, Deokyang-gu, Heungdo-dong, 도래울로 40 KR|031-966-3328|||||||||4.4
+ChIJ07-fjWa9fDURZmJOfhtczF8|아이사랑동물병원|37.61718329999999,127.0220243|South Korea, Seoul, Gangbuk-gu, Mia-dong, Samyang-ro 24-gil, 19 102동 104호|||||||||https://m.holapet.com/place/detail/3582|
+ChIJqVrUNWG8fDUR16qJ50Kj1-4|솔샘동물병원|37.6191635,127.0224334|860-98 Mia-dong, Gangbuk-gu, Seoul, South Korea|02-988-7582|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|Closed||4.4
+ChIJRdV84r27fDURmVOyfwUhaXM|대학종합동물병원|37.6140583,127.0623488|3-16 Jangwi-dong, Seongbuk-gu, Seoul, South Korea|02-912-0360|||||||||4.1
+ChIJP9tEoc-7fDURFYDF4F6D85E|Main Animal Medical Center|37.621655,127.0739|576-23 Gongneung 1(il)-dong, Nowon-gu, Seoul, South Korea|02-979-8575|||||||||1.7
+ChIJNcTeJ8mafDURREtZjwknZxw|애니웰동물병원|37.6400825,126.7899326|1314 Baekseok-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-815-7582|||||||||4.4
+ChIJd5tmCXuafDURo6S0cEw8rlQ|화정동물병원|37.63999539999999,126.8320928|913-4 Hwajeong-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-962-0075||||||||https://han48450319.modoo.at/|3.9
+ChIJVVUFLHW8fDURTxiq6Gg2b1o|홈펫동물병원|37.6274378,127.0377276|148-41 Beon 2(i)-dong, Gangbuk-gu, Seoul, South Korea|02-983-9575|||||||||
+ChIJe3EpNnG2fDURoBNFyBP_nmg|성신동물병원|37.634114,127.2057509|404-41 Geumgok-dong, Namyangju-si, Gyeonggi-do, South Korea|031-591-1795|||||||||5
+ChIJMSIhrW-8fDURjwxU49lbHXQ|24시간동물병원|37.6245841,127.0271298|125-25 Mia-dong, Gangbuk-gu, Seoul, South Korea|02-983-9575|||||||||4
+ChIJ11yDIs69fDURT-AUSAYuBAw|위즈(WIZ)동물병원|37.62660899999999,127.0262038|South Korea, Seoul, 동 197-9 KR 서울특별시 강북구 서울 강북구 미아[미아3동|02-987-7959||||||||http://cafe.daum.net/wizworld|
+ChIJG1bviz-XfDURhd2HxuFl_Cw|Samsong our animal hospital|37.64553899999999,126.887957|South Korea, Gyeonggi-do, Goyang-si, Deokyang-gu, Dongsan-dong, 동산동 361-4 행복플러스빌딩 107호|02-381-7553|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 7:00 PM|9:30 AM – 6:00 PM|Closed||3.8
+ChIJG-uNMz-XfDURTzxr6iCzYUE|포근한동물병원|37.648049,126.884453|South Korea, Gyeonggi-do, Goyang-si, Deokyang-gu, Sindo-dong, 동 세로 63 강남 프라자 103 호|02-381-7963|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed|http://blog.naver.com/cozyvh|4
+ChIJQXl-mL6XfDUR6hv2QNLdOQs|우리덕구동물병원|37.6343201,126.9265883|South Korea, Seoul, Eunpyeong-gu, Jingwan-dong, B104호 KR 서울특별시 은평구 진관동 83번지 205동 지하1층 우물골두산위브5단지아파트|02-6953-8275|10:00 AM – 6:30 PM|10:00 AM – 6:30 PM|10:00 AM – 6:30 PM|10:00 AM – 6:30 PM|10:00 AM – 6:30 PM|10:00 AM – 4:30 PM|Closed|https://blog.naver.com/woorideokgu|4.7
+ChIJ5Uk6BUC8fDURjzu7siy3QcU|BONOBONO ANIMAL HOSPITAL|37.6334668,127.0177175|South Korea, Seoul, Gangbuk-gu, Suyu-dong, 삼양로 336|02-903-5525|9:00 AM – 8:00 PM|Closed|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|1:00 – 4:00 PM||4.7
+ChIJF_ZqzovJfDUR5y65MDakz6I|나라동물병원|37.6794974,127.2086382|499-2 Onam-ri, Onam-eup, Namyangju-si, Gyeonggi-do, South Korea|031-573-7675|||||||||3
+ChIJf-Plt5CQfDURtfUa4ofGKZ0|신원당동물병원|37.6544105,126.8404249|706-4 Seongsa-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-963-0075|||||||||3.8
+ChIJDX8e4kqFfDURcYvAS10muiw|올리브동물병원|37.6488823,126.7812087|806 Madu-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-908-7582||||||||https://olivehospital.modoo.at/|4.1
+ChIJGeH5IqWXfDURgSBQG3Z3ESM|피움동물병원|37.6404122,126.9208227|South Korea, Seoul, Eunpyeong-gu, Jingwan-dong, Jingwan3-ro, 37 1층 102,103호|02-384-3100|||||||||
+ChIJ3Y6_LSO8fDURo-ZnOuEnyyE|Love Animal Hospital|37.6453036,127.015297|319-12 Ui-dong, Gangbuk-gu, Seoul, South Korea|02-991-4304|||||||||
+ChIJ9YETYRS8fDURkNn6o2LWmwk|동물병원위드|37.6356105,127.0227965|47-69 Suyu-dong, Gangbuk-gu, Seoul, South Korea|02-904-0075|||||||||2.5
+ChIJr9El_Y-QfDUR6YUEGULCCZQ|민동물병원|37.6555769,126.8356476|699-1 Seongsa-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|031-966-3243||||||||http://petemart.co.kr/|4.3
+ChIJk1hQtwe8fDUR-0NwX0v9hEg|신창동물병원|37.6383604,127.0381283|557-100 Chang-dong, Dobong-gu, Seoul, South Korea|02-992-9414|||||||||3.7
+ChIJHdvpWQe8fDURM2oBXje0PI4|한빛동물병원|37.64014230000001,127.0397801|568-5 Chang 3(sam)-dong, Dobong-gu, Seoul, South Korea|02-992-0074|||||||||
+ChIJD4_NFG65fDURZHCDuIFFPF4|쿨펫동물병원|37.64686,127.0709026|361 Junggye 1(il)-dong, Nowon-gu, Seoul, South Korea|02-951-7707|||||||||
+ChIJi1K-VkyFfDUR8_aku1IOifk|가람동물병원|37.6546871,126.7777366|796 Madu-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-906-0976||||||||http://cafe475.daum.net/_c21_/home?grpid=1IrO3|4
+ChIJwc4moiO8fDUROjr7qQrcQ-c|대형동물병원|37.6479422,127.0146581|278-3 Suyu 2(i)-dong, Gangbuk-gu, Seoul, South Korea|02-998-1785|||||||||3.7
+ChIJZ9MpgHS5fDURUdEGd8Zmx8Q|25시동물병원|37.6478044,127.0775964|363 Junggye-dong, Nowon-gu, Seoul, South Korea|02-935-0075|||||||||3
+ChIJEzi-_rOXfDURt2mN7diYSsY|24시 라인동물의료센터|37.6531843,126.8963481|South Korea, Gyeonggi-do, Goyang-si, Deokyang-gu, Sindo-dong, 동송로 70 힐스테이트 삼송역 227~231호|02-381-2475|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|https://blog.naver.com/24lineamc|
+ChIJBcPudSO8fDURFzDQOB14ZGU|애니케어동물병원 수유점|37.647723,127.0142549|279-290 Suyu-dong, Gangbuk-gu, Seoul, South Korea|02-996-1007|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 6:00 PM|Closed||3.1
+ChIJe6WOoda5fDUR2BOyIHdPXBA|VIP동물의료센터 노원점|37.6477914,127.0623239|1333 Dongil-ro, Sanggye 6(yuk).7(chil)-dong, Nowon-gu, Seoul, South Korea|02-931-1333|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|12:00 AM – 10:00 PM|Open 24 hours|http://vipah.co.kr/|5
+ChIJl0NLiqTLfDURvUshRp_VvC0|시편한 이비인후과|37.656174,127.2472549|153-7 Hopyeong-dong, Namyangju-si, Gyeonggi-do, South Korea||||||||||
+ChIJLTBY34qZfDURBAfb1oJXtjk|제이비컴퍼니|37.6137202,126.8707605|51-12 Hwarang-ro 165beon-gil, Hwajeon-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea|010-8754-2582||||||||http://jbcompanykorea.com/|
+ChIJZQhNzk-FfDURq8Tv8GXGrt8|제이엠동물병원|37.6582031,126.7734369|43-20 Jeongbalsan-ro, Janghang-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-924-1375||||||||http://www.jmah.co.kr/|4.3
+ChIJGX8JPyCXfDUReyLojfI2hrw|신원동물메디컬센터|37.662303,126.888357|South Korea, Gyeonggi-do, Goyang-si, Deokyang-gu, Sinwon-dong, 신원동 638-4 101호|02-381-0507|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM|9:00 AM – 8:00 PM||4.3
+ChIJc9_E2Ku-fDUR4ARGROnpEKg|삼성동물종합병원|37.65016449999999,127.0353227|88-115 Ssangmun 3(sam)-dong, Dobong-gu, Seoul, South Korea|02-902-7582|||||||||3.8
+ChIJ4eq6XQ65fDURM7ddC068vyU|은마로동물병원|37.6579663,127.0745193|363 Hangeulbiseong-ro, Junggye 4(sa)-dong, Nowon-gu, Seoul, South Korea|02-931-1575|||||||||3
+ChIJPXQBNja_fDURYw8iu0BUQps|강북우리동물의료센터|37.6568202,127.0399881|586 Dobong-ro, Chang-dong, Dobong-gu, Seoul, South Korea|||||||||https://woori.duckdns.org/|
+ChIJLS5B5f2PfDURU5urMcun3e8|DR.DOG동물병원|37.6706297,126.7812081|1294-4 Jeongbalsan-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-932-0075|9:00 AM – 10:00 PM|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|Open 24 hours|9:00 AM – 10:00 PM||4.1
+ChIJ2RGLWx6RfDURbRNeCbhPN9I|페로페라동물병원|37.67732609999999,126.8125843|South Korea, Gyeonggi-do, Goyang-si, Ilsandong-gu, Siksa-dong, Wicity 2(i)-ro 11(sibil)beon-g, 16 글라스플라자 202호 KR|031-969-8586|||||||||
+ChIJw_WVVbK-fDURREOWVxCfVms|태일동물병원|37.6576081,127.0372667|45-3 Ssangmun 2(i)-dong, Dobong-gu, Seoul, South Korea|02-905-9385||||||||http://www.animaldentistry.co.kr/|3.4
+ChIJl5O1rUy5fDUR8eijuydS3d0|별난동물병원|37.6585679,127.0402818|716-31 Ssangmun-dong, Dobong-gu, Seoul, South Korea|02-905-9119|||||||||4.8
+ChIJHXfZGRS5fDURHU9-RNZ_vbw|스마트동물병원|37.6583016,127.065723|470 Nowon-ro, Sanggye-dong, Nowon-gu, Seoul, South Korea|02-952-7582|10:00 AM – 8:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|10:00 AM – 8:00 PM|http://blog.naver.com/nwsmart|4.6
+ChIJB6gmDAS5fDURzgp1RB4WBTY|고려동물병원|37.6634447,127.0762038|79-145 Sanggye 3(sam).4(sa)-dong, Nowon-gu, Seoul, South Korea|02-3391-0075|||||||||4.6
+ChIJe782s_-4fDURWQxDMW2fB54|당고개동물병원|37.66896860000001,127.0803177|76-4 Sanggye 3(sam).4(sa)-dong, Nowon-gu, Seoul, South Korea|02-932-7582|||||||||4.7
+ChIJPWnBbja5fDURKDwqOE9rM0k|365동물병원|37.6629348,127.0463381|713-35 Banghak-dong, Dobong-gu, Seoul, South Korea|02-6402-0365||||||||http://www.365-ah.com/|4.4
+ChIJC5OY87W-fDUR8k1_-Z6u9Bg|태현동물병원|37.66489449999999,127.0358127|662-35 Banghak 2(i)-dong, Dobong-gu, Seoul, South Korea|02-6014-9947|||||||||3
+ChIJB70UfefHfDURIPC4I5DSkmI|Love Animal Hospital|37.70849219999999,127.1193128|413 Cheonghak-ri, Byeollae-myeon, Namyangju-si, Gyeonggi-do, South Korea|031-848-8575|||||||||2.8
+ChIJ0fXN5ReQfDURPXZVTwpVVkk|펫스티벌동물병원|37.6790173,126.7936892|South Korea, Goyang-si, Pungsan-dong, 일산동구 풍동 660-3번지 3층 고양시 경기도 KR|070-4337-5967|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM||4.3
+ChIJoxIKEjW5fDURfLaaQIOv3aw|현대종합동물병원|37.6644406,127.0424049|680-1 Banghak-dong, Dobong-gu, Seoul, South Korea|02-3491-8000||||||||http://www.whopet.com/|3.9
+ChIJTWFTlUPJfDUR5LgTR4AnN50|Jinjeop Animal Hospital|37.7197727,127.197115|974-2 Geumgok-ri, Jinjeop-eup, Namyangju-si, Gyeonggi-do, South Korea|031-571-9634|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 7:30 PM|9:00 AM – 5:30 PM|Closed||5
+ChIJkxug9hXJfDUR7RhFQDnM2rk|Dream Animal Hospital|37.7208669,127.1862653|367-9 Janghyeon-ri, Jinjeop-eup, Namyangju-si, Gyeonggi-do, South Korea|031-574-7595|||||||||4.7
+ChIJ3_Jx9dePfDURuAmLX8L9hRc|참사랑동물병원|37.69343240000001,126.7807352|1570 Jungsan-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-975-0187|||||||||4
+ChIJjWTL60PJfDURvm20UNIvTDU|Hamill Animal Hospital|37.720567,127.196371|Geumgok-ri, Jinjeop-eup, Namyangju-si, Gyeonggi-do, South Korea|031-553-0075|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|9:30 AM – 7:30 PM|10:00 AM – 5:00 PM|Closed||4
+ChIJoxmTQCe5fDURWgTNmqWV7Es|은빛동물병원|37.6755959,127.0550953|1118-53 Sanggye 1(il)-dong, Nowon-gu, Seoul, South Korea|02-932-6658|||||||||4
+ChIJLeEUINm4fDURey91dyv48yc|수동물병원|37.67929839999999,127.0550731|1262 Sanggye-dong, Nowon-gu, Seoul, South Korea|02-930-7975||||||||http://www.sooamc.com/|2
+ChIJKdrGhOCPfDURDP4yoUIuq-0|산들동물병원|37.6816751,126.7784903|1669-4 Jungsan-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea|031-976-7585|10:30 AM – 7:00 PM|10:30 AM – 7:00 PM|10:30 AM – 7:00 PM|10:30 AM – 7:00 PM|10:30 AM – 7:00 PM|10:30 AM – 7:00 PM|Closed||5
+ChIJlX9Ybms1YzURbhPs9JE8DQk|Changhyun Animal Hospital|37.645993,127.304913|Changhyeon-ro, Hwado-eup, Namyangju-si, Gyeonggi-do, South Korea|031-591-5991|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM|10:00 AM – 7:00 PM||4.1
+ChIJm3h3auaPfDURHqUtW9-QCNk|이용철동물병원|37.68357239999999,126.7727363|643-3 Ilsan-dong, Ilsanseo-gu, Goyang-si, Gyeonggi-do, South Korea|031-975-1475|||||||||3.9
+ChIJs3y4gda4fDUR8HvBwNOjCUs|Dodam Animal Hospital|37.68263299999999,127.045487|562-26 Dobong 1(il)-dong, Dobong-gu, Seoul, South Korea|02-955-8400|||||||||3.7
+ChIJVfjmBduPfDURAYdI_2nO_Sc|Maidog|37.6931545,126.7734859|1593-3 Tanhyeon-dong, Ilsanseo-gu, Goyang-si, Gyeonggi-do, South Korea|031-924-0079|||||||||

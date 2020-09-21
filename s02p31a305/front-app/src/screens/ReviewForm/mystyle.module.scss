@@ -1,0 +1,389 @@
+@import '../../styles/utils.scss';
+
+
+.row {
+  @include width-size(0px);
+  @include flex-between;
+}
+
+.indented-row {
+  @include width-size(5px);
+  @include flex-between;
+}
+
+.animal-box {
+  // @include round-border();
+  @include flex-center();
+  @include scroll();
+  @include width-size(10px);
+  padding: 10px;
+  img {
+    width: 40px;
+    height: 40px;
+    margin: 1px;
+    background-color: $darkgreen;
+    border-radius:50%;
+  }
+}
+
+.plus-icon {
+  width: 40px;
+  height: 40px;
+  background-color: $darkgreen;
+  border-radius: 50%;
+  @include flex-center();
+  color: $beige;
+  margin: 1px;
+}
+
+.border-button {
+	background-color:$beige;
+	cursor:pointer;
+	color:$darkgreen;
+	font-weight:bold;
+  text-shadow:0px 1px 0px #ffffff;
+  @include width-size(0px);
+  @include flex-center();
+  @include round-border();
+  border-bottom: 3px double $darkgreen;
+  border-right: 3px double $darkgreen;
+  position:relative;
+  p {
+    margin:2px;
+  }
+  span {
+    font-weight: lighter;
+    text-shadow: none;
+    color: $red;
+    font-size: x-small;
+    position:absolute;
+    left:calc(50% + 45px);
+    bottom: 0;
+  }
+}
+
+.smaller-btn {
+  width: 50%;
+}
+
+.xsmall-btn {
+  width: 25%;
+}
+
+.active {
+  @include active-background();
+  position:relative;
+  top:1px;
+}
+
+.box {
+  margin: 2px auto 0;
+  @include flex-center();
+}
+
+.purpose-box {
+  margin: 2px auto 0;
+  @include flex-center();
+  @include width-size(0px);
+  input[type="text"] {
+    width: 100%;
+    margin:0;
+    padding:3px 10px;
+  }
+}
+
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+
+  input[type="file"] {
+    position: absolute;
+    width: 100%;
+    height: 32px;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+}
+
+.step-box {
+  padding: 20px 5px 10px;
+  @include round-double-border();
+  @include flex-vertical();
+}
+
+.box-header {
+  position: relative;
+  height: 18px;
+  width: 100%;
+  p {
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    line-height: 10px;
+  }
+}
+
+.box-content {
+  margin: 0;
+  @include flex-vertical;
+
+  p {
+    margin: 4px 0;
+    font-size: smaller;
+    text-align: center;
+  }
+
+  .content-header {
+    font-weight:bolder;
+  }  
+}
+
+.num-icon {
+  position: absolute;
+  bottom: 8px;
+  height: 18px;
+  width: 18px;
+}
+
+.one-icon {
+  left: calc(50% - 50px);
+}
+
+.two-icon {
+  left: calc(50% - 58px);
+}
+
+.info-icon {
+  height: 40px;
+  width: 40px;
+  margin: 15px auto 10px;
+}
+
+.big-padding {
+  padding: 20px;
+}
+
+.modal {
+  position: absolute;
+  background-color: $beige;
+  width: 90%;
+  height: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1.3px solid $darkgreen;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  &:focus {
+    outline: none;
+  }
+}
+
+
+
+.submit-btn {
+  background-color: $darkgreen;
+  color: $beige;
+  // z-index: 99999999;
+  // position: absolute;
+  // bottom: -40px;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  p {
+    margin: 0;
+    line-height: 40px;
+  }
+}
+
+.clicked {
+  bottom: 0px;
+  -webkit-transition-property: bottom;
+  -webkit-transition-duration: 2s;
+  -webkit-transition-timing-function: steps(4, end);
+  transition-property: bottom;
+  transition-duration: 2s;
+  transition-timing-function: steps(4, end)
+}
+
+.temp-body {
+  // 왜 전체페이지 탑에 마진이 있는거지..?
+  height: calc(100vh - 44px);
+  position: relative;
+}
+
+p {
+  margin: 10px 0;
+}
+
+.big-divider {
+  border-bottom: 1.2px dashed $darkgreen;
+  @include width-size(0px);
+  margin: 10px auto;
+}
+
+.ticket-box {
+  @include width-size(0px);
+  @include flex-between;
+  margin: 10px auto;
+}
+.ticket-body {
+  background-color: $darkgreen;
+  padding: 5px;
+  width: 85%;
+  @include flex-vertical;
+  @include flex-center;
+  border-left: 2px dotted $beige;
+  border-right: 2px dotted $beige;
+  position: relative;
+
+  p {
+    margin: 0;
+    color: $beige;
+    font-size: 7px;
+    height: 7px;
+    line-height: 10px;
+  }
+
+  .ticket-decor {
+    padding: 5px 0;
+    @include flex-center;
+    margin: 0;
+    position: relative;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+  th {
+    background-color: $darkgreen;
+    color: $beige;
+    padding: 7px 15px;
+    border-top:3px double $beige;
+    border-right: 1px dashed $beige;
+    &:nth-child(3) {
+      border-right: 0px solid $beige;
+    }
+  }
+  td {
+    background-color: $darkgreen;
+    border-top : 1px solid $beige;
+    border-right : 1px dashed $beige;
+    border-bottom:3px double $beige;
+    height: 30px;
+    &:nth-child(3) {
+      border-right: 0px
+    }
+    color: $red;
+    padding: 7px 15px;
+    text-align: center;
+  }
+}
+
+.submit-box {
+  border: 1px solid $beige;
+  background-color: $darkgreen;
+  width: 10%;
+  position: relative;
+  border-right: 2px dotted $beige;
+  .decor-inner {
+    width: 80%;
+    border: 1px solid $beige;
+    height: 95%;
+  }
+  p {
+    margin: auto 30%;
+    transform-origin: 78% 100%;
+    transform: rotate(90deg) translate(0%, 0%);
+    color: $beige;
+    width: 70px;
+    text-align: center;
+    right: 0;
+    position: absolute;
+    top: 50%;
+  }
+}
+
+.decor-top {
+  margin: 0;
+  background: $beige;
+  position: absolute;
+  width: 3.5vw;
+  height: 3.5vw;
+  border-radius: 3.5vw;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.decor-bottom {
+  margin: 0;
+  background: $beige;
+  position: absolute;
+  width: 3.5vw;
+  height: 3.5vw;
+  border-radius: 3.5vw;
+  bottom: -12%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.action-box {
+  margin: 5px auto;
+  background-color: $darkened;
+  @include width-size(0px);
+  @include round-border();
+  border-style: dashed;
+  @include flex-center();
+  @include flex-vertical();
+  height: 110px;
+}
+
+.hos-box {
+  @include round-border();
+  @include width-size(5px);
+  padding: 1px 5px;
+  @include active-background();
+  cursor: pointer;
+  p {
+    margin: 3px 0;
+  }
+}
+
+.auth-box {
+  @include round-border();
+  @include flex-center();
+  width: 50%;
+  padding:5px;
+  margin-bottom: 5px;
+  background-color: $beige;
+  cursor: pointer;
+  p {
+    margin: 3px 0;
+  }
+}
+
+.bottom-space {
+  height: 40px;
+}
+
+.clinic-table {
+  margin: 0px auto 10px;
+  border-collapse: collapse;
+  @include width-size(0px);
+  th, td {
+    text-align: center;
+  }
+  th {
+    padding: 2px 0px;
+    background-color: $darkgreen;
+    color: $beige;
+    border: 3px double $darkgreen;
+  }
+  td {
+    height: 30.8px;
+    border: 1px dotted $darkgreen;
+  }
+}

@@ -1,0 +1,53 @@
+@import '../../styles/utils.scss';
+
+div {
+  margin: 2px auto 0px;
+}
+
+.meta-box {
+  padding: 1px 5px;
+  @include flex-between();
+  @include width-size(5px);
+  @include round-border();
+  p {
+    margin: 0px 4px;
+  }
+}
+
+.tag-box {
+  height:29.3px;
+  font-size: 18px;
+  @include width-size(0px);
+  @include scroll();
+  @include flex-nowrap();
+}
+
+.tag {
+  padding: 1px 5px;
+  margin: 2px 2px 0px 0px;
+  line-height: 25.3px;
+  @include width-content();
+  @include round-border();
+}
+
+.number {
+  @include flex-between();
+  @include width-size(0px)
+}
+
+.icon-box {
+  width:calc(50% - 4px);
+  margin: 2px 0 0;
+  cursor: pointer;
+  @include round-border();
+  @include flex-center();
+  p {
+    margin: 0px 3px;
+    line-height: 24px;
+  }
+}
+
+.price-box {
+  @include width-size(0px);
+}
+

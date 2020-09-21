@@ -1,0 +1,7 @@
+@import '../../styles/utils.scss';
+.map {
+    max-height: 18vh;
+    width: 150px;
+    margin-right:4px;
+    @include round-border();
+}

@@ -1,0 +1,186 @@
+@import '../../styles/utils.scss';
+
+.button {
+    &__container {
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+    }
+    
+    
+}
+
+div {
+    margin: 2px auto 0px;
+  }
+  
+  .category {
+    @include retro-deco($darkgreen, $beige, 5px, 0)
+  }
+  
+  .basic-box {
+
+    @include width-size(0px);
+    @include round-border();
+  }
+  
+  .meta-box {
+    padding: 1px 5px;
+    @include flex-between();
+    @include width-size(5px);
+    @include round-border();
+    p {
+      margin: 0px 4px;
+    }
+  }
+  
+  .tag-box {
+    height:29.3px;
+    @include width-size(0px);
+    @include scroll();
+    @include flex-nowrap();
+  }
+  
+  .tag {
+    padding: 1px 5px;
+    margin: 2px 2px 0px 0px;
+    line-height: 25.3px;
+    @include width-content();
+    @include round-border();
+  }
+  .homepage {
+    margin: 0px 5px 0px 0px;
+    line-height: 25.3px;
+    width: 50%;
+    background-color: Transparent;
+    @include round-border();
+  }
+  .phone {
+    margin: 0px 0px 0px 5px;
+    line-height: 25.3px;
+    width: 50%;
+    background-color: Transparent;
+    @include round-border();
+  }
+  .hos-box {
+    max-height: 18vh;
+    width: 100%;
+    padding-bottom: 5px;
+  }
+  .grade-box {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    
+    @include width-size(0px);
+    @include round-border();
+  }
+  .grade-avg {
+    font-size: 30px;
+    margin: auto;
+  }
+  .grade{
+    display: block;
+    padding-right: 20px;
+    border-right: 3px solid $darkgreen;
+  }
+  .pipe {
+    padding-left: 10px;
+    padding-right: 10px;
+  }  
+  .map-box {
+    padding: 5px;
+    @include width-size(5px);
+    @include round-border();
+  }
+  
+  .hos-name {
+      font-size: 20px;
+  }
+  .vet-name {
+    font-size: 10px;
+  }
+  .day {
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+  }
+  .photo {
+    max-height: 18vh;
+    margin-right:4px;
+    @include round-border();
+  }
+  .column-box {
+    flex: auto;
+    max-height: 18vh;
+    padding-left: 30px;
+    text-align: left;
+    
+  }
+
+  .time-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    min-height: 120px;
+    min-width: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
+  .hos-container {
+    display: flex;
+    @include width-size(0px);
+    border-bottom: 1.3px solid $darkgreen;
+  }
+  .home-container {
+    display: flex;
+    @include width-size(0px);
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .review-main {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .button-container {
+    @include width-size(0px);
+  }
+  .border-button {
+    background-color:$beige;
+    width: 100%;
+    cursor:pointer;
+    color:$darkgreen;
+      font-weight:bold;
+      text-shadow:0px 1px 0px #ffffff;
+    @include flex-center();
+    @include round-border();
+    border-bottom: 3px double $darkgreen;
+    border-right: 3px double $darkgreen;
+    position:relative;
+    p {
+      margin:2px;
+    }
+  }
+  .fav {
+    padding-top: 10px;
+    width: 30px;
+    height: 30px;
+  }
+  .reviews {
+    padding-top: 5px;
+    @include width-size(0px);
+
+  }
+  .more-rev {
+    float: right;
+    padding-top: 3px;
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .rev-box {
+    border-radius: 10px;
+    border: 1.3px solid $darkgreen;
+  }

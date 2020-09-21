@@ -1,0 +1,21 @@
+@import '../../styles/utils.scss';
+
+.price-box {
+  width:100%;
+  margin: 3px auto;
+  @include flex-center;
+  @include round-border();
+}
+
+.menu {
+  width:60%;
+  line-height:25px;
+  margin:0;
+}
+
+.price {
+  width: 20%;
+  line-height:25px;
+  margin:0;
+}
+

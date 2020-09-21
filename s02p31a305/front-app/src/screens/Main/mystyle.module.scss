@@ -1,0 +1,86 @@
+@import '../../styles/utils.scss';
+
+.main-container {
+	width: 100%;
+	top: 45%;
+	@include absolute-xcenter();
+}
+
+.logo-box {
+	color: $darkgreen;
+	@include flex-center();
+	@include width-size(0px);
+	margin-bottom: 7vh;
+	.logo {
+		height: 100px;
+	}
+
+	.phrase {
+		margin: 0;
+		font-family: $title;
+		font-size: 1.5rem;
+		width: 135px;
+		text-align: start;
+		p {
+			margin: 0px;
+			line-height: 2.5rem;
+		}
+		span {
+			font-size: 2.5rem;
+		}
+	}
+}
+
+.keyword-box {
+	width: 80%;
+	max-width: calc(2.5rem * 3 + 250px);
+	@include flex-center();
+	align-content: center;
+	flex-wrap: wrap;
+	margin: 5px auto 7vh;
+	div {
+		margin: 2px 4px;
+		font-style: italic;
+		font-size: 12px;
+	}
+}
+
+.event-box {
+	width: calc(80% - 5px);
+	max-width: calc(2.5rem * 3 + 250px);
+	padding: 5px;
+	position: relative;
+	margin-top: 13px;
+	@include round-border();
+
+	.event-body {
+		margin-top: 7px;
+		@include flex-center();
+
+		.coffee-icon {
+			height: 7vh;
+			max-height: 50px;
+			margin: 10px;
+		}
+
+		.event-phrase {
+			width: 60%;
+			margin: auto 1rem;
+		}
+	}
+	
+
+	
+	.event-title {
+		font-weight: bold;
+		cursor: pointer;
+	}
+	
+
+	
+	.event-header {
+		top: 0;
+		@include absolute-xcenter();
+	}
+}
+

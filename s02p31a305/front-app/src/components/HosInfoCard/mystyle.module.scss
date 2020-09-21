@@ -1,0 +1,83 @@
+@import '../../styles/utils.scss';
+
+
+
+.container-box {
+  @include flex-center();
+  border: 1.3px dotted $darkgreen;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  background-color: $beige;
+  .box-header {
+    @include flex-vertical();
+    width: 65%;
+    .hos-name {
+      width: 100%;
+      margin: 2px 5px 0px;
+      @include stripe-bgc();
+      p {
+        color: $beige;
+        text-align: center;
+      }
+    }
+  }
+
+  .box-body {
+    @include flex-vertical();
+    width: 100%;
+    margin-top: 5px;
+      .meta-box {
+        display: flex;
+        width: 100%;
+        p {
+          margin: 0 10px 0 0;
+          line-height: 15px;
+        }
+        .hos-icon {
+          height: 15px;
+          width: 15px;
+          margin-right: 5px;
+        }
+      }
+
+      .tag-box {
+        height:29.3px;
+        width: 100%;
+        @include scroll();
+        @include flex-nowrap();
+        .tag {
+          padding: 1px 5px;
+          margin: 2px 2px 0px 0px;
+          line-height: 25.3px;
+          @include width-content();
+          @include round-border();
+        }
+      }
+
+      .hos-address {
+        margin: 5px 0;
+      }
+  }
+
+  .hos-photo-box {
+    width: 25%;
+    margin:auto;
+    .hos-photo {
+      @include crop-centered();
+      width: 100%;
+      max-height: 120px;
+      border: 1.3px dotted $darkgreen;
+      border-radius: 5px;
+    }
+  }
+}
+
+.map-info-box {
+  border: 1.3px solid $darkgreen;
+  margin: 0;
+  position: absolute;
+  bottom: 10px;
+  left: 0.5%;
+  width: 99%;
+  z-index: 999999999999999;
+}

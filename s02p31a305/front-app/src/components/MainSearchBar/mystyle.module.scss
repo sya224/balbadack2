@@ -1,0 +1,27 @@
+@import '../../styles/utils.scss';
+
+
+
+.main-search {
+    width: 80%;
+    max-width: calc(2.5rem * 3 + 250px);
+    height:35px;
+    .search-btn {
+        width: 35px;
+        height: 35px;
+        border: 0px;
+        cursor: pointer;
+    }
+}
+
+.res-search {
+    width: 90%;
+    height: 30px;
+    margin-top: 5px;
+    .search-btn {
+        width: 30px;
+        height: 30px;
+        border: 0px;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,27 @@
+@import '../../styles/utils.scss';
+
+div {
+  margin: 2px auto 0px;
+}
+
+.category {
+  @include retro-deco($darkgreen, $beige, 5px, 0)
+}
+
+.basic-box {
+  padding: 5px;
+  @include width-size(5px);
+  @include round-border();
+}
+
+.meta-box {
+  padding: 1px 5px;
+  @include flex-between();
+  @include width-size(5px);
+  @include round-border();
+  p {
+    margin: 0px 4px;
+  }
+}
+
+

@@ -1,0 +1,136 @@
+@import '../../styles/utils.scss';
+
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+  
+  path,
+  polygon,
+  rect {
+    fill:$darkgreen;
+  }
+  
+  circle {
+    stroke: $darkgreen;
+    stroke-width: 1;
+  }
+}
+
+.datePicker {
+  width: 100%;
+  position: relative;
+
+  &Label, &Selector {
+    border: 1.3px solid $darkgreen;
+    border-radius: 5px;
+    padding: 1.5em;
+    background-color: $beige;
+  }
+  
+  &Selector {
+    padding: 0;
+    margin-top: 1em;
+    overflow: hidden;
+    display: none;
+    width: 100%;
+    
+    moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+
+    &.active {
+      display: inline-block;
+      z-index: 99999999999999999999999;
+      position: absolute;
+      bottom: -290%;
+      left: -1.3px;
+    }
+    
+    &Table {
+      width: 100%;
+      border-collapse: collapse;
+      
+      tr {
+        border-bottom: 1px solid $darkgreen;
+        &:last-child { border-bottom: 0 }
+      }
+      
+      td {
+        border-right: 1px solid $darkgreen;
+        &:last-child { border-right: 0 }
+      }
+      
+      &Header {
+        &CurrentMonth {
+          text-align: center
+        }
+        
+        &PreviousMonth, &NextMonth {
+          display: block;
+          margin: auto;
+          path { fill: $darkgreen };
+          &:hover path { fill: lighten($darkgreen, 4%) };
+          cursor: pointer;
+        }
+      }
+      
+      &Days {
+        width: calc(100% / 7);
+        &:hover {
+          background: lighten($darkgreen, 4%);
+          color: $beige;
+        }
+        
+        &, &NotInMonth {
+          cursor: pointer;
+        }
+        
+        &, &Header, &NotInMonth, &Selected {
+          text-align: center;
+        }
+        
+        &Header {
+          font-weight: bold;
+        }
+        
+        &NotInMonth {
+          color: $beige;
+          
+          &:hover {
+            background: $darkgreen;
+          }
+        }
+        
+        &Selected {
+          background:$darkgreen;
+          color:$beige;
+          border-left: 0;
+          cursor: default;
+        }
+      }
+    }
+  }
+  
+  &Caret {
+    transform: rotate(90deg);
+    margin-top: 0.18em;
+    float: right;
+    
+    path { 
+      fill: #444;
+    }
+  }
+  
+  &Label:hover {
+    border-color: $darkgreen;
+    @include active-background();
+
+
+    .datePicker {
+      &Caret path {
+        font-weight: bold;
+      }
+    }
+  }
+}

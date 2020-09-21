@@ -1,0 +1,107 @@
+@import '../../styles/utils.scss';
+
+div {
+  margin: 2px auto 0px;
+}
+
+.category {
+  @include retro-deco($darkgreen, $beige, 5px, 0)
+}
+
+.basic-box {
+  padding: 5px;
+  @include width-size(5px);
+  @include round-border();
+}
+
+.meta-box {
+  padding: 1px 5px;
+  @include flex-between();
+  @include width-size(5px);
+  @include round-border();
+  p {
+    margin: 0px 4px;
+  }
+}
+
+.tag-box {
+  height:29.3px;
+  @include width-size(0px);
+  @include scroll();
+  @include flex-nowrap();
+}
+
+.tag {
+  padding: 1px 5px;
+  margin: 2px 2px 0px 0px;
+  line-height: 25.3px;
+  @include width-content();
+  @include round-border();
+}
+
+.number {
+  @include flex-around();
+  @include width-size(0px)
+}
+
+.icon-box {
+  width:32%;
+  @include round-border();
+  @include flex-center();
+  p {
+    margin: 0px 3px;
+    line-height: 24px;
+  }
+}
+
+.price-box {
+  @include width-size(0px);
+}
+
+.photo-box {
+  height:calc(18vh + 4px);
+  @include flex-nowrap();
+
+}
+
+.photo {
+  max-height: 15vh;
+  max-width: 15vh;
+  border-radius: 10px;
+  border: 1.3px solid $darkgreen;
+}
+
+.column-box {
+  width: 300px;
+  max-height: 15vh;
+  border-radius: 10px;
+  border: 1.3px solid $darkgreen;
+}
+.container-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  min-height: 120px;
+  min-width: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left;
+  @include width-size(0px)
+}
+
+.modal {
+  position: absolute;
+  background-color: $beige;
+  width: 90%;
+  height: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1.3px solid $darkgreen;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  &:focus {
+    outline: none;
+  }
+}

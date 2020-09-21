@@ -1,0 +1,13 @@
+@import '../../styles/utils.scss';
+
+.rating-box {
+  display:flex;
+  margin: 1px auto;
+  @include flex-center();
+}
+
+.box-item {
+  margin: 0;
+  line-height: 24px;
+  width: 6rem;
+}
